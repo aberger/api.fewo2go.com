@@ -1,0 +1,24 @@
+{"taxi": [
+		  {
+		  "id":2200,
+		  "title":"Taxi-Funk Zentrale",
+		  "phone_numbers":[
+						   "+49 831 25552", "+49 831 25555", "+49 831 23333", "+49 831 19410"
+						   ]
+		  },
+		  {
+		  "id":2210,
+		  "title":"Taxi-Ruf Zentrale",
+		  "phone_numbers":[
+						   "+49 831 77777"
+						   ]
+		  },
+		  {
+		  "id":2220,
+		  "title":"Taxi Meisburger",
+		  "phone_numbers":[
+						   "+49 171 8510570"
+						   ]
+		  }
+		  ]
+}

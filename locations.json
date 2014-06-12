@@ -1,0 +1,237 @@
+{
+    "locations": [
+        {
+			"id": 1000,
+			"title": "Eing\u00e4nge zum Gel\u00e4nde",
+			"objects": [
+				{
+					"id":1001,
+					"title":"Tor Nord",
+					"location": {"lat":47.727528, "long":10.312553}
+				},
+				{
+					"id":1002,
+					"title":"Tor Ost",
+					"location": {"lat":47.725706, "long":10.313178}
+				},
+				{
+					"id":1003,
+					"title":"Tor S\u00fcd",
+					"location": {"lat":47.724402, "long":10.313254}
+				},
+				{
+					"id":1004,
+					"title":"Tor West",
+					"location": {"lat":47.725369, "long":10.310882}
+				}
+			]
+		},
+        {
+			"id": 1100,
+			"title": "Messehallen",
+			"objects": [
+				{
+					"id":1101,
+					"title":"Messehalle 1",
+					"location": {"lat":47.725126, "long":10.311452}
+				},
+				{
+					"id":1102,
+					"title":"Messehalle 2",
+					"location": {"lat":47.725237, "long":10.312037}
+				},
+				{
+					"id":1103,
+					"title":"Messehalle 3",
+					"location": {"lat":47.725292, "long":10.312337}
+				},
+				{
+					"id":1104,
+					"title":"Messehalle 4",
+					"location": {"lat":47.725346, "long":10.312600}
+				},
+				{
+					"id":1105,
+					"title":"Messehalle 5",
+					"location": {"lat":47.725147, "long":10.313716},
+					"outline": {
+						"type":"polygon", 
+						"coordinates": [
+							{"lat":47.725362, "long":10.313703},
+							{"lat":47.725234, "long":10.314086},
+							{"lat":47.724972, "long":10.313727},
+							{"lat":47.725122, "long":10.313370}							
+							]
+						}
+				},
+				{
+					"id":1106,
+					"title":"Messehalle 6",
+					"location": {"lat":47.726688, "long":10.312589}
+				},
+				{
+					"id":1107,
+					"title":"Messehalle 7",
+					"location": {"lat":47.726702, "long":10.311903}
+				},
+				{
+					"id":1108,
+					"title":"Messehalle 7a",
+					"location": {"lat":47.726627, "long":10.311640}
+				},
+				{
+					"id":1109,
+					"title":"Messehalle 8",
+					"location": {"lat":47.727024, "long":10.312246}
+				},
+				{
+					"id":1110,
+					"title":"Messehalle 9",
+					"location": {"lat":47.726731, "long":10.310910}
+				},
+				{
+					"id":1111,
+					"title":"Messehalle 10",
+					"location": {"lat":47.725649, "long":10.311350}
+				},
+				{
+					"id":1112,
+					"title":"Messehalle 10a",
+					"location": {"lat":47.725537, "long":10.310964}
+				},
+				{
+					"id":1113,
+					"title":"Messehalle 11",
+					"location": {"lat":47.725818, "long":10.310047}
+				},
+				{
+					"id":1114,
+					"title":"Messehalle 12",
+					"location": {"lat":47.725992, "long":10.309639}
+				},
+				{
+					"id":1115,
+					"title":"Messehalle 12a",
+					"location": {"lat":47.725981, "long":10.309408}
+				},
+				{
+					"id":1116,
+					"title":"Messehalle 13",
+					"location": {"lat":47.726269, "long":10.309194}
+				}
+			]
+		},
+        {
+			"id": 1200,
+			"title": "Essen und Trinken",
+			"objects": [
+				{
+					"id":1201,
+					"title":"Bierzelt",
+					"location": {"lat":47.724754, "long":10.312552}
+				},
+				{
+					"id":1202,
+					"title":"Zum Stift",
+					"location": {"lat":47.725277, "long":10.313389},
+					"outline": {
+						"type":"polygon", 
+						"coordinates": [
+							{"lat":47.725490, "long":10.313410},
+							{"lat":47.725376, "long":10.313697},
+							{"lat":47.725129, "long":10.313335},
+							{"lat":47.725281, "long":10.313091}
+							]
+						}
+				},
+				{
+					"id":1203,
+					"title":"Parkterrasse",
+					"location": {"lat":47.726230, "long":10.312466}
+				},
+				{
+					"id":1204,
+					"title":"Milchzelt",
+					"location": {"lat":47.726226, "long":10.309988}
+				},
+				{
+					"id":1205,
+					"title":"Schubkarchstand",
+					"location": {"lat":47.725753, "long":10.311897}
+				},
+				{
+					"id":1206,
+					"title":"Caf\u00e9 am Zumsteinhaus",
+					"location": {"lat":47.727457, "long":10.312273}
+				},
+				{
+					"id":1207,
+					"title":"Imbissst\u00e4nde",
+					"location": {"lat":47.725959, "long":10.312922}
+				},
+				{
+					"id":1208,
+					"title":"Pavillion",
+					"location": {"lat":47.725721, "long":10.312268},
+					"outline": {
+						"type":"circle", 
+						"coordinate": {"lat":47.725721, "long":10.312268},
+						"radius": 5
+					}
+				}
+			]
+		},
+        {
+            "id": 1300,
+            "title": "Weitere Angebote",
+            "objects": [
+                {
+                    "id": 1301,
+                    "title": "Zumsteinhaus",
+                    "location": {"lat":47.727579, "long":10.311968}
+                },
+                {
+                    "id": 1302,
+                    "title": "B\u00fchne im Stadtpark",
+                    "location": {"lat":47.726229, "long":10.312158}
+                },
+                {
+                    "id": 1303,
+                    "title": "Kulturtreff",
+                    "location": {"lat":47.727481, "long": 10.311920}
+                },
+                {
+                    "id": 1304,
+                    "title": "Kreativ-Werkstatt mit Kindergarten",
+                    "location": {"lat":47.726399, "long":10.310425}
+                }
+            ]
+        },
+        {
+            "id": 1400,
+            "title": "Messeservice",
+            "objects": [
+                {
+                    "id": 1401,
+                    "title": "Messeleitung",
+                    "location": {"lat":47.725622, "long":10.312663}
+                },
+                {
+                    "id": 1402,
+                    "title": "Busb\u00e4nderverkauf",
+                    "location": {"lat":47.725648, "long":10.313612}
+                },
+                {
+                    "id": 1403,
+                    "title": "Sicherheitszentrale",
+                    "location": {"lat":47.724677, "long":10.311810}
+                },
+                {
+                    "id": 1404,
+                    "title": "Schlie\u00dff\u00e4cher",
+                    "location": {"lat":47.726052, "long":10.312910}
+                }
+            ]
+		}
+    ]
+}

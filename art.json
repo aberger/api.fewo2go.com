@@ -1,0 +1,83 @@
+{"art": [
+			{
+			"id": 3000,
+			"day": "",
+			"objects": [
+						{
+						"id": 3001,
+						"title": "64. Kunstaustellung",
+						"image": "",
+						"entry_date": "",
+						"start_date": "",
+						"end_date": "",
+						"description": "Die Kunstausstellung ist bis 08. September 2013 t\u00e4glich von 10:00 bis 18:00 Uhr ge\u00f6ffnet.<br><br>Neue Ideen der Allg\u00e4uer K\u00fcnstler sind in der aktuellen Ausstellung zu sehen. Die gr\u00f6\u00dfte Kunstschau im Allg\u00e4u vereint unterschiedlichste Auffassungen, Materialien und Kunstkonzepte. Neu ist in diesem Jahr die Erweiterung der Ausstellung in den Stadtraum. Die drei gro\u00dfen Kunstpreise - Kunstpreis der Stadt Kempten, Thomas-Dachser-Gedenkpreis f\u00fcr Malerei oder Bildhauerei sowie der F\u00f6rderpreis f\u00fcr junge Kunst - machen die Festwochen-Ausstellung f\u00fcr K\u00fcnstler und Besucher attraktiv. W\u00e4hrend der Ausstellungszeit sind die Besucher eingeladen, ihr Lieblingswerk zu k\u00fcren. Den Publikumspreis 2013 stiftet Fuchs PR & Consulting in Kempten.",
+						"ticket_link": ""
+						}
+						]
+			},
+			{
+			"id": 3200,
+			"day": "2014-08-08T00:00:00+02:00",
+			"objects": [
+						{
+						"id": 3201,
+						"title": "Feuerwerk",
+						"image": "",
+						"entry_date": "2014-08-08T19:00:00+02:00",
+						"start_date": "2014-08-08T20:00:00+02:00",
+						"end_date": "",
+						"description": "",
+						"ticket_link": ""
+						}
+						]
+			},
+	  		{
+  			"id": 3400,
+  			"day": "2014-08-10T00:00:00+02:00",
+  			"objects": [
+						{
+						"id": 3401,
+						"title": "Lichterfest",
+						"image": "",
+						"entry_date": "2014-08-10T19:00:00+02:00",
+						"start_date": "2014-08-10T20:00:00+02:00",
+						"end_date": "",
+						"description": "Ausweichtermin 13.08.",
+						"ticket_link": ""
+						}
+						]
+			},
+			{
+			"id": 3500,
+			"day": "2014-08-11T00:00:00+02:00",
+			"objects": [
+						{
+						"id": 3501,
+						"title": "Seniorentag",
+						"image": "",
+						"entry_date": "2014-08-10T19:00:00+02:00",
+						"start_date": "2014-08-10T20:00:00+02:00",
+						"end_date": "",
+						"description": "",
+						"ticket_link": ""
+						}
+						]
+			},
+  	  		{
+			"id": 3600,
+			"day": "2014-08-12T00:00:00+02:00",
+			"objects": [
+						{
+						"id": 3601,
+						"title": "Familientag",
+						"image": "",
+						"entry_date": "2014-08-12T19:00:00+02:00",
+						"start_date": "2014-08-12T20:00:00+02:00",
+						"end_date": "",
+						"description": "",
+						"ticket_link": ""
+						}
+						]
+			}
+    ]
+}

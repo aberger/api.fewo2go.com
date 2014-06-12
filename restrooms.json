@@ -1,0 +1,80 @@
+{
+    "restrooms": [
+		{
+		"id": 1500,
+		"title": "Toiletten",
+		"objects": [
+				{
+				"id": 1501,
+				"title": "Toilette",
+				"location": {"lat":47.727497, "long":10.312030}
+				},
+				{
+				"id": 1502,
+				"title": "Toilette",
+				"location": {"lat":47.726119, "long":10.309355}
+				},
+				{
+				"id": 1503,
+				"title": "Toilette",
+				"location": {"lat":47.725997, "long":10.310154}
+				},
+				{
+				"id": 1504,
+				"title": "Toilette",
+				"location": {"lat":47.725156, "long":10.311489}
+				},
+				{
+				"id": 1505,
+				"title": "Toilette",
+				"location": {"lat":47.724629, "long":10.312878}
+				},
+				{
+				"id": 1506,
+				"title": "Toilette",
+				"location": {"lat":47.724802, "long":10.312014}
+				},
+				{
+				"id": 1507,
+				"title": "Toilette",
+				"location": {"lat":47.724754, "long":10.312034}
+				},
+				{
+				"id": 1508,
+				"title": "Toilette",
+				"location": {"lat":47.724776, "long":10.313466}
+				},
+				{
+				"id": 1509,
+				"title": "Toilette",
+				"location": {"lat":47.725689, "long":10.313005}
+				},
+				{
+				"id": 1510,
+				"title": "Toilette",
+				"location": {"lat":47.725772, "long":10.313021}
+				},
+				{
+				"id": 1511,
+				"title": "Toilette",
+				"location": {"lat":47.725845, "long":10.313036}
+				},
+				{
+				"id": 1512,
+				"title": "Toilette",
+				"location": {"lat":47.725952, "long":10.313048}
+				},
+				{
+				"id": 1513,
+				"title": "Toilette",
+				"location": {"lat":47.725576, "long":10.313509}
+				},
+				{
+				"id": 1514,
+				"title": "Toilette",
+				"location": {"lat":47.726713, "long":10.313015}
+				}
+				  ]
+		}
+    ]
+}

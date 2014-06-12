@@ -1,0 +1,51 @@
+{"parking": [
+			 {
+			 "id":2300,
+			 "title":"Park & Ride Parkpl\u00e4tze",
+			 "parking_lots":[
+							 {
+							 "id":2301,
+							 "title":"Heussring",
+							 "location": {"lat":47.710237, "long":10.300745}
+							 },
+							 {
+							 "id":2302,
+							 "title":"Eisstadion",
+							 "location": {"lat":47.744788, "long":10.302738}
+							 },
+							 {
+							 "id":2303,
+							 "title":"Artilleriekaserne",
+							 "location": {"lat":47.735697, "long":10.325356}
+							 }
+							 ]
+			 },
+			 {
+			 "id":2310,
+			 "title":"Behinderten-Parkpl\u00e4tze",
+			 "parking_lots":[
+							 {
+							 "id":2311,
+							 "title":"Am Lyzeum",
+							 "location": {"lat":47.726068, "long":10.313778}
+							 },
+							 {
+							 "id":2312,
+							 "title":"Am Tor Nord",
+							 "location": {"lat":47.727668, "long":10.312795}
+							 }
+							 ]
+			 },
+			 {
+			 "id":2320,
+			 "title":"Fahrrad-Parkplatz",
+			 "parking_lots":[
+							 {
+							 "id":2321,
+							 "title":"Am Tor S\u00fcd",
+							 "location": {"lat":47.724376, "long":10.312882}
+							 }
+							 ]
+			 }
+			 ]
+}
