@@ -7,22 +7,26 @@
 				{
 					"id":1001,
 					"title":"Tor Nord",
-					"location": {"lat":47.727528, "long":10.312553}
+					"location": {"lat":47.727528, "long":10.312553},
+					"details": {}
 				},
 				{
 					"id":1002,
 					"title":"Tor Ost",
-					"location": {"lat":47.725706, "long":10.313178}
+					"location": {"lat":47.725706, "long":10.313178},
+					"details": {}
 				},
 				{
 					"id":1003,
 					"title":"Tor S\u00fcd",
-					"location": {"lat":47.724402, "long":10.313254}
+					"location": {"lat":47.724402, "long":10.313254},
+					"details": {}
 				},
 				{
 					"id":1004,
 					"title":"Tor West",
-					"location": {"lat":47.725369, "long":10.310882}
+					"location": {"lat":47.725369, "long":10.310882},
+					"details": {}
 				}
 			]
 		},
@@ -33,22 +37,35 @@
 				{
 					"id":1101,
 					"title":"Messehalle 1",
-					"location": {"lat":47.725126, "long":10.311452}
+					"location": {"lat":47.725126, "long":10.311452},
+					"details": {
+						"exhibitors": [
+							{
+								"name": "number 1"
+							},
+							{
+								"name": "number 2"
+							}
+						]
+					}
 				},
 				{
 					"id":1102,
 					"title":"Messehalle 2",
-					"location": {"lat":47.725237, "long":10.312037}
+					"location": {"lat":47.725237, "long":10.312037},
+					"details": {}
 				},
 				{
 					"id":1103,
 					"title":"Messehalle 3",
-					"location": {"lat":47.725292, "long":10.312337}
+					"location": {"lat":47.725292, "long":10.312337},
+					"details": {}
 				},
 				{
 					"id":1104,
 					"title":"Messehalle 4",
-					"location": {"lat":47.725346, "long":10.312600}
+					"location": {"lat":47.725346, "long":10.312600},
+					"details": {}
 				},
 				{
 					"id":1105,
@@ -62,62 +79,74 @@
 							{"lat":47.724972, "long":10.313727},
 							{"lat":47.725122, "long":10.313370}							
 							]
-						}
+						},
+					"details": {}
 				},
 				{
 					"id":1106,
 					"title":"Messehalle 6",
-					"location": {"lat":47.726688, "long":10.312589}
+					"location": {"lat":47.726688, "long":10.312589},
+					"details": {}
 				},
 				{
 					"id":1107,
 					"title":"Messehalle 7",
-					"location": {"lat":47.726702, "long":10.311903}
+					"location": {"lat":47.726702, "long":10.311903},
+					"details": {}
 				},
 				{
 					"id":1108,
 					"title":"Messehalle 7a",
-					"location": {"lat":47.726627, "long":10.311640}
+					"location": {"lat":47.726627, "long":10.311640},
+					"details": {}
 				},
 				{
 					"id":1109,
 					"title":"Messehalle 8",
-					"location": {"lat":47.727024, "long":10.312246}
+					"location": {"lat":47.727024, "long":10.312246},
+					"details": {}
 				},
 				{
 					"id":1110,
 					"title":"Messehalle 9",
-					"location": {"lat":47.726731, "long":10.310910}
+					"location": {"lat":47.726731, "long":10.310910},
+					"details": {}
 				},
 				{
 					"id":1111,
 					"title":"Messehalle 10",
-					"location": {"lat":47.725649, "long":10.311350}
+					"location": {"lat":47.725649, "long":10.311350},
+					"details": {}
 				},
 				{
 					"id":1112,
 					"title":"Messehalle 10a",
-					"location": {"lat":47.725537, "long":10.310964}
+					"location": {"lat":47.725537, "long":10.310964},
+					"details": {}
 				},
 				{
 					"id":1113,
 					"title":"Messehalle 11",
-					"location": {"lat":47.725818, "long":10.310047}
+					"location": {"lat":47.725818, "long":10.310047},
+					"details": {}
 				},
 				{
 					"id":1114,
 					"title":"Messehalle 12",
-					"location": {"lat":47.725992, "long":10.309639}
+					"location": {"lat":47.725992, "long":10.309639},
+					"details": {}
 				},
 				{
 					"id":1115,
 					"title":"Messehalle 12a",
-					"location": {"lat":47.725981, "long":10.309408}
+					"location": {"lat":47.725981, "long":10.309408},
+					"details": {}
 				},
 				{
 					"id":1116,
 					"title":"Messehalle 13",
-					"location": {"lat":47.726269, "long":10.309194}
+					"location": {"lat":47.726269, "long":10.309194},
+					"details": {}
 				}
 			]
 		},
@@ -128,7 +157,8 @@
 				{
 					"id":1201,
 					"title":"Bierzelt",
-					"location": {"lat":47.724754, "long":10.312552}
+					"location": {"lat":47.724754, "long":10.312552},
+					"details": {}
 				},
 				{
 					"id":1202,
@@ -142,32 +172,38 @@
 							{"lat":47.725129, "long":10.313335},
 							{"lat":47.725281, "long":10.313091}
 							]
-						}
+						},
+					"details": {}
 				},
 				{
 					"id":1203,
 					"title":"Parkterrasse",
-					"location": {"lat":47.726230, "long":10.312466}
+					"location": {"lat":47.726230, "long":10.312466},
+					"details": {}
 				},
 				{
 					"id":1204,
 					"title":"Milchzelt",
-					"location": {"lat":47.726226, "long":10.309988}
+					"location": {"lat":47.726226, "long":10.309988},
+					"details": {}
 				},
 				{
 					"id":1205,
 					"title":"Schubkarchstand",
-					"location": {"lat":47.725753, "long":10.311897}
+					"location": {"lat":47.725753, "long":10.311897},
+					"details": {}
 				},
 				{
 					"id":1206,
 					"title":"Caf\u00e9 am Zumsteinhaus",
-					"location": {"lat":47.727457, "long":10.312273}
+					"location": {"lat":47.727457, "long":10.312273},
+					"details": {}
 				},
 				{
 					"id":1207,
 					"title":"Imbissst\u00e4nde",
-					"location": {"lat":47.725959, "long":10.312922}
+					"location": {"lat":47.725959, "long":10.312922},
+					"details": {}
 				},
 				{
 					"id":1208,
@@ -177,7 +213,8 @@
 						"type":"circle", 
 						"coordinate": {"lat":47.725721, "long":10.312268},
 						"radius": 5
-					}
+					},
+					"details": {}
 				}
 			]
 		},
@@ -188,22 +225,26 @@
                 {
                     "id": 1301,
                     "title": "Zumsteinhaus",
-                    "location": {"lat":47.727579, "long":10.311968}
+                    "location": {"lat":47.727579, "long":10.311968},
+					"details": {}
                 },
                 {
                     "id": 1302,
                     "title": "B\u00fchne im Stadtpark",
-                    "location": {"lat":47.726229, "long":10.312158}
+                    "location": {"lat":47.726229, "long":10.312158},
+					"details": {}
                 },
                 {
                     "id": 1303,
                     "title": "Kulturtreff",
-                    "location": {"lat":47.727481, "long": 10.311920}
+                    "location": {"lat":47.727481, "long": 10.311920},
+					"details": {}
                 },
                 {
                     "id": 1304,
                     "title": "Kreativ-Werkstatt mit Kindergarten",
-                    "location": {"lat":47.726399, "long":10.310425}
+                    "location": {"lat":47.726399, "long":10.310425},
+					"details": {}
                 }
             ]
         },
@@ -214,22 +255,26 @@
                 {
                     "id": 1401,
                     "title": "Messeleitung",
-                    "location": {"lat":47.725622, "long":10.312663}
+                    "location": {"lat":47.725622, "long":10.312663},
+					"details": {}
                 },
                 {
                     "id": 1402,
                     "title": "Busb\u00e4nderverkauf",
-                    "location": {"lat":47.725648, "long":10.313612}
+                    "location": {"lat":47.725648, "long":10.313612},
+					"details": {}
                 },
                 {
                     "id": 1403,
                     "title": "Sicherheitszentrale",
-                    "location": {"lat":47.724677, "long":10.311810}
+                    "location": {"lat":47.724677, "long":10.311810},
+					"details": {}
                 },
                 {
                     "id": 1404,
                     "title": "Schlie\u00dff\u00e4cher",
-                    "location": {"lat":47.726052, "long":10.312910}
+                    "location": {"lat":47.726052, "long":10.312910},
+					"details": {}
                 }
             ]
 		}
