@@ -4,22 +4,21 @@
             "description": "We are..."
         },
         {
-			"title": "Social",
             "objects": [
                 {
                     "title": "Website",
                     "link": "http://www.fewo2go.com"
                 },
                 {
-                    "title": "LIKE US ON FACEBOOK",
+                    "title": "Like FeWo2Go on Facebook",
                     "link": "https://www.facebook.com/fewo2goapp"
                 },
                 {
-                    "title": "FOLLOW US ON TWITTER",
+                    "title": "Follow @FeWo2Go on Twitter",
                     "link": "https://twitter.com/fewo2go"
                 },
                 {
-                    "title": "FOLLOW US ON INSTAGRAM",
+                    "title": "Follow FeWo2Go on Instagram",
                     "link": "http://instagram.com/fewo2go/"
                 }
             ]
@@ -36,24 +35,24 @@
                     "title": "Alessandro Tramontana",
 					"description": "Art Direction",
                     "link": "#"
+                },
+                {
+                    "title": "Special thanks",
+                    "link": "#",
+					"target": "webview"
                 }
             ]
         },
         {
-			"title": "App Store Review",
             "objects": [
                 {
-                    "title": "REVIEW FEWO2GO ON ITUNES",
+                    "title": "FeWo2Go im App Store bewerten",
                     "link": "http://itunes.com/some"
-                }
-            ]
-        },
-        {
-			"title": "Privacy Policy",
-            "objects": [
+                },
                 {
-                    "title": "PRIVACY POLICY",
-                    "link": "http://www.fewo2go.com/privacy"
+                    "title": "Privacy Policy",
+                    "link": "http://www.fewo2go.com/privacy",
+					"target": "webview"
                 }
             ]
         }

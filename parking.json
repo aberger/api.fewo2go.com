@@ -1,51 +1,260 @@
-{"parking": [
-			 {
-			 "id":2300,
-			 "title":"Park & Ride Parkpl\u00e4tze",
-			 "parking_lots":[
-							 {
-							 "id":2301,
-							 "title":"Heussring",
-							 "location": {"lat":47.710237, "long":10.300745}
-							 },
-							 {
-							 "id":2302,
-							 "title":"Eisstadion",
-							 "location": {"lat":47.744788, "long":10.302738}
-							 },
-							 {
-							 "id":2303,
-							 "title":"Artilleriekaserne",
-							 "location": {"lat":47.735697, "long":10.325356}
-							 }
-							 ]
-			 },
-			 {
-			 "id":2310,
-			 "title":"Behinderten-Parkpl\u00e4tze",
-			 "parking_lots":[
-							 {
-							 "id":2311,
-							 "title":"Am Lyzeum",
-							 "location": {"lat":47.726068, "long":10.313778}
-							 },
-							 {
-							 "id":2312,
-							 "title":"Am Tor Nord",
-							 "location": {"lat":47.727668, "long":10.312795}
-							 }
-							 ]
-			 },
-			 {
-			 "id":2320,
-			 "title":"Fahrrad-Parkplatz",
-			 "parking_lots":[
-							 {
-							 "id":2321,
-							 "title":"Am Tor S\u00fcd",
-							 "location": {"lat":47.724376, "long":10.312882}
-							 }
-							 ]
-			 }
-			 ]
+{
+    "parking": [
+        {
+            "id": 2300,
+            "title": "Park \u0026 Ride Parkpl\u00E4tze",
+            "parking_lots": [
+                {
+                    "id": 2301,
+                    "title": "Hochschule",
+                    "location": {
+                        "lat": 47.715137,
+                        "long": 10.314136
+                    }
+                },
+                {
+                    "id": 2302,
+                    "title": "Eisstadion",
+                    "location": {
+                        "lat": 47.744788,
+                        "long": 10.302738
+                    }
+                },
+                {
+                    "id": 2303,
+                    "title": "Artilleriekaserne",
+                    "location": {
+                        "lat": 47.735697,
+                        "long": 10.325356
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2310,
+            "title": "Parken in der Innenstadt",
+            "parking_lots": [
+                {
+                    "id": 2311,
+                    "title": "Burgstra\u00DFe (Altstadt)",
+                    "type": "Tiefgarage",
+                    "parking_spots": 72,
+                    "heigt": 2,
+                    "opening_hours": "durchgehend",
+                    "location": {
+                        "lat": 47.724316,
+                        "long": 10.320213
+                    }
+                },
+                {
+                    "id": 2312,
+                    "title": "Pfeilergraben",
+                    "type": "Parkplatz",
+                    "parking_spots": 130,
+                    "opening_hours": "durchgehend",
+                    "location": {
+                        "lat": 47.728813,
+                        "long": 10.314706
+                    }
+                },
+                {
+                    "id": 2313,
+                    "title": "Kaufhof",
+                    "type": "Tiefgarage",
+                    "parking_spots": 160,
+                    "heigt": 1.8,
+                    "opening_hours": "Info-Tel. 0831-25340",
+                    "location": {
+                        "lat": 47.728006,
+                        "long": 10.315573
+                    }
+                },
+                {
+                    "id": 2314,
+                    "title": "Am Rathaus",
+                    "type": "Parkhaus",
+                    "parking_spots": 483,
+                    "heigt": 2,
+                    "opening_hours": "durchgehend",
+                    "location": {
+                        "lat": 47.725372,
+                        "long": 10.316777
+                    }
+                },
+                {
+                    "id": 2315,
+                    "title": "Reischmann",
+                    "type": "Parkhaus",
+                    "parking_spots": 210,
+                    "heigt": 2,
+                    "opening_hours": "Mo. – Sa., 7:00 – 20:00 Uhr",
+                    "location": {
+                        "lat": 47.723585,
+                        "long": 10.314788
+                    }
+                },
+                {
+                    "id": 2316,
+                    "title": "K\u00F6nigsplatz",
+                    "type": "Tiefgarage",
+                    "parking_spots": 250,
+                    "heigt": 2.1,
+                    "opening_hours": "Info-Tel. 0831-15735",
+                    "location": {
+                        "lat": 47.724518,
+                        "long": 10.312227
+                    }
+                },
+                {
+                    "id": 2317,
+                    "title": "Colosseum",
+                    "type": "Parkhaus",
+                    "parking_spots": 361,
+                    "heigt": 2,
+                    "opening_hours": "durchgehend",
+                    "location": {
+                        "lat": 47.722260,
+                        "long": 10.312990
+                    }
+                },
+                {
+                    "id": 2318,
+                    "title": "Forum Allg\u00E4u",
+                    "type": "Parkhaus",
+                    "parking_spots": 1070,
+                    "heigt": 2,
+                    "opening_hours": "Info-Tel. 0831-697390",
+                    "location": {
+                        "lat": 47.719783,
+                        "long": 10.316137
+                    }
+                },
+                {
+                    "id": 2319,
+                    "title": "Allg\u00E4uhalle",
+                    "type": "Parkplatz",
+                    "parking_spots": 450,
+                    "opening_hours": "Dauerparken",
+                    "location": {
+                        "lat": 47.719852,
+                        "long": 10.317188
+                    }
+                },
+                {
+                    "id": 2320,
+                    "title": "K \u0026 L Ruppert",
+                    "type": "Tiefgarage",
+                    "parking_spots": 54,
+                    "heigt": 2.1,
+                    "opening_hours": "Info-Tel. 0831-5222270",
+                    "location": {
+                        "lat": 47.723481,
+                        "long": 10.316303
+                    }
+                },
+                {
+                    "id": 2321,
+                    "title": "Hildegardplatz",
+                    "type": "Parkplatz",
+                    "parking_spots": 113,
+                    "opening_hours": "Kurzparken",
+                    "location": {
+                        "lat": 47.728050,
+                        "long": 10.310888
+                    }
+                },
+                {
+                    "id": 2322,
+                    "title": "Marstall\u002FMuseum",
+                    "type": "Parkplatz",
+                    "parking_spots": 40,
+                    "opening_hours": "Kurzparken",
+                    "location": {
+                        "lat": 47.729787,
+                        "long": 10.311547
+                    }
+                },
+                {
+                    "id": 2323,
+                    "title": "Rottachstra\u00DFe West",
+                    "type": "Parkplatz",
+                    "parking_spots": 80,
+                    "opening_hours": "Dauerparken",
+                    "location": {
+                        "lat": 47.731469,
+                        "long": 10.314002
+                    }
+                },
+                {
+                    "id": 2324,
+                    "title": "Rottachstra\u00DFe Ost",
+                    "type": "Parkplatz",
+                    "parking_spots": 370,
+                    "opening_hours": "Dauerparken",
+                    "location": {
+                        "lat": 47.730600,
+                        "long": 10.316035
+                    }
+                },
+                {
+                    "id": 2325,
+                    "title": "Illerdamm",
+                    "type": "Parkplatz",
+                    "parking_spots": 480,
+                    "opening_hours": "Dauerparken",
+                    "location": {
+                        "lat": 47.729491,
+                        "long": 10.318982
+                    }
+                },
+                {
+                    "id": 2326,
+                    "title": "Eberhardstra\u00DFe",
+                    "type": "Parkplatz",
+                    "parking_spots": 40,
+                    "opening_hours": "Kurzparken",
+                    "location": {
+                        "lat": 47.726360,
+                        "long": 10.310161
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2330,
+            "title": "Behinderten-Parkpl\u00E4tze",
+            "parking_lots": [
+                {
+                    "id": 2331,
+                    "title": "Am Lyzeum",
+                    "location": {
+                        "lat": 47.726068,
+                        "long": 10.313778
+                    }
+                },
+                {
+                    "id": 2332,
+                    "title": "Am Tor Nord",
+                    "location": {
+                        "lat": 47.727668,
+                        "long": 10.312795
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2340,
+            "title": "Fahrrad-Parkplatz",
+            "parking_lots": [
+                {
+                    "id": 2341,
+                    "title": "Am Tor S\u00FCd",
+                    "location": {
+                        "lat": 47.724376,
+                        "long": 10.312882
+                    }
+                }
+            ]
+        }
+    ]
 }
