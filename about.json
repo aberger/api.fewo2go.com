@@ -4,55 +4,55 @@
             "description": "We are..."
         },
         {
-			"name": "Social",
+			"title": "Social",
             "objects": [
                 {
-                    "name": "Website",
+                    "title": "Website",
                     "link": "http://www.fewo2go.com"
                 },
                 {
-                    "name": "LIKE US ON FACEBOOK",
+                    "title": "LIKE US ON FACEBOOK",
                     "link": "https://www.facebook.com/fewo2goapp"
                 },
                 {
-                    "name": "FOLLOW US ON TWITTER",
+                    "title": "FOLLOW US ON TWITTER",
                     "link": "https://twitter.com/fewo2go"
                 },
                 {
-                    "name": "FOLLOW US ON INSTAGRAM",
+                    "title": "FOLLOW US ON INSTAGRAM",
                     "link": "http://instagram.com/fewo2go/"
                 }
             ]
         },
         {
-			"name": "Team",
+			"title": "Team",
             "objects": [
                 {
-                    "name": "Alex Berger",
+                    "title": "Alex Berger",
 					"description": "Idee und Umsetzung",
                     "link": "http://aberger.me"
                 },
                 {
-                    "name": "Alessandro Tramontana",
+                    "title": "Alessandro Tramontana",
 					"description": "Art Direction",
                     "link": "#"
                 }
             ]
         },
         {
-			"name": "App Store Review",
+			"title": "App Store Review",
             "objects": [
                 {
-                    "name": "REVIEW FEWO2GO ON ITUNES",
+                    "title": "REVIEW FEWO2GO ON ITUNES",
                     "link": "http://itunes.com/some"
                 }
             ]
         },
         {
-			"name": "Privacy Policy",
+			"title": "Privacy Policy",
             "objects": [
                 {
-                    "name": "PRIVACY POLICY",
+                    "title": "PRIVACY POLICY",
                     "link": "http://www.fewo2go.com/privacy"
                 }
             ]
