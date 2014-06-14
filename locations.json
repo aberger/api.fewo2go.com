@@ -49,18 +49,20 @@
                         "lat": 47.725126,
                         "long": 10.311452
                     },
-                    "details": {
-                        "exhibitors": [
-                            {
-                                "name": "number 1",
-                                "exhibition_stand": "10A"
-                            },
-                            {
-                                "name": "number 2",
-                                "exhibition_stand": "10B"
-                            }
-                        ]
-                    }
+                    "details": [
+   					 	{
+                           "exhibitors": [
+                               {
+                                   "name": "Exhibitor No. 1",
+                                   "exhibition_stand": "Exhibitor Stand 10A"
+                               },
+                               {
+                                   "name": "Exhibitor No. 2",
+                                   "exhibition_stand": "Exhibitor Stand 12E"
+                               }
+                           ]
+                       }
+                    ]
                 },
                 {
                     "id": 1102,
@@ -69,18 +71,20 @@
                         "lat": 47.725237,
                         "long": 10.312037
                     },
-                    "details": {
-                        "exhibitors": [
-                            {
-                                "name": "number 1",
-                                "exhibition_stand": "10A"
-                            },
-                            {
-                                "name": "number 2",
-                                "exhibition_stand": "10B"
-                            }
-                        ]
-                    }
+                    "details": [
+   					 	{
+                           "exhibitors": [
+                               {
+                                   "name": "Exhibitor No. 1",
+                                   "exhibition_stand": "Exhibitor Stand 10A"
+                               },
+                               {
+                                   "name": "Exhibitor No. 2",
+                                   "exhibition_stand": "Exhibitor Stand 12E"
+                               }
+                           ]
+                       }
+                    ]
                 },
                 {
                     "id": 1103,
@@ -89,18 +93,20 @@
                         "lat": 47.725292,
                         "long": 10.312337
                     },
-                    "details": {
-                        "exhibitors": [
-                            {
-                                "name": "number 1",
-                                "exhibition_stand": "10A"
-                            },
-                            {
-                                "name": "number 2",
-                                "exhibition_stand": "10B"
-                            }
-                        ]
-                    }
+                    "details": [
+   					 	{
+                           "exhibitors": [
+                               {
+                                   "name": "Exhibitor No. 1",
+                                   "exhibition_stand": "Exhibitor Stand 10A"
+                               },
+                               {
+                                   "name": "Exhibitor No. 2",
+                                   "exhibition_stand": "Exhibitor Stand 12E"
+                               }
+                           ]
+                       }
+                    ]
                 },
                 {
                     "id": 1104,
@@ -109,18 +115,20 @@
                         "lat": 47.725346,
                         "long": 10.3126
                     },
-                    "details": {
-                        "exhibitors": [
-                            {
-                                "name": "number 1",
-                                "exhibition_stand": "10A"
-                            },
-                            {
-                                "name": "number 2",
-                                "exhibition_stand": "10B"
-                            }
-                        ]
-                    }
+                    "details": [
+   					 	{
+                           "exhibitors": [
+                               {
+                                   "name": "Exhibitor No. 1",
+                                   "exhibition_stand": "Exhibitor Stand 10A"
+                               },
+                               {
+                                   "name": "Exhibitor No. 2",
+                                   "exhibition_stand": "Exhibitor Stand 12E"
+                               }
+                           ]
+                       }
+                    ]
                 },
                 {
                     "id": 1105,
@@ -150,18 +158,20 @@
                             }
                         ]
                     },
-                    "details": {
-                        "exhibitors": [
-                            {
-                                "name": "number 1",
-                                "exhibition_stand": "10A"
-                            },
-                            {
-                                "name": "number 2",
-                                "exhibition_stand": "10B"
-                            }
-                        ]
-                    }
+                    "details": [
+   					 	{
+                           "exhibitors": [
+                               {
+                                   "name": "Exhibitor No. 1",
+                                   "exhibition_stand": "Exhibitor Stand 10A"
+                               },
+                               {
+                                   "name": "Exhibitor No. 2",
+                                   "exhibition_stand": "Exhibitor Stand 12E"
+                               }
+                           ]
+                       }
+                    ]
                 },
                 {
                     "id": 1106,
@@ -170,18 +180,20 @@
                         "lat": 47.726688,
                         "long": 10.312589
                     },
-                    "details": {
-                        "exhibitors": [
-                            {
-                                "name": "number 1",
-                                "exhibition_stand": "10A"
-                            },
-                            {
-                                "name": "number 2",
-                                "exhibition_stand": "10B"
-                            }
-                        ]
-                    }
+                    "details": [
+   					 	{
+                           "exhibitors": [
+                               {
+                                   "name": "Exhibitor No. 1",
+                                   "exhibition_stand": "Exhibitor Stand 10A"
+                               },
+                               {
+                                   "name": "Exhibitor No. 2",
+                                   "exhibition_stand": "Exhibitor Stand 12E"
+                               }
+                           ]
+                       }
+                    ]
                 },
                 {
                     "id": 1107,
@@ -190,18 +202,20 @@
                         "lat": 47.726702,
                         "long": 10.311903
                     },
-                    "details": {
-                        "exhibitors": [
-                            {
-                                "name": "number 1",
-                                "exhibition_stand": "10A"
-                            },
-                            {
-                                "name": "number 2",
-                                "exhibition_stand": "10B"
-                            }
-                        ]
-                    }
+                    "details": [
+   					 	{
+                           "exhibitors": [
+                               {
+                                   "name": "Exhibitor No. 1",
+                                   "exhibition_stand": "Exhibitor Stand 10A"
+                               },
+                               {
+                                   "name": "Exhibitor No. 2",
+                                   "exhibition_stand": "Exhibitor Stand 12E"
+                               }
+                           ]
+                       }
+                    ]
                 },
                 {
                     "id": 1108,
@@ -210,18 +224,20 @@
                         "lat": 47.726627,
                         "long": 10.31164
                     },
-                    "details": {
-                        "exhibitors": [
-                            {
-                                "name": "number 1",
-                                "exhibition_stand": "10A"
-                            },
-                            {
-                                "name": "number 2",
-                                "exhibition_stand": "10B"
-                            }
-                        ]
-                    }
+                    "details": [
+   					 	{
+                           "exhibitors": [
+                               {
+                                   "name": "Exhibitor No. 1",
+                                   "exhibition_stand": "Exhibitor Stand 10A"
+                               },
+                               {
+                                   "name": "Exhibitor No. 2",
+                                   "exhibition_stand": "Exhibitor Stand 12E"
+                               }
+                           ]
+                       }
+                    ]
                 },
                 {
                     "id": 1109,
@@ -230,18 +246,20 @@
                         "lat": 47.727024,
                         "long": 10.312246
                     },
-                    "details": {
-                        "exhibitors": [
-                            {
-                                "name": "number 1",
-                                "exhibition_stand": "10A"
-                            },
-                            {
-                                "name": "number 2",
-                                "exhibition_stand": "10B"
-                            }
-                        ]
-                    }
+                    "details": [
+   					 	{
+                           "exhibitors": [
+                               {
+                                   "name": "Exhibitor No. 1",
+                                   "exhibition_stand": "Exhibitor Stand 10A"
+                               },
+                               {
+                                   "name": "Exhibitor No. 2",
+                                   "exhibition_stand": "Exhibitor Stand 12E"
+                               }
+                           ]
+                       }
+                    ]
                 },
                 {
                     "id": 1110,
@@ -250,18 +268,20 @@
                         "lat": 47.726731,
                         "long": 10.31091
                     },
-                    "details": {
-                        "exhibitors": [
-                            {
-                                "name": "number 1",
-                                "exhibition_stand": "10A"
-                            },
-                            {
-                                "name": "number 2",
-                                "exhibition_stand": "10B"
-                            }
-                        ]
-                    }
+                    "details": [
+   					 	{
+                           "exhibitors": [
+                               {
+                                   "name": "Exhibitor No. 1",
+                                   "exhibition_stand": "Exhibitor Stand 10A"
+                               },
+                               {
+                                   "name": "Exhibitor No. 2",
+                                   "exhibition_stand": "Exhibitor Stand 12E"
+                               }
+                           ]
+                       }
+                    ]
                 },
                 {
                     "id": 1111,
@@ -270,18 +290,20 @@
                         "lat": 47.725649,
                         "long": 10.31135
                     },
-                    "details": {
-                        "exhibitors": [
-                            {
-                                "name": "number 1",
-                                "exhibition_stand": "10A"
-                            },
-                            {
-                                "name": "number 2",
-                                "exhibition_stand": "10B"
-                            }
-                        ]
-                    }
+                    "details": [
+   					 	{
+                           "exhibitors": [
+                               {
+                                   "name": "Exhibitor No. 1",
+                                   "exhibition_stand": "Exhibitor Stand 10A"
+                               },
+                               {
+                                   "name": "Exhibitor No. 2",
+                                   "exhibition_stand": "Exhibitor Stand 12E"
+                               }
+                           ]
+                       }
+                    ]
                 },
                 {
                     "id": 1112,
@@ -290,18 +312,20 @@
                         "lat": 47.725537,
                         "long": 10.310964
                     },
-                    "details": {
-                        "exhibitors": [
-                            {
-                                "name": "number 1",
-                                "exhibition_stand": "10A"
-                            },
-                            {
-                                "name": "number 2",
-                                "exhibition_stand": "10B"
-                            }
-                        ]
-                    }
+                    "details": [
+   					 	{
+                           "exhibitors": [
+                               {
+                                   "name": "Exhibitor No. 1",
+                                   "exhibition_stand": "Exhibitor Stand 10A"
+                               },
+                               {
+                                   "name": "Exhibitor No. 2",
+                                   "exhibition_stand": "Exhibitor Stand 12E"
+                               }
+                           ]
+                       }
+                    ]
                 },
                 {
                     "id": 1113,
@@ -310,18 +334,20 @@
                         "lat": 47.725818,
                         "long": 10.310047
                     },
-                    "details": {
-                        "exhibitors": [
-                            {
-                                "name": "number 1",
-                                "exhibition_stand": "10A"
-                            },
-                            {
-                                "name": "number 2",
-                                "exhibition_stand": "10B"
-                            }
-                        ]
-                    }
+                    "details": [
+   					 	{
+                           "exhibitors": [
+                               {
+                                   "name": "Exhibitor No. 1",
+                                   "exhibition_stand": "Exhibitor Stand 10A"
+                               },
+                               {
+                                   "name": "Exhibitor No. 2",
+                                   "exhibition_stand": "Exhibitor Stand 12E"
+                               }
+                           ]
+                       }
+                    ]
                 },
                 {
                     "id": 1114,
@@ -330,18 +356,20 @@
                         "lat": 47.725992,
                         "long": 10.309639
                     },
-                    "details": {
-                        "exhibitors": [
-                            {
-                                "name": "number 1",
-                                "exhibition_stand": "10A"
-                            },
-                            {
-                                "name": "number 2",
-                                "exhibition_stand": "10B"
-                            }
-                        ]
-                    }
+                    "details": [
+   					 	{
+                           "exhibitors": [
+                               {
+                                   "name": "Exhibitor No. 1",
+                                   "exhibition_stand": "Exhibitor Stand 10A"
+                               },
+                               {
+                                   "name": "Exhibitor No. 2",
+                                   "exhibition_stand": "Exhibitor Stand 12E"
+                               }
+                           ]
+                       }
+                    ]
                 },
                 {
                     "id": 1115,
@@ -350,18 +378,20 @@
                         "lat": 47.725981,
                         "long": 10.309408
                     },
-                    "details": {
-                        "exhibitors": [
-                            {
-                                "name": "number 1",
-                                "exhibition_stand": "10A"
-                            },
-                            {
-                                "name": "number 2",
-                                "exhibition_stand": "10B"
-                            }
-                        ]
-                    }
+                    "details": [
+   					 	{
+                           "exhibitors": [
+                               {
+                                   "name": "Exhibitor No. 1",
+                                   "exhibition_stand": "Exhibitor Stand 10A"
+                               },
+                               {
+                                   "name": "Exhibitor No. 2",
+                                   "exhibition_stand": "Exhibitor Stand 12E"
+                               }
+                           ]
+                       }
+                    ]
                 },
                 {
                     "id": 1116,
@@ -370,18 +400,20 @@
                         "lat": 47.726269,
                         "long": 10.309194
                     },
-                    "details": {
-                        "exhibitors": [
-                            {
-                                "name": "number 1",
-                                "exhibition_stand": "10A"
-                            },
-                            {
-                                "name": "number 2",
-                                "exhibition_stand": "10B"
-                            }
-                        ]
-                    }
+                    "details": [
+   					 	{
+                           "exhibitors": [
+                               {
+                                   "name": "Exhibitor No. 1",
+                                   "exhibition_stand": "Exhibitor Stand 10A"
+                               },
+                               {
+                                   "name": "Exhibitor No. 2",
+                                   "exhibition_stand": "Exhibitor Stand 12E"
+                               }
+                           ]
+                       }
+                    ]
                 }
             ]
         },
@@ -396,122 +428,124 @@
                         "lat": 47.724754,
                         "long": 10.312552
                     },
-                    "details": {
-                        "events": [
-                            {
-                                "title": "Stimmung mit der steirischen Showband M\u00FCrztaler",
-                                "start_date": "2014-08-08T19:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit der Musikkapelle Rettenberg",
-                                "start_date": "2014-08-09T11:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit der Musikkapelle Kempten",
-                                "start_date": "2014-08-09T15:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit der Musikkapelle Betzigau",
-                                "start_date": "2014-08-09T19:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit der Stadtkapelle Kempten",
-                                "start_date": "2014-08-10T11:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit der Stadtkapelle Kempten",
-                                "start_date": "2014-08-10T15:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit dem Musikverein Sulzberg",
-                                "start_date": "2014-08-10T19:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit der Stadtkapelle Kempten",
-                                "start_date": "2014-08-11T11:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit der Stadtkapelle Kempten",
-                                "start_date": "2014-08-11T15:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit den Bad Gr\u00F6nenbacher Musikanten",
-                                "start_date": "2014-08-11T19:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit der Stadtkapelle Kempten",
-                                "start_date": "2014-08-12T11:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit der Stadtkapelle Kempten",
-                                "start_date": "2014-08-12T15:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit der Musikkapelle Thalkirchdorf",
-                                "start_date": "2014-08-12T19:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit dem Musikverein G\u00FCnzach",
-                                "start_date": "2014-08-13T11:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit dem Musikverein Altusried",
-                                "start_date": "2014-08-13T15:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit dem Musikverein Westerheim",
-                                "start_date": "2014-08-13T19:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit dem Musikverein Hochgreut",
-                                "start_date": "2014-08-14T11:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit dem Musikverein Heiligkreus",
-                                "start_date": "2014-08-14T15:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit dem Musikverein Buchenberg",
-                                "start_date": "2014-08-14T19:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit dem Musikverein Sontheim",
-                                "start_date": "2014-08-15T11:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit dem Musikverein Krugzell",
-                                "start_date": "2014-08-15T15:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit dem Musikverein Hawangen",
-                                "start_date": "2014-08-15T19:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit dem Musikverein Reichholzried",
-                                "start_date": "2014-08-16T11:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit dem Musikverein Durach",
-                                "start_date": "2014-08-16T15:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit dem Musikverein St. Mang",
-                                "start_date": "2014-08-16T19:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit dem Musikverein Markt Rettenbach",
-                                "start_date": "2014-08-17T11:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit dem Musikverein Ottacker",
-                                "start_date": "2014-08-17T15:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit den Allg\u00E4uer Dorfmusikanten",
-                                "start_date": "2014-08-17T18:30:00+02:00"
-                            }
-                        ]
-                    }
+                    "details": [
+						{
+	                        "events": [
+	                            {
+	                                "title": "Stimmung mit der steirischen Showband M\u00FCrztaler",
+	                                "start_date": "2014-08-08T19:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit der Musikkapelle Rettenberg",
+	                                "start_date": "2014-08-09T11:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit der Musikkapelle Kempten",
+	                                "start_date": "2014-08-09T15:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit der Musikkapelle Betzigau",
+	                                "start_date": "2014-08-09T19:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit der Stadtkapelle Kempten",
+	                                "start_date": "2014-08-10T11:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit der Stadtkapelle Kempten",
+	                                "start_date": "2014-08-10T15:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit dem Musikverein Sulzberg",
+	                                "start_date": "2014-08-10T19:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit der Stadtkapelle Kempten",
+	                                "start_date": "2014-08-11T11:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit der Stadtkapelle Kempten",
+	                                "start_date": "2014-08-11T15:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit den Bad Gr\u00F6nenbacher Musikanten",
+	                                "start_date": "2014-08-11T19:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit der Stadtkapelle Kempten",
+	                                "start_date": "2014-08-12T11:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit der Stadtkapelle Kempten",
+	                                "start_date": "2014-08-12T15:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit der Musikkapelle Thalkirchdorf",
+	                                "start_date": "2014-08-12T19:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit dem Musikverein G\u00FCnzach",
+	                                "start_date": "2014-08-13T11:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit dem Musikverein Altusried",
+	                                "start_date": "2014-08-13T15:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit dem Musikverein Westerheim",
+	                                "start_date": "2014-08-13T19:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit dem Musikverein Hochgreut",
+	                                "start_date": "2014-08-14T11:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit dem Musikverein Heiligkreus",
+	                                "start_date": "2014-08-14T15:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit dem Musikverein Buchenberg",
+	                                "start_date": "2014-08-14T19:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit dem Musikverein Sontheim",
+	                                "start_date": "2014-08-15T11:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit dem Musikverein Krugzell",
+	                                "start_date": "2014-08-15T15:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit dem Musikverein Hawangen",
+	                                "start_date": "2014-08-15T19:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit dem Musikverein Reichholzried",
+	                                "start_date": "2014-08-16T11:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit dem Musikverein Durach",
+	                                "start_date": "2014-08-16T15:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit dem Musikverein St. Mang",
+	                                "start_date": "2014-08-16T19:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit dem Musikverein Markt Rettenbach",
+	                                "start_date": "2014-08-17T11:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit dem Musikverein Ottacker",
+	                                "start_date": "2014-08-17T15:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit den Allg\u00E4uer Dorfmusikanten",
+	                                "start_date": "2014-08-17T18:30:00+02:00"
+	                            }
+	                        ]
+	                    }
+                    ]
                 },
                 {
                     "id": 1202,
@@ -541,83 +575,103 @@
                             }
                         ]
                     },
-                    "details": {
-                        "general_info": [
-                            {
-                                "title": "Zum Stift auf der Allg\u00E4uer Festwoche"
-                            },
-                            {
-                                "title": "Telefon",
-                                "phone": "+49 831 22388"
-                            },
-                            {
-                                "title": "E-mail",
-                                "phone": "festwoche@zum-stift.de"
-                            },
-                            {
-                                "title": "Website",
-                                "phone": "www.zum-stift.de"
-                            },
-                            {
-                                "title": "About",
-                                "description": "Mit unserem Konzept schaffen wir einen interessanten Ort auf der Allg\u00E4uer Festwoche f\u00FCr alle Festwochenbesucher.<br><br>Eine Plattform um mit Freunden \u002F Familie, Mitarbeitern, Kunden und Gesch\u00E4ftspartnern, traditionelle und gem\u00FCtliche Augenblicke auf der Allg\u00E4uer Festwoche 2014, zu erleben.<br><br>- Gem\u00FCtlicher und uriger Schenkencharakter<br>- Z\u00FCnftig, allg\u00E4uerisch - bayrische Musik<br>- Ein neuer Treffpunkt f\u00FCr Jung \u0026 Alt in gepflegter Atmosph\u00E4re<br>- Allg\u00E4uerisch - Bayrische Schmankerl<br><br>- Stressfreie Abwicklung Ihrer Reservierung<br><br>- Kartenvorverkauf f\u00FCr die Allg\u00E4uer Festwoche in Verbindung mit Ihrer Reservierung - folglich garantierter Einlass auf das Gel\u00E4nde auch bei Schlie\u00DFung<br>- Kombinierter Charakter aus Zelt und Biergarten<br>- 4 Boxen im Zelt und \u00FCberdachter Biergarten"
-                            }
-                        ],
-                        "events": [
-                            {
-                                "title": "Unterhaltungsmusik mit den HuNis",
-                                "start_date": "2014-08-08T19:00:00+02:00"
-                            },
-                            {
-                                "title": "Fr\u00FChschoppen mit dem Trio Halblang",
-                                "start_date": "2014-08-09T11:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit der Band Buddha Brezn",
-                                "start_date": "2014-08-09T11:00:00+02:00"
-                            },
-                            {
-                                "title": "Fr\u00FChschoppen mit dem Trio Halblang",
-                                "start_date": "2014-08-10T11:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit den Lamas",
-                                "start_date": "2014-08-10T19:00:00+02:00"
-                            },
-                            {
-                                "title": "Fr\u00FChschoppen mit musikalischer Umrahmung von Hubert Weber",
-                                "start_date": "2014-08-11T11:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit der Band Extreme",
-                                "start_date": "2014-08-11T19:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit den Oberallg\u00E4uer Musikanten",
-                                "start_date": "2014-08-12T19:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit der Band Buddha Brezn",
-                                "start_date": "2014-08-13T11:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit der Band Buddha Brezn",
-                                "start_date": "2014-08-14T11:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit den Lamas",
-                                "start_date": "2014-08-15T19:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit der Band Extreme",
-                                "start_date": "2014-08-16T19:00:00+02:00"
-                            },
-                            {
-                                "title": "Unterhaltungsmusik mit der Freistil",
-                                "start_date": "2014-08-17T19:00:00+02:00"
-                            }
-                        ]
-                    }
+                    "details": [
+						{						
+	                        "general_info": [
+	                            {
+	                                "title": "Zum Stift auf der Allg\u00E4uer Festwoche"
+	                            },
+	                            {
+	                                "title": "Telefon",
+	                                "description": "+49 831 22388"
+	                            },
+	                            {
+	                                "title": "E-mail",
+	                                "description": "festwoche@zum-stift.de"
+	                            },
+	                            {
+	                                "title": "Website",
+	                                "description": "www.zum-stift.de"
+	                            },
+	                            {
+	                                "title": "About",
+	                                "description": "Mit unserem Konzept schaffen wir einen interessanten Ort auf der Allg\u00E4uer Festwoche f\u00FCr alle Festwochenbesucher.<br><br>Eine Plattform um mit Freunden \u002F Familie, Mitarbeitern, Kunden und Gesch\u00E4ftspartnern, traditionelle und gem\u00FCtliche Augenblicke auf der Allg\u00E4uer Festwoche 2014, zu erleben.<br><br>- Gem\u00FCtlicher und uriger Schenkencharakter<br>- Z\u00FCnftig, allg\u00E4uerisch - bayrische Musik<br>- Ein neuer Treffpunkt f\u00FCr Jung \u0026 Alt in gepflegter Atmosph\u00E4re<br>- Allg\u00E4uerisch - Bayrische Schmankerl<br><br>- Stressfreie Abwicklung Ihrer Reservierung<br><br>- Kartenvorverkauf f\u00FCr die Allg\u00E4uer Festwoche in Verbindung mit Ihrer Reservierung - folglich garantierter Einlass auf das Gel\u00E4nde auch bei Schlie\u00DFung<br>- Kombinierter Charakter aus Zelt und Biergarten<br>- 4 Boxen im Zelt und \u00FCberdachter Biergarten"
+	                            }
+	                        ],
+	                        "menu": [
+	                            {
+	                                "title": "1/2 Hendl und 1/8 Semmel",
+									"price": 500
+	                            },
+	                            {
+	                                "title": "1/2 Hendl und 1/8 Semmel",
+									"price": 500
+	                            },
+	                            {
+	                                "title": "1/2 Hendl und 1/8 Semmel",
+									"price": 500
+	                            },
+	                            {
+	                                "title": "1/2 Hendl und 1/8 Semmel",
+									"price": 500
+	                            }
+	                        ],
+	                        "events": [
+	                            {
+	                                "title": "Unterhaltungsmusik mit den HuNis",
+	                                "start_date": "2014-08-08T19:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Fr\u00FChschoppen mit dem Trio Halblang",
+	                                "start_date": "2014-08-09T11:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit der Band Buddha Brezn",
+	                                "start_date": "2014-08-09T11:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Fr\u00FChschoppen mit dem Trio Halblang",
+	                                "start_date": "2014-08-10T11:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit den Lamas",
+	                                "start_date": "2014-08-10T19:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Fr\u00FChschoppen mit musikalischer Umrahmung von Hubert Weber",
+	                                "start_date": "2014-08-11T11:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit der Band Extreme",
+	                                "start_date": "2014-08-11T19:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit den Oberallg\u00E4uer Musikanten",
+	                                "start_date": "2014-08-12T19:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit der Band Buddha Brezn",
+	                                "start_date": "2014-08-13T11:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit der Band Buddha Brezn",
+	                                "start_date": "2014-08-14T11:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit den Lamas",
+	                                "start_date": "2014-08-15T19:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit der Band Extreme",
+	                                "start_date": "2014-08-16T19:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit der Freistil",
+	                                "start_date": "2014-08-17T19:00:00+02:00"
+	                            }
+	                        ]
+	                    }
+                    ] 
                 },
                 {
                     "id": 1203,
@@ -745,7 +799,7 @@
                             },
                             {
                                 "title": "Preis",
-                                "description": 300
+                                "description": "3,00 \u20AC"
                             }
                         ]
                     }
