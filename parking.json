@@ -39,7 +39,7 @@
                     "title": "Burgstra\u00DFe (Altstadt)",
                     "type": "Tiefgarage",
                     "parking_spots": 72,
-                    "heigt": 2,
+                    "height": "2,00m",
                     "opening_hours": "durchgehend",
                     "location": {
                         "lat": 47.724316,
@@ -62,7 +62,7 @@
                     "title": "Kaufhof",
                     "type": "Tiefgarage",
                     "parking_spots": 160,
-                    "heigt": 1.8,
+                    "height": "1,80m",
                     "opening_hours": "Info-Tel. 0831-25340",
                     "location": {
                         "lat": 47.728006,
@@ -74,7 +74,7 @@
                     "title": "Am Rathaus",
                     "type": "Parkhaus",
                     "parking_spots": 483,
-                    "heigt": 2,
+                    "height": "2,00m",
                     "opening_hours": "durchgehend",
                     "location": {
                         "lat": 47.725372,
@@ -86,7 +86,7 @@
                     "title": "Reischmann",
                     "type": "Parkhaus",
                     "parking_spots": 210,
-                    "heigt": 2,
+                    "height": "2,00m",
                     "opening_hours": "Mo. – Sa., 7:00 – 20:00 Uhr",
                     "location": {
                         "lat": 47.723585,
@@ -98,7 +98,7 @@
                     "title": "K\u00F6nigsplatz",
                     "type": "Tiefgarage",
                     "parking_spots": 250,
-                    "heigt": 2.1,
+                    "height": "2,10m",
                     "opening_hours": "Info-Tel. 0831-15735",
                     "location": {
                         "lat": 47.724518,
@@ -110,7 +110,7 @@
                     "title": "Colosseum",
                     "type": "Parkhaus",
                     "parking_spots": 361,
-                    "heigt": 2,
+                    "height": "2,00m",
                     "opening_hours": "durchgehend",
                     "location": {
                         "lat": 47.722260,
@@ -122,7 +122,7 @@
                     "title": "Forum Allg\u00E4u",
                     "type": "Parkhaus",
                     "parking_spots": 1070,
-                    "heigt": 2,
+                    "height": "2,00m",
                     "opening_hours": "Info-Tel. 0831-697390",
                     "location": {
                         "lat": 47.719783,
@@ -145,7 +145,7 @@
                     "title": "K \u0026 L Ruppert",
                     "type": "Tiefgarage",
                     "parking_spots": 54,
-                    "heigt": 2.1,
+                    "height": "2,10m",
                     "opening_hours": "Info-Tel. 0831-5222270",
                     "location": {
                         "lat": 47.723481,
