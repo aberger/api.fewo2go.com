@@ -594,7 +594,8 @@
                     },
                     "details": [
 						{						
-	                        "general_info": [
+							"title": "Info",
+	                        "objects": [
 	                            {
 	                                "title": "Zum Stift auf der Allg\u00E4uer Festwoche"
 	                            },
