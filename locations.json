@@ -51,18 +51,19 @@
                     },
                     "details": [
    					 	{
-                           "exhibitors": [
-                               {
-                                   "name": "Exhibitor No. 1",
-                                   "exhibition_stand": "Exhibitor Stand 10A"
-                               },
-                               {
-                                   "name": "Exhibitor No. 2",
-                                   "exhibition_stand": "Exhibitor Stand 12E"
-                               }
-                           ]
-                       }
-                    ]
+							"title": "Aussteller",
+							"objects": [
+								{
+									"name": "Exhibitor No. 1",
+									"exhibition_stand": "Exhibitor Stand 10A"
+								},
+								{
+									"name": "Exhibitor No. 2",
+									"exhibition_stand": "Exhibitor Stand 12E"
+								}
+							]
+						}
+					]
                 },
                 {
                     "id": 1102,
@@ -73,18 +74,19 @@
                     },
                     "details": [
    					 	{
-                           "exhibitors": [
-                               {
-                                   "name": "Exhibitor No. 1",
-                                   "exhibition_stand": "Exhibitor Stand 10A"
-                               },
-                               {
-                                   "name": "Exhibitor No. 2",
-                                   "exhibition_stand": "Exhibitor Stand 12E"
-                               }
-                           ]
-                       }
-                    ]
+							"title": "Aussteller",
+							"objects": [
+								{
+									"name": "Exhibitor No. 1",
+									"exhibition_stand": "Exhibitor Stand 10A"
+								},
+								{
+									"name": "Exhibitor No. 2",
+									"exhibition_stand": "Exhibitor Stand 12E"
+								}
+							]
+						}
+					]
                 },
                 {
                     "id": 1103,
@@ -95,18 +97,19 @@
                     },
                     "details": [
    					 	{
-                           "exhibitors": [
-                               {
-                                   "name": "Exhibitor No. 1",
-                                   "exhibition_stand": "Exhibitor Stand 10A"
-                               },
-                               {
-                                   "name": "Exhibitor No. 2",
-                                   "exhibition_stand": "Exhibitor Stand 12E"
-                               }
-                           ]
-                       }
-                    ]
+							"title": "Aussteller",
+							"objects": [
+								{
+									"name": "Exhibitor No. 1",
+									"exhibition_stand": "Exhibitor Stand 10A"
+								},
+								{
+									"name": "Exhibitor No. 2",
+									"exhibition_stand": "Exhibitor Stand 12E"
+								}
+							]
+						}
+					]
                 },
                 {
                     "id": 1104,
@@ -117,18 +120,19 @@
                     },
                     "details": [
    					 	{
-                           "exhibitors": [
-                               {
-                                   "name": "Exhibitor No. 1",
-                                   "exhibition_stand": "Exhibitor Stand 10A"
-                               },
-                               {
-                                   "name": "Exhibitor No. 2",
-                                   "exhibition_stand": "Exhibitor Stand 12E"
-                               }
-                           ]
-                       }
-                    ]
+							"title": "Aussteller",
+							"objects": [
+								{
+									"name": "Exhibitor No. 1",
+									"exhibition_stand": "Exhibitor Stand 10A"
+								},
+								{
+									"name": "Exhibitor No. 2",
+									"exhibition_stand": "Exhibitor Stand 12E"
+								}
+							]
+						}
+					]
                 },
                 {
                     "id": 1105,
@@ -160,18 +164,19 @@
                     },
                     "details": [
    					 	{
-                           "exhibitors": [
-                               {
-                                   "name": "Exhibitor No. 1",
-                                   "exhibition_stand": "Exhibitor Stand 10A"
-                               },
-                               {
-                                   "name": "Exhibitor No. 2",
-                                   "exhibition_stand": "Exhibitor Stand 12E"
-                               }
-                           ]
-                       }
-                    ]
+							"title": "Aussteller",
+							"objects": [
+								{
+									"name": "Exhibitor No. 1",
+									"exhibition_stand": "Exhibitor Stand 10A"
+								},
+								{
+									"name": "Exhibitor No. 2",
+									"exhibition_stand": "Exhibitor Stand 12E"
+								}
+							]
+						}
+					]
                 },
                 {
                     "id": 1106,
@@ -182,18 +187,19 @@
                     },
                     "details": [
    					 	{
-                           "exhibitors": [
-                               {
-                                   "name": "Exhibitor No. 1",
-                                   "exhibition_stand": "Exhibitor Stand 10A"
-                               },
-                               {
-                                   "name": "Exhibitor No. 2",
-                                   "exhibition_stand": "Exhibitor Stand 12E"
-                               }
-                           ]
-                       }
-                    ]
+							"title": "Aussteller",
+							"objects": [
+								{
+									"name": "Exhibitor No. 1",
+									"exhibition_stand": "Exhibitor Stand 10A"
+								},
+								{
+									"name": "Exhibitor No. 2",
+									"exhibition_stand": "Exhibitor Stand 12E"
+								}
+							]
+						}
+					]
                 },
                 {
                     "id": 1107,
@@ -204,18 +210,19 @@
                     },
                     "details": [
    					 	{
-                           "exhibitors": [
-                               {
-                                   "name": "Exhibitor No. 1",
-                                   "exhibition_stand": "Exhibitor Stand 10A"
-                               },
-                               {
-                                   "name": "Exhibitor No. 2",
-                                   "exhibition_stand": "Exhibitor Stand 12E"
-                               }
-                           ]
-                       }
-                    ]
+							"title": "Aussteller",
+							"objects": [
+								{
+									"name": "Exhibitor No. 1",
+									"exhibition_stand": "Exhibitor Stand 10A"
+								},
+								{
+									"name": "Exhibitor No. 2",
+									"exhibition_stand": "Exhibitor Stand 12E"
+								}
+							]
+						}
+					]
                 },
                 {
                     "id": 1108,
@@ -226,18 +233,19 @@
                     },
                     "details": [
    					 	{
-                           "exhibitors": [
-                               {
-                                   "name": "Exhibitor No. 1",
-                                   "exhibition_stand": "Exhibitor Stand 10A"
-                               },
-                               {
-                                   "name": "Exhibitor No. 2",
-                                   "exhibition_stand": "Exhibitor Stand 12E"
-                               }
-                           ]
-                       }
-                    ]
+							"title": "Aussteller",
+							"objects": [
+								{
+									"name": "Exhibitor No. 1",
+									"exhibition_stand": "Exhibitor Stand 10A"
+								},
+								{
+									"name": "Exhibitor No. 2",
+									"exhibition_stand": "Exhibitor Stand 12E"
+								}
+							]
+						}
+					]
                 },
                 {
                     "id": 1109,
@@ -248,18 +256,19 @@
                     },
                     "details": [
    					 	{
-                           "exhibitors": [
-                               {
-                                   "name": "Exhibitor No. 1",
-                                   "exhibition_stand": "Exhibitor Stand 10A"
-                               },
-                               {
-                                   "name": "Exhibitor No. 2",
-                                   "exhibition_stand": "Exhibitor Stand 12E"
-                               }
-                           ]
-                       }
-                    ]
+							"title": "Aussteller",
+							"objects": [
+								{
+									"name": "Exhibitor No. 1",
+									"exhibition_stand": "Exhibitor Stand 10A"
+								},
+								{
+									"name": "Exhibitor No. 2",
+									"exhibition_stand": "Exhibitor Stand 12E"
+								}
+							]
+						}
+					]
                 },
                 {
                     "id": 1110,
@@ -270,18 +279,19 @@
                     },
                     "details": [
    					 	{
-                           "exhibitors": [
-                               {
-                                   "name": "Exhibitor No. 1",
-                                   "exhibition_stand": "Exhibitor Stand 10A"
-                               },
-                               {
-                                   "name": "Exhibitor No. 2",
-                                   "exhibition_stand": "Exhibitor Stand 12E"
-                               }
-                           ]
-                       }
-                    ]
+							"title": "Aussteller",
+							"objects": [
+								{
+									"name": "Exhibitor No. 1",
+									"exhibition_stand": "Exhibitor Stand 10A"
+								},
+								{
+									"name": "Exhibitor No. 2",
+									"exhibition_stand": "Exhibitor Stand 12E"
+								}
+							]
+						}
+					]
                 },
                 {
                     "id": 1111,
@@ -292,18 +302,19 @@
                     },
                     "details": [
    					 	{
-                           "exhibitors": [
-                               {
-                                   "name": "Exhibitor No. 1",
-                                   "exhibition_stand": "Exhibitor Stand 10A"
-                               },
-                               {
-                                   "name": "Exhibitor No. 2",
-                                   "exhibition_stand": "Exhibitor Stand 12E"
-                               }
-                           ]
-                       }
-                    ]
+							"title": "Aussteller",
+							"objects": [
+								{
+									"name": "Exhibitor No. 1",
+									"exhibition_stand": "Exhibitor Stand 10A"
+								},
+								{
+									"name": "Exhibitor No. 2",
+									"exhibition_stand": "Exhibitor Stand 12E"
+								}
+							]
+						}
+					]
                 },
                 {
                     "id": 1112,
@@ -314,18 +325,19 @@
                     },
                     "details": [
    					 	{
-                           "exhibitors": [
-                               {
-                                   "name": "Exhibitor No. 1",
-                                   "exhibition_stand": "Exhibitor Stand 10A"
-                               },
-                               {
-                                   "name": "Exhibitor No. 2",
-                                   "exhibition_stand": "Exhibitor Stand 12E"
-                               }
-                           ]
-                       }
-                    ]
+							"title": "Aussteller",
+							"objects": [
+								{
+									"name": "Exhibitor No. 1",
+									"exhibition_stand": "Exhibitor Stand 10A"
+								},
+								{
+									"name": "Exhibitor No. 2",
+									"exhibition_stand": "Exhibitor Stand 12E"
+								}
+							]
+						}
+					]
                 },
                 {
                     "id": 1113,
@@ -336,18 +348,19 @@
                     },
                     "details": [
    					 	{
-                           "exhibitors": [
-                               {
-                                   "name": "Exhibitor No. 1",
-                                   "exhibition_stand": "Exhibitor Stand 10A"
-                               },
-                               {
-                                   "name": "Exhibitor No. 2",
-                                   "exhibition_stand": "Exhibitor Stand 12E"
-                               }
-                           ]
-                       }
-                    ]
+							"title": "Aussteller",
+							"objects": [
+								{
+									"name": "Exhibitor No. 1",
+									"exhibition_stand": "Exhibitor Stand 10A"
+								},
+								{
+									"name": "Exhibitor No. 2",
+									"exhibition_stand": "Exhibitor Stand 12E"
+								}
+							]
+						}
+					]
                 },
                 {
                     "id": 1114,
@@ -358,18 +371,19 @@
                     },
                     "details": [
    					 	{
-                           "exhibitors": [
-                               {
-                                   "name": "Exhibitor No. 1",
-                                   "exhibition_stand": "Exhibitor Stand 10A"
-                               },
-                               {
-                                   "name": "Exhibitor No. 2",
-                                   "exhibition_stand": "Exhibitor Stand 12E"
-                               }
-                           ]
-                       }
-                    ]
+							"title": "Aussteller",
+							"objects": [
+								{
+									"name": "Exhibitor No. 1",
+									"exhibition_stand": "Exhibitor Stand 10A"
+								},
+								{
+									"name": "Exhibitor No. 2",
+									"exhibition_stand": "Exhibitor Stand 12E"
+								}
+							]
+						}
+					]
                 },
                 {
                     "id": 1115,
@@ -380,18 +394,19 @@
                     },
                     "details": [
    					 	{
-                           "exhibitors": [
-                               {
-                                   "name": "Exhibitor No. 1",
-                                   "exhibition_stand": "Exhibitor Stand 10A"
-                               },
-                               {
-                                   "name": "Exhibitor No. 2",
-                                   "exhibition_stand": "Exhibitor Stand 12E"
-                               }
-                           ]
-                       }
-                    ]
+							"title": "Aussteller",
+							"objects": [
+								{
+									"name": "Exhibitor No. 1",
+									"exhibition_stand": "Exhibitor Stand 10A"
+								},
+								{
+									"name": "Exhibitor No. 2",
+									"exhibition_stand": "Exhibitor Stand 12E"
+								}
+							]
+						}
+					]
                 },
                 {
                     "id": 1116,
@@ -402,18 +417,19 @@
                     },
                     "details": [
    					 	{
-                           "exhibitors": [
-                               {
-                                   "name": "Exhibitor No. 1",
-                                   "exhibition_stand": "Exhibitor Stand 10A"
-                               },
-                               {
-                                   "name": "Exhibitor No. 2",
-                                   "exhibition_stand": "Exhibitor Stand 12E"
-                               }
-                           ]
-                       }
-                    ]
+							"title": "Aussteller",
+							"objects": [
+								{
+									"name": "Exhibitor No. 1",
+									"exhibition_stand": "Exhibitor Stand 10A"
+								},
+								{
+									"name": "Exhibitor No. 2",
+									"exhibition_stand": "Exhibitor Stand 12E"
+								}
+							]
+						}
+					]
                 }
             ]
         },
@@ -430,7 +446,8 @@
                     },
                     "details": [
 						{
-	                        "events": [
+							"title": "Showprogramm",
+	                        "objects": [
 	                            {
 	                                "title": "Stimmung mit der steirischen Showband M\u00FCrztaler",
 	                                "start_date": "2014-08-08T19:00:00+02:00"
@@ -598,7 +615,8 @@
 	                                "description": "Mit unserem Konzept schaffen wir einen interessanten Ort auf der Allg\u00E4uer Festwoche f\u00FCr alle Festwochenbesucher.<br><br>Eine Plattform um mit Freunden \u002F Familie, Mitarbeitern, Kunden und Gesch\u00E4ftspartnern, traditionelle und gem\u00FCtliche Augenblicke auf der Allg\u00E4uer Festwoche 2014, zu erleben.<br><br>- Gem\u00FCtlicher und uriger Schenkencharakter<br>- Z\u00FCnftig, allg\u00E4uerisch - bayrische Musik<br>- Ein neuer Treffpunkt f\u00FCr Jung \u0026 Alt in gepflegter Atmosph\u00E4re<br>- Allg\u00E4uerisch - Bayrische Schmankerl<br><br>- Stressfreie Abwicklung Ihrer Reservierung<br><br>- Kartenvorverkauf f\u00FCr die Allg\u00E4uer Festwoche in Verbindung mit Ihrer Reservierung - folglich garantierter Einlass auf das Gel\u00E4nde auch bei Schlie\u00DFung<br>- Kombinierter Charakter aus Zelt und Biergarten<br>- 4 Boxen im Zelt und \u00FCberdachter Biergarten"
 	                            }
 	                        ],
-	                        "menu": [
+							"title": "Speisekarte",
+	                        "objects": [
 	                            {
 	                                "title": "1/2 Hendl und 1/8 Semmel",
 									"price": 500
@@ -616,7 +634,8 @@
 									"price": 500
 	                            }
 	                        ],
-	                        "events": [
+							"title": "Showprogramm",
+	                        "objects": [
 	                            {
 	                                "title": "Unterhaltungsmusik mit den HuNis",
 	                                "start_date": "2014-08-08T19:00:00+02:00"
@@ -789,6 +808,7 @@
                         "long": 10.313612
                     },
                     "details": {
+						"title": "Details",
                         "objects": [
                             {
                                 "title": "Busb\u00E4nder sind am Tor OST\u002FZUM erh\u00E4ltlich"
