@@ -19,6 +19,13 @@
 		  "phone_numbers":[
 						   "+49 171 8510570"
 						   ]
+		  },
+		  {
+		  "id":2230,
+		  "title":"Anruf-Sammeltaxi",
+		  "phone_numbers":[
+						   "+49 800 11 54 600", "+49 831 12555"
+						   ]
 		  }
 		  ]
 }
