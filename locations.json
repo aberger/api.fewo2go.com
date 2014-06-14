@@ -567,7 +567,9 @@
                 {
                     "id": 1202,
                     "title": "Zum Stift",
-                    "location": {
+                    "description": "Mit unserem Konzept schaffen wir einen interessanten Ort auf der Allg\u00E4uer Festwoche f\u00FCr alle Festwochenbesucher.<br><br>Eine Plattform um mit Freunden \u002F Familie, Mitarbeitern, Kunden und Gesch\u00E4ftspartnern, traditionelle und gem\u00FCtliche Augenblicke auf der Allg\u00E4uer Festwoche 2014, zu erleben.<br><br>- Gem\u00FCtlicher und uriger Schenkencharakter<br>- Z\u00FCnftig, allg\u00E4uerisch - bayrische Musik<br>- Ein neuer Treffpunkt f\u00FCr Jung \u0026 Alt in gepflegter Atmosph\u00E4re<br>- Allg\u00E4uerisch - Bayrische Schmankerl<br><br>- Stressfreie Abwicklung Ihrer Reservierung<br><br>- Kartenvorverkauf f\u00FCr die Allg\u00E4uer Festwoche in Verbindung mit Ihrer Reservierung - folglich garantierter Einlass auf das Gel\u00E4nde auch bei Schlie\u00DFung<br>- Kombinierter Charakter aus Zelt und Biergarten<br>- 4 Boxen im Zelt und \u00FCberdachter Biergarten",
+					"image": "http://api.fewo2go.com/assets/events/claire.jpg",
+					"location": {
                         "lat": 47.725277,
                         "long": 10.313389
                     },
@@ -597,7 +599,7 @@
 							"title": "Info",
 	                        "objects": [
 	                            {
-	                                "title": "Zum Stift auf der Allg\u00E4uer Festwoche"
+	                                "title": "Zum Stift auf der Festwoche"
 	                            },
 	                            {
 	                                "title": "Telefon",
@@ -610,10 +612,6 @@
 	                            {
 	                                "title": "Website",
 	                                "description": "www.zum-stift.de"
-	                            },
-	                            {
-	                                "title": "About",
-	                                "description": "Mit unserem Konzept schaffen wir einen interessanten Ort auf der Allg\u00E4uer Festwoche f\u00FCr alle Festwochenbesucher.<br><br>Eine Plattform um mit Freunden \u002F Familie, Mitarbeitern, Kunden und Gesch\u00E4ftspartnern, traditionelle und gem\u00FCtliche Augenblicke auf der Allg\u00E4uer Festwoche 2014, zu erleben.<br><br>- Gem\u00FCtlicher und uriger Schenkencharakter<br>- Z\u00FCnftig, allg\u00E4uerisch - bayrische Musik<br>- Ein neuer Treffpunkt f\u00FCr Jung \u0026 Alt in gepflegter Atmosph\u00E4re<br>- Allg\u00E4uerisch - Bayrische Schmankerl<br><br>- Stressfreie Abwicklung Ihrer Reservierung<br><br>- Kartenvorverkauf f\u00FCr die Allg\u00E4uer Festwoche in Verbindung mit Ihrer Reservierung - folglich garantierter Einlass auf das Gel\u00E4nde auch bei Schlie\u00DFung<br>- Kombinierter Charakter aus Zelt und Biergarten<br>- 4 Boxen im Zelt und \u00FCberdachter Biergarten"
 	                            }
 	                        ]
 						},
