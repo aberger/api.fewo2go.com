@@ -1,7 +1,7 @@
 {
     "about": [
         {
-            "description": "We are a tiny two-man app manufactury... Alex codes in Kempten and Alessandro designes in Hamburg."
+            "description": "We are a tiny two-man app manufactury..."
         },
         {
             "objects": [
@@ -24,32 +24,32 @@
             ]
         },
         {
-			"title": "Team",
+            "title": "Team",
             "objects": [
                 {
                     "title": "Alex Berger",
-					"description": "Idee und Umsetzung",
+                    "description": "Idee und Umsetzung",
                     "link": "http://aberger.me"
                 },
                 {
                     "title": "Alessandro Tramontana",
-					"description": "Art Direction",
+                    "description": "Art Direction",
                     "link": "#"
                 },
                 {
                     "title": "Miriam Janiel",
-					"description": "Projekt Management",
+                    "description": "Projekt Management",
                     "link": "http://miriam.janiel.eu"
                 },
                 {
                     "title": "Michael Ohnrich",
-					"description": "3D Artwork",
+                    "description": "3D Artwork",
                     "link": "http://www.3dohnrich.de"
                 },
                 {
                     "title": "Special thanks",
                     "link": "#",
-					"target": "webview"
+                    "target": "webview"
                 }
             ]
         },
@@ -62,7 +62,7 @@
                 {
                     "title": "Privacy Policy",
                     "link": "http://www.fewo2go.com/privacy",
-					"target": "webview"
+                    "target": "webview"
                 }
             ]
         }
