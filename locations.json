@@ -568,6 +568,7 @@
                     "id": 1202,
                     "title": "Zum Stift",
                     "description": "Herzlich Willkommen im Festgel\u00E4nde Zum Stift\nWir freuen uns auf EUCH Alle und auf eine sch\u00F6ne Allg\u00E4uer Festwoche 2014 bei und mit uns!",
+					"local_image_name": "locations_stift",
 					"location": {
                         "lat": 47.725277,
                         "long": 10.313389
@@ -687,7 +688,7 @@
 	                                "start_date": "2014-08-16T19:00:00+02:00"
 	                            },
 	                            {
-	                                "title": "Unterhaltungsmusik mit der Freistil",
+	                                "title": "Unterhaltungsmusik mit Freistil",
 	                                "start_date": "2014-08-17T19:00:00+02:00"
 	                            }
 	                        ]
