@@ -1,7 +1,7 @@
 {
     "about": [
         {
-            "description": "We are..."
+            "description": "We are a tiny two-man app manufactury...\nAlex codes in Kempten and Alessandro designes in Hamburg."
         },
         {
             "objects": [
@@ -35,6 +35,16 @@
                     "title": "Alessandro Tramontana",
 					"description": "Art Direction",
                     "link": "#"
+                },
+                {
+                    "title": "Miriam Janiel",
+					"description": "Projekt Management",
+                    "link": "http://miriam.janiel.eu"
+                },
+                {
+                    "title": "Michael Ohnrich",
+					"description": "3D Artwork",
+                    "link": "http://www.3dohnrich.de"
                 },
                 {
                     "title": "Special thanks",
