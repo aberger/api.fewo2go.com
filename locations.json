@@ -46,8 +46,8 @@
                     "id": 1101,
                     "title": "Messehalle 1",
                     "location": {
-                        "lat": 47.725126,
-                        "long": 10.311452
+                        "lat": 47.7251119339269,
+                        "long": 10.311593995489
                     },
                     "details": [
    					 	{
@@ -69,8 +69,8 @@
                     "id": 1102,
                     "title": "Messehalle 2",
                     "location": {
-                        "lat": 47.725237,
-                        "long": 10.312037
+                        "lat": 47.7252143375572,
+                        "long": 10.3120334996309
                     },
                     "details": [
    					 	{
@@ -92,8 +92,8 @@
                     "id": 1103,
                     "title": "Messehalle 3",
                     "location": {
-                        "lat": 47.725292,
-                        "long": 10.312337
+                        "lat": 47.7252542245333,
+                        "long": 10.3123226803814
                     },
                     "details": [
    					 	{
@@ -115,8 +115,8 @@
                     "id": 1104,
                     "title": "Messehalle 4",
                     "location": {
-                        "lat": 47.725346,
-                        "long": 10.3126
+                        "lat": 47.7252762780391,
+                        "long": 10.3126108124192
                     },
                     "details": [
    					 	{
@@ -138,8 +138,8 @@
                     "id": 1105,
                     "title": "Messehalle 5",
                     "location": {
-                        "lat": 47.725147,
-                        "long": 10.313716
+                        "lat": 47.7250696085223,
+                        "long": 10.3136124375047
                     },
                     "outline": {
                         "type": "polygon",
@@ -182,8 +182,8 @@
                     "id": 1106,
                     "title": "Messehalle 6",
                     "location": {
-                        "lat": 47.726688,
-                        "long": 10.312589
+                        "lat": 47.726654757552,
+                        "long": 10.3124856119571
                     },
                     "details": [
    					 	{
@@ -205,8 +205,8 @@
                     "id": 1107,
                     "title": "Messehalle 7",
                     "location": {
-                        "lat": 47.726702,
-                        "long": 10.311903
+                        "lat": 47.7266511091047,
+                        "long": 10.3118592867213
                     },
                     "details": [
    					 	{
@@ -228,8 +228,8 @@
                     "id": 1108,
                     "title": "Messehalle 7a",
                     "location": {
-                        "lat": 47.726627,
-                        "long": 10.31164
+                        "lat": 47.7265788969623,
+                        "long": 10.3116761597793
                     },
                     "details": [
    					 	{
@@ -251,8 +251,8 @@
                     "id": 1109,
                     "title": "Messehalle 8",
                     "location": {
-                        "lat": 47.727024,
-                        "long": 10.312246
+                        "lat": 47.7270102146482,
+                        "long": 10.3122639429355
                     },
                     "details": [
    					 	{
@@ -274,8 +274,8 @@
                     "id": 1110,
                     "title": "Messehalle 9",
                     "location": {
-                        "lat": 47.726731,
-                        "long": 10.31091
+                        "lat": 47.7266675623219,
+                        "long": 10.3108984835637
                     },
                     "details": [
    					 	{
@@ -297,8 +297,8 @@
                     "id": 1111,
                     "title": "Messehalle 10",
                     "location": {
-                        "lat": 47.725649,
-                        "long": 10.31135
+                        "lat": 47.7257263243638,
+                        "long": 10.3113740047114
                     },
                     "details": [
    					 	{
@@ -320,8 +320,8 @@
                     "id": 1112,
                     "title": "Messehalle 10a",
                     "location": {
-                        "lat": 47.725537,
-                        "long": 10.310964
+                        "lat": 47.7256379111227,
+                        "long": 10.3110347975028
                     },
                     "details": [
    					 	{
@@ -343,8 +343,8 @@
                     "id": 1113,
                     "title": "Messehalle 11",
                     "location": {
-                        "lat": 47.725818,
-                        "long": 10.310047
+                        "lat": 47.7260260119861,
+                        "long": 10.3100084169022
                     },
                     "details": [
    					 	{
@@ -364,10 +364,10 @@
                 },
                 {
                     "id": 1114,
-                    "title": "Messehalle 12",
+                    "title": "Messehalle 11a",
                     "location": {
-                        "lat": 47.725992,
-                        "long": 10.309639
+                        "lat": 47.7258460772533,
+                        "long": 10.3100636914728
                     },
                     "details": [
    					 	{
@@ -387,10 +387,10 @@
                 },
                 {
                     "id": 1115,
-                    "title": "Messehalle 12a",
+                    "title": "Messehalle 12",
                     "location": {
-                        "lat": 47.725981,
-                        "long": 10.309408
+                        "lat": 47.725986118812,
+                        "long": 10.3097541874976
                     },
                     "details": [
    					 	{
@@ -412,8 +412,8 @@
                     "id": 1116,
                     "title": "Messehalle 13",
                     "location": {
-                        "lat": 47.726269,
-                        "long": 10.309194
+                        "lat": 47.7262137544265,
+                        "long": 10.3091615994436
                     },
                     "details": [
    					 	{
