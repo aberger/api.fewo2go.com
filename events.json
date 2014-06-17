@@ -1,4 +1,15 @@
 {"events": [
+	{
+	"id": 3000,
+	"day": "",
+	"objects": [
+				{
+				"id": 3001,
+				"title": "64. Kunstaustellung",
+				"description": "Die Kunstausstellung ist bis 08. September 2013 t\u00e4glich von 10:00 bis 18:00 Uhr ge\u00f6ffnet.<br><br>Neue Ideen der Allg\u00e4uer K\u00fcnstler sind in der aktuellen Ausstellung zu sehen. Die gr\u00f6\u00dfte Kunstschau im Allg\u00e4u vereint unterschiedlichste Auffassungen, Materialien und Kunstkonzepte. Neu ist in diesem Jahr die Erweiterung der Ausstellung in den Stadtraum. Die drei gro\u00dfen Kunstpreise - Kunstpreis der Stadt Kempten, Thomas-Dachser-Gedenkpreis f\u00fcr Malerei oder Bildhauerei sowie der F\u00f6rderpreis f\u00fcr junge Kunst - machen die Festwochen-Ausstellung f\u00fcr K\u00fcnstler und Besucher attraktiv. W\u00e4hrend der Ausstellungszeit sind die Besucher eingeladen, ihr Lieblingswerk zu k\u00fcren. Den Publikumspreis 2013 stiftet Fuchs PR & Consulting in Kempten."
+			}
+				]
+	},
 			{
 			"id": 3100,
 			"day": "2014-08-07T00:00:00+02:00",
@@ -10,9 +21,20 @@
 						"image": "http://api.fewo2go.com/assets/events/claire.jpg",
 						"entry_date": "2014-08-07T19:00:00+02:00",
 						"start_date": "2014-08-07T20:00:00+02:00",
-						"end_date": "",
 						"description": "Er\u00f6ffnet wird die Festwochen Kultur in diesem Jahr erstmals bereits einen Tag fr\u00fcher - und zwar exklusiv am Donnerstag, 07.08. im Residenzhof.<br><br>Als Warm-Up pr\u00e4sentieren wir euch die Senkrechtstarter der deutschen Musikszene: Claire!<br>Der Ursprung der Band liegt in M\u00fcnchen. Josie-Claire, S\u00e4ngerin und Namensgeberin der Formation, hat ihre Wurzeln jedoch im Allg\u00e4u. Nach Tourneen und Festivalgigs in halb Europa kommt Claire (nach ihrem Auftritt 2013 im K\u00fcnstlerhaus) endlich wieder nach Kempten.<br><br>Kostenloser Eintritt mit dem Konzertticket zur Aftershow im Parktheater!"
 					}
+						]
+			},
+			{
+			"id": 3200,
+			"day": "2014-08-08T00:00:00+02:00",
+			"objects": [
+						{
+						"id": 3201,
+						"title": "Feuerwerk",
+						"entry_date": "2014-08-08T19:00:00+02:00",
+						"start_date": "2014-08-08T20:00:00+02:00"
+						}
 						]
 			},
 	  		{
@@ -26,7 +48,6 @@
 						"image": "http://api.fewo2go.com/assets/events/residenzhofserenade.jpg",
 						"entry_date": "2014-08-09T19:00:00+02:00",
 						"start_date": "2014-08-09T20:00:00+02:00",
-						"end_date": "",
 						"description": "Das Blechbl\u00e4serensemble Abarizzo spielt bereits zum f\u00fcnften Mal in Folge die Residenzhofserenade - und erfreut sich \u00fcberaus gro\u00dfer Beliebtheit. Das Repertoire reicht von Werken aus der Renaissance und der Klassik \u00fcber romantische Musik bis hin zu Kompositionen des 20. Jahrhunderts und Arrangements aus Jazz und Swing. Die unterhaltsam und geistreich moderierten Konzerte des Ensembles sind immer wieder aufs Neue ein Erlebnis."
 					}
 						]
@@ -36,14 +57,33 @@
   			"day": "2014-08-10T00:00:00+02:00",
   			"objects": [
 						{
-						"id": 3402,
+						"id": 3401,
 						"title": "Georg Ringsgwandl",
 						"hosted_by": "Residenzhof",
 						"image": "http://api.fewo2go.com/assets/events/georg_ringsgwandl.jpg",
 						"entry_date": "2014-08-10T19:00:00+02:00",
 						"start_date": "2014-08-10T20:00:00+02:00",
-						"end_date": "",
 						"description": "Mehr Anerkennung in der Arbeit, die Kinder fitter in der Schule, die Frau freundlicher, der Mann ordentlicher, die Figur besser. Es k\u00f6nnte runder laufen im Leben, alles etwas mehr leuchten. Einfach \"Mehr Glanz!\" -So hei\u00dft auch sein neues Programm, welches Ringsgwandl & Band in Kempten pr\u00e4sentieren wird.<br>Seine Konzerte sind immer noch abgedrehte Vorstellungen, inzwischen aber musikalisch ausgeschlafene Programme: â€žEin Paradiesvogel, der immer gekonnter fliegt.â€œ (Hannoversche Allgemeine)"
+					},
+					{
+					"id": 3402,
+					"title": "Lichterfest",
+					"hosted_by": "Stadtpark",
+					"entry_date": "2014-08-10T19:00:00+02:00",
+					"start_date": "2014-08-10T20:00:00+02:00",
+					"description": "Ausweichtermin 13.08."
+					}
+						]
+			},
+			{
+			"id": 3500,
+			"day": "2014-08-11T00:00:00+02:00",
+			"objects": [
+						{
+						"id": 3501,
+						"title": "Seniorentag",
+						"entry_date": "2014-08-10T19:00:00+02:00",
+						"start_date": "2014-08-10T20:00:00+02:00"
 					}
 						]
 			},
@@ -58,7 +98,6 @@
 						"image": "http://api.fewo2go.com/assets/events/westwind.jpg",
 						"entry_date": "2014-08-12T19:00:00+02:00",
 						"start_date": "2014-08-12T20:00:00+02:00",
-						"end_date": "",
 						"description": "Werner Specht geh\u00f6rt seit vielen Jahren zu einem der wichtigsten und profiliertesten Vertretern der Liedermacher-Szene im Allg\u00e4uer Raum. Mit seinem pers\u00f6nlichem Stil, seinen Texten und seiner Musikalit\u00e4t f\u00e4llt er aus dem g\u00e4ngigen Rahmen. Er ist immer am Suchen und Ver\u00e4ndern und versteht seinen musikalischen Weg als Lebensdeutung. Mit seiner Gruppe \"Westwind\", bestehend aus f\u00fcnf Musikern mit S\u00e4ngerin, bekommt seine Musik eine neue Dimension. Ihre Spielfreude geben diese Musiker in ihrer sch\u00f6nsten Form weiter, sie ist sp\u00fcrbar."
 					}
 						]
@@ -72,9 +111,14 @@
 						"title": "Die gro\u00dfe Nachte der Filmmusik",
 						"entry_date": "2014-08-13T19:00:00+02:00",
 						"start_date": "2014-08-13T20:00:00+02:00",
-						"end_date": "",
 						"description": "Weltraumschlachten, Verfolgungsjagden oder Liebesszenen - ohne Musik sind sie auf der Leinwand kaum denkbar. Nach dem Motto â€žSpiel mir das Lied zum Filmâ€œ pr\u00e4sentiert eine Gruppe Allg\u00e4uer K\u00fcnstler unter der Gesamtleitung der Sopranistin Gertrud Hiemer-Haslach einen Abend mit den gr\u00f6\u00dften Musiktiteln der Filmgeschichte. Die Bandbreite reicht von Marlene-Dietrich-Klassikern (â€žKinder, heut Abendâ€¦â€œ) \u00fcber 80er-Jahre-Tanzfilme (â€žDirty Dancingâ€œ) und aktuellen Songs wie â€žSkyfallâ€œ bis hin zu Instrumentaltiteln aus â€žDer mit dem Wolf tanztâ€œ oder â€žTwighlightâ€œ.<br>Au\u00dferdem mit dabei: Pianist Reinhold Ohmayer (Voice 4U), Jazz-S\u00e4ngerin Lydia Schiller, Matthias Haslach (stellv. Solotrompeter der Stuttgarter Philharmoniker), Tom CroÃ¨l (Voice  4U, Face & Voicerience), Roland Wintergerst (Freilichtb\u00fcghne Altusried, U50-Chor Altusried & Musical-Corporation)"
-					}
+					},
+					{
+					"id": 3601,
+					"title": "Familientag",
+					"entry_date": "2014-08-12T19:00:00+02:00",
+					"start_date": "2014-08-12T20:00:00+02:00"
+				}
 						]
 			},
   	  		{
@@ -87,7 +131,6 @@
 						"image": "http://api.fewo2go.com/assets/events/rainer_von_vielen.jpg",
 						"entry_date": "2014-08-14T19:00:00+02:00",
 						"start_date": "2014-08-14T20:00:00+02:00",
-						"end_date": "",
 						"description": "F\u00fcr nachhaltige Zerstreuung, regenerative Euphorie & die globale Erw\u00e4rmung des Weltfriedens. In Zeiten des Kulturpessimismus & der Gleichg\u00fcltigkeit tritt die Allg\u00e4uer Band Rainer von Vielen f\u00fcr eine Erneuerung des Wertekanons der Menschheit ein.<br>â€žEmp\u00f6rt Euch!â€œ, â€žNiedermauernâ€œ, â€žDu bist nicht alleinâ€œ, â€žWenn die Welt untergehtâ€œ â€“ Titel aus dem B\u00fchnenst\u00fcck, die ohne gro\u00dfe Worte die Sto\u00dfrichtung erkennen lassen. Die zeitkritischen, fast zynischen Texte treffen auf klassische Liebeslieder und anscheinend leichte Popsongs, mit denen sich die Welt erkl\u00e4ren l\u00e4sst."
 					}
 						]
@@ -102,7 +145,6 @@
 						"image": "http://api.fewo2go.com/assets/events/gemeinschaftskonzert.jpg",
 						"entry_date": "2014-08-15T18:00:00+02:00",
 						"start_date": "2014-08-15T19:00:00+02:00",
-						"end_date": "",
 						"description": "Den traditionellen Ausklang der Festwochenkultur 2014 \u00fcbernimmt am Freitag der Musikverein Sankt Mang im Rahmen eines Gemeinschaftskonzertes mit dem Musikverein Konzenberg. Der Eintritt ist bei diesem Konzert frei, um Spenden wird gebeten."
 					}
 						]
