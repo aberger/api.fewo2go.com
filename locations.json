@@ -810,22 +810,24 @@
                         "lat": 47.725648,
                         "long": 10.313612
                     },
-                    "details": {
-						"title": "Details",
-                        "objects": [
-                            {
-                                "title": "Busb\u00E4nder sind am Tor OST\u002FZUM erh\u00E4ltlich"
-                            },
-                            {
-                                "title": "\u00D6ffnungszeiten der Verkaufsstelle",
-                                "description": "17:00 bis 0:45 Uhr"
-                            },
-                            {
-                                "title": "Preis",
-                                "description": "3,00 \u20AC"
-                            }
-                        ]
-                    }
+                    "details": [
+						{
+							"title": "Details",
+	                        "objects": [
+	                            {
+	                                "title": "Busb\u00E4nder sind am Tor OST\u002FZUM erh\u00E4ltlich"
+	                            },
+	                            {
+	                                "title": "\u00D6ffnungszeiten der Verkaufsstelle",
+	                                "description": "17:00 bis 0:45 Uhr"
+	                            },
+	                            {
+	                                "title": "Preis",
+	                                "description": "3,00 \u20AC"
+	                            }
+	                        ]
+	                    }
+                    ]
                 },
                 {
                     "id": 1403,
