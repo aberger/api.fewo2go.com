@@ -1,39 +1,321 @@
 {
     "locations": [
         {
-            "id": 1000,
-            "title": "Eing\u00E4nge zum Gel\u00E4nde",
+            "id": 1200,
+            "title": "Essen und Trinken",
             "objects": [
                 {
-                    "id": 1001,
-                    "title": "Tor Nord",
+                    "id": 1201,
+                    "title": "Zum Stift",
+                    "description": "Herzlich Willkommen im Festgel\u00E4nde Zum Stift\nWir freuen uns auf EUCH Alle und auf eine sch\u00F6ne Allg\u00E4uer Festwoche 2014 bei und mit uns!",
+					"local_image_name": "locations_stift",
+					"location": {
+                        "lat": 47.725277,
+                        "long": 10.313389
+                    },
+                    "outline": {
+                        "type": "polygon",
+                        "coordinates": [
+                            {
+                                "lat": 47.72549,
+                                "long": 10.31341
+                            },
+                            {
+                                "lat": 47.725376,
+                                "long": 10.313697
+                            },
+                            {
+                                "lat": 47.725129,
+                                "long": 10.313335
+                            },
+                            {
+                                "lat": 47.725281,
+                                "long": 10.313091
+                            }
+                        ]
+                    },
+                    "details": [
+						{						
+							"title": "Info",
+	                        "objects": [
+	                            {
+	                                "title": "Zum Stift auf der Festwoche"
+	                            },
+	                            {
+	                                "title": "Telefon",
+	                                "description": "+49 831 22388"
+	                            },
+	                            {
+	                                "title": "E-mail",
+	                                "description": "festwoche@zum-stift.de"
+	                            },
+	                            {
+	                                "title": "Website",
+	                                "description": "www.zum-stift.de"
+	                            }
+	                        ]
+						},
+						{
+							"title": "Speisekarte",
+	                        "objects": [
+	                            {
+	                                "title": "Hendl und Semmel",
+									"price": 500
+	                            },
+	                            {
+	                                "title": "Hendl und Semmel",
+									"price": 500
+	                            },
+	                            {
+	                                "title": "Hendl und Semmel",
+									"price": 500
+	                            },
+	                            {
+	                                "title": "Hendl und Semmel",
+									"price": 500
+	                            }
+	                        ]
+						},
+						{
+							"title": "Showprogramm",
+	                        "objects": [
+	                            {
+	                                "title": "Unterhaltungsmusik mit den HuNis",
+	                                "start_date": "2014-08-08T19:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Fr\u00FChschoppen mit Trio Halblang",
+	                                "start_date": "2014-08-09T11:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit Buddha Brezn",
+	                                "start_date": "2014-08-09T15:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Fr\u00FChschoppen mit Trio Halblang",
+	                                "start_date": "2014-08-10T11:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit den Lamas",
+	                                "start_date": "2014-08-10T19:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Fr\u00FChschoppen mit Hubert Weber",
+	                                "start_date": "2014-08-11T11:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit Extreme",
+	                                "start_date": "2014-08-11T19:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Die Oberallg\u00E4uer Musikanten",
+	                                "start_date": "2014-08-12T19:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit Buddha Brezn",
+	                                "start_date": "2014-08-13T11:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit Buddha Brezn",
+	                                "start_date": "2014-08-14T11:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit den Lamas",
+	                                "start_date": "2014-08-15T19:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit Extreme",
+	                                "start_date": "2014-08-16T19:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit Freistil",
+	                                "start_date": "2014-08-17T19:00:00+02:00"
+	                            }
+	                        ]
+	                    }
+                    ] 
+                },
+                {
+                    "id": 1202,
+                    "title": "Parkterrasse",
                     "location": {
-                        "lat": 47.727528,
-                        "long": 10.312553
+                        "lat": 47.72623,
+                        "long": 10.312466
                     }
                 },
                 {
-                    "id": 1002,
-                    "title": "Tor Ost",
+                    "id": 1203,
+                    "title": "Bierzelt",
                     "location": {
-                        "lat": 47.725706,
-                        "long": 10.313178
+                        "lat": 47.724754,
+                        "long": 10.312552
+                    },
+                    "details": [
+						{
+							"title": "Showprogramm",
+	                        "objects": [
+	                            {
+	                                "title": "Steirische Showband M\u00FCrztaler",
+	                                "start_date": "2014-08-08T19:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Musikkapelle Rettenberg",
+	                                "start_date": "2014-08-09T11:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Musikkapelle Kempten",
+	                                "start_date": "2014-08-09T15:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Musikkapelle Betzigau",
+	                                "start_date": "2014-08-09T19:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Stadtkapelle Kempten",
+	                                "start_date": "2014-08-10T11:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Stadtkapelle Kempten",
+	                                "start_date": "2014-08-10T15:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Musikverein Sulzberg",
+	                                "start_date": "2014-08-10T19:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Stadtkapelle Kempten",
+	                                "start_date": "2014-08-11T11:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Stadtkapelle Kempten",
+	                                "start_date": "2014-08-11T15:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Bad Gr\u00F6nenbacher Musikanten",
+	                                "start_date": "2014-08-11T19:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Stadtkapelle Kempten",
+	                                "start_date": "2014-08-12T11:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Stadtkapelle Kempten",
+	                                "start_date": "2014-08-12T15:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Musikkapelle Thalkirchdorf",
+	                                "start_date": "2014-08-12T19:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Musikverein G\u00FCnzach",
+	                                "start_date": "2014-08-13T11:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Musikverein Altusried",
+	                                "start_date": "2014-08-13T15:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Musikverein Westerheim",
+	                                "start_date": "2014-08-13T19:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Musikverein Hochgreut",
+	                                "start_date": "2014-08-14T11:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Musikverein Heiligkreus",
+	                                "start_date": "2014-08-14T15:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Musikverein Buchenberg",
+	                                "start_date": "2014-08-14T19:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Musikverein Sontheim",
+	                                "start_date": "2014-08-15T11:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Musikverein Krugzell",
+	                                "start_date": "2014-08-15T15:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Musikverein Hawangen",
+	                                "start_date": "2014-08-15T19:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Musikverein Reichholzried",
+	                                "start_date": "2014-08-16T11:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Musikverein Durach",
+	                                "start_date": "2014-08-16T15:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Musikverein St. Mang",
+	                                "start_date": "2014-08-16T19:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Musikverein Markt Rettenbach",
+	                                "start_date": "2014-08-17T11:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Musikverein Ottacker",
+	                                "start_date": "2014-08-17T15:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Allg\u00E4uer Dorfmusikanten",
+	                                "start_date": "2014-08-17T18:30:00+02:00"
+	                            }
+	                        ]
+	                    }
+                    ]
+                },
+                {
+                    "id": 1204,
+                    "title": "Milchzelt",
+                    "location": {
+                        "lat": 47.726226,
+                        "long": 10.309988
                     }
                 },
                 {
-                    "id": 1003,
-                    "title": "Tor S\u00FCd",
+                    "id": 1205,
+                    "title": "Schubkarchstand",
                     "location": {
-                        "lat": 47.724402,
-                        "long": 10.313254
+                        "lat": 47.725753,
+                        "long": 10.311897
                     }
                 },
                 {
-                    "id": 1004,
-                    "title": "Tor West",
+                    "id": 1206,
+                    "title": "Caf\u00E9 am Zumsteinhaus",
                     "location": {
-                        "lat": 47.725369,
-                        "long": 10.310882
+                        "lat": 47.727457,
+                        "long": 10.312273
+                    }
+                },
+                {
+                    "id": 1207,
+                    "title": "Imbissst\u00E4nde",
+                    "location": {
+                        "lat": 47.725959,
+                        "long": 10.312922
+                    }
+                },
+                {
+                    "id": 1208,
+                    "title": "Pavillion",
+                    "location": {
+                        "lat": 47.725721,
+                        "long": 10.312268
+                    },
+                    "outline": {
+                        "type": "circle",
+                        "coordinate": {
+                            "lat": 47.725721,
+                            "long": 10.312268
+                        },
+                        "radius": 5
                     }
                 }
             ]
@@ -53,14 +335,253 @@
    					 	{
 							"title": "Aussteller",
 							"objects": [
-								{
-									"title": "Exhibitor No. 1",
-									"description": "Exhibitor Stand 10A"
-								},
-								{
-									"title": "Exhibitor No. 2",
-									"description": "Exhibitor Stand 12E"
-								}
+							    {
+							        "title": "Allg\u00E4uer Zeitungsverlag GmbH",
+							        "title_2": "",
+							        "title_3": "",
+							        "address_street": "Heisinger Stra\u00DFe 14",
+							        "address_zip": 87437,
+							        "address_city": "Kempten (Allg\u00E4u)",
+							        "address_country": "Deutschland",
+							        "address_country_prefix": 49,
+							        "address_phone": "0831/206-0",
+							        "address_fax": "0831/206-379",
+							        "hall": 1,
+							        "booth": 3, 
+							        "industry": [
+							            6,
+							            14
+							        ],
+							        "industry_written": [
+							            "Dienstleistungen - Information",
+							            "Kommunikations- und Informationstechnik"
+							        ],
+							        "products": [
+							            "Zeitung, Anzeigeblatt, Internet, Abo-Service, TV, Radio, Postzustellung, Call-Center"
+							        ]
+							    },
+							    {
+							        "title": "Allg\u00E4uStrom",
+							        "title_2": "c/o Allg\u00E4uer \n00DCberlandwerk",
+							        "title_3": "",
+							        "address_street": "Illerstra\u00DFe 18",
+							        "address_zip": 87435,
+							        "address_city": "Kempten (Allg\u00E4u)",
+							        "address_country": "Deutschland",
+							        "address_country_prefix": 49,
+							        "address_phone": "0831/2521-405",
+							        "address_fax": "0831/2521-790-405",
+							        "hall": 1,
+							        "booth": 8,
+							        "industry": [
+							            8,
+							            24
+							        ],
+							        "industry_written": [
+							            "Energie- und Umwelttechnik - L\u00FCftung",
+							            "Sonderschauen-Erlebnisbereiche-Unterhaltung"
+							        ],
+							        "products": [
+							            "Energieversorgung",
+							            "Energieberatung",
+							            "Energiezukunft",
+							            "F\u00F6rderprogramme",
+							            "Elektromobilit\u00E4t"
+							        ]
+							    },
+							    {
+							        "title": "Polizeipr\u00E4sidium Schwaben",
+							        "title_2": "S\u00FCd/West",
+							        "title_3": "",
+							        "address_street": "Auf der Breite 17",
+							        "address_zip": 87439,
+							        "address_city": "Kempten",
+							        "address_country": "Deutschland",
+							        "address_country_prefix": 49,
+							        "address_phone": "0049 0831/99091011",
+							        "address_fax": "0049 0831/99091019",
+							        "hall": 1,
+							        "booth": 6,
+							        "industry": [
+							            6
+							        ],
+							        "industry_written": [
+							            "Dienstleistungen - Information"
+							        ],
+							        "products": [
+							            "Verkehrs- und Kriminalpr\u00E4vention"
+							        ]
+							    },
+							    {
+							        "title": "bfz gGmbH",
+							        "title_2": "Kempten",
+							        "title_3": "",
+							        "address_street": "Keselstra\u00DFe 14a",
+							        "address_zip": 87435,
+							        "address_city": "Kempten",
+							        "address_country": "Deutschland",
+							        "address_country_prefix": 49,
+							        "address_phone": "0831/52149-12",
+							        "address_fax": "0831/52149-20",
+							        "hall": 1,
+							        "booth": 1,
+							        "industry": [
+							            6,
+							            15
+							        ],
+							        "industry_written": [
+							            "Dienstleistungen - Information",
+							            "Kunst - Kultur - Bildung"
+							        ],
+							        "products": [
+							            "Das bfz Kempten ist ein anerkannter Weiterbildungstr\u00E4ger in der Region mit zwei Fachschulen!"
+							        ]
+							    },
+							    {
+							        "title": "Deutsche Rentenversicherung",
+							        "title_2": "Schwaben",
+							        "title_3": "",
+							        "address_street": "Dieselstra\u00DFe 9",
+							        "address_zip": 86154,
+							        "address_city": "Augsburg",
+							        "address_country": "Deutschland",
+							        "address_country_prefix": 49,
+							        "address_phone": "0049 0821/500-1324",
+							        "address_fax": "0049 0821/500-71324",
+							        "hall": 1,
+							        "booth": 10,
+							        "industry": [
+							            6,
+							            11
+							        ],
+							        "industry_written": [
+							            "Dienstleistungen - Information",
+							            "Gesundheit"
+							        ],
+							        "products": [
+							            "Auskunft und Beratung in allen Fragen der gesetzlichen Rentenversicherung"
+							        ]
+							    },
+							    {
+							        "title": "erdgas schwaben gmbh",
+							        "title_2": "",
+							        "title_3": "",
+							        "address_street": "Bayerstra\u00DFe 43",
+							        "address_zip": 86199,
+							        "address_city": "Augsburg",
+							        "address_country": "Deutschland",
+							        "address_country_prefix": 49,
+							        "address_phone": "0821/9002-318",
+							        "address_fax": "0821/9002-365",
+							        "hall": 1,
+							        "booth": 7,
+							        "industry": [
+							            6,
+							            8
+							        ],
+							        "industry_written": [
+							            "Dienstleistungen - Information",
+							            "Energie- und Umwelttechnik - L\u00FCftung"
+							        ],
+							        "products": [
+							            "Erdgas",
+							            "Bio-Erdgas",
+							            "Bio-Strom",
+							            "Mikro + Mini + BHKW"
+							        ]
+							    },
+							    {
+							        "title": "Fellhornbahn GmbH",
+							        "title_2": "",
+							        "title_3": "",
+							        "address_street": "Faistenoy 10",
+							        "address_zip": 87561,
+							        "address_city": "Oberstdorf",
+							        "address_country": "Deutschland",
+							        "address_country_prefix": 49,
+							        "address_phone": "08322/9600-0",
+							        "address_fax": "08322/9600-3001",
+							        "hall": 1,
+							        "booth": 4,
+							        "industry": [
+							            13
+							        ],
+							        "industry_written": [
+							            "Hobby - Freizeit - Tourismus - Sport"
+							        ],
+							        "products": [
+							            "DAS H\n00D6CHSTE Bergbahnen Oberstdorf/Kleinwalsertal"
+							        ]
+							    },
+							    {
+							        "title": "Gisela und Peter Kr\u00E4mer GbR",
+							        "title_2": "",
+							        "title_3": "",
+							        "address_street": "Bahnhofstr. 6",
+							        "address_zip": 87448,
+							        "address_city": "Waltenhofen",
+							        "address_country": "Deutschland",
+							        "address_country_prefix": 49,
+							        "address_phone": "0049 8303/2619915",
+							        "address_fax": "",
+							        "hall": 1,
+							        "booth": 2,
+							        "industry": [
+							            15
+							        ],
+							        "industry_written": [
+							            "Kunst - Kultur - Bildung"
+							        ],
+							        "products": [
+							            "Coaching",
+							            "Meditation",
+							            "Streitschlichtung"
+							        ]
+							    },
+							    {
+							        "title": "Sparkasse Allg\u00E4u",
+							        "title_2": "",
+							        "title_3": "",
+							        "address_street": "K\u00F6nigsstra\u00DFe 21",
+							        "address_zip": 87435,
+							        "address_city": "Kempten",
+							        "address_country": "Deutschland",
+							        "address_country_prefix": 49,
+							        "address_phone": "0831/2051-0",
+							        "address_fax": "0831/2051-1311",
+							        "hall": 1,
+							        "booth": 5,
+							        "industry": [
+							            6
+							        ],
+							        "industry_written": [
+							            "Dienstleistungen - Information"
+							        ],
+							        "products": [
+							            "Wenn\n00B4s um Geld geht ... Sparkasse"
+							        ]
+							    },
+							    {
+							        "title": "Sozialverband VdK Bayern",
+							        "title_2": "",
+							        "title_3": "",
+							        "address_street": "Schellingstra\u00DFe 31",
+							        "address_zip": 80799,
+							        "address_city": "M\u00FCnchen",
+							        "address_country": "Deutschland",
+							        "address_country_prefix": 49,
+							        "address_phone": "0049 0911/2795592",
+							        "address_fax": "",
+							        "hall": 1,
+							        "booth": 9,
+							        "industry": [
+							            6
+							        ],
+							        "industry_written": [
+							            "Dienstleistungen - Information"
+							        ],
+							        "products": []
+							    }
 							]
 						}
 					]
@@ -434,326 +955,6 @@
             ]
         },
         {
-            "id": 1200,
-            "title": "Essen und Trinken",
-            "objects": [
-                {
-                    "id": 1201,
-                    "title": "Bierzelt",
-                    "location": {
-                        "lat": 47.724754,
-                        "long": 10.312552
-                    },
-                    "details": [
-						{
-							"title": "Showprogramm",
-	                        "objects": [
-	                            {
-	                                "title": "Steirische Showband M\u00FCrztaler",
-	                                "start_date": "2014-08-08T19:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Musikkapelle Rettenberg",
-	                                "start_date": "2014-08-09T11:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Musikkapelle Kempten",
-	                                "start_date": "2014-08-09T15:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Musikkapelle Betzigau",
-	                                "start_date": "2014-08-09T19:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Stadtkapelle Kempten",
-	                                "start_date": "2014-08-10T11:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Stadtkapelle Kempten",
-	                                "start_date": "2014-08-10T15:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Musikverein Sulzberg",
-	                                "start_date": "2014-08-10T19:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Stadtkapelle Kempten",
-	                                "start_date": "2014-08-11T11:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Stadtkapelle Kempten",
-	                                "start_date": "2014-08-11T15:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Bad Gr\u00F6nenbacher Musikanten",
-	                                "start_date": "2014-08-11T19:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Stadtkapelle Kempten",
-	                                "start_date": "2014-08-12T11:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Stadtkapelle Kempten",
-	                                "start_date": "2014-08-12T15:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Musikkapelle Thalkirchdorf",
-	                                "start_date": "2014-08-12T19:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Musikverein G\u00FCnzach",
-	                                "start_date": "2014-08-13T11:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Musikverein Altusried",
-	                                "start_date": "2014-08-13T15:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Musikverein Westerheim",
-	                                "start_date": "2014-08-13T19:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Musikverein Hochgreut",
-	                                "start_date": "2014-08-14T11:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Musikverein Heiligkreus",
-	                                "start_date": "2014-08-14T15:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Musikverein Buchenberg",
-	                                "start_date": "2014-08-14T19:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Musikverein Sontheim",
-	                                "start_date": "2014-08-15T11:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Musikverein Krugzell",
-	                                "start_date": "2014-08-15T15:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Musikverein Hawangen",
-	                                "start_date": "2014-08-15T19:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Musikverein Reichholzried",
-	                                "start_date": "2014-08-16T11:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Musikverein Durach",
-	                                "start_date": "2014-08-16T15:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Musikverein St. Mang",
-	                                "start_date": "2014-08-16T19:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Musikverein Markt Rettenbach",
-	                                "start_date": "2014-08-17T11:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Musikverein Ottacker",
-	                                "start_date": "2014-08-17T15:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Allg\u00E4uer Dorfmusikanten",
-	                                "start_date": "2014-08-17T18:30:00+02:00"
-	                            }
-	                        ]
-	                    }
-                    ]
-                },
-                {
-                    "id": 1202,
-                    "title": "Zum Stift",
-                    "description": "Herzlich Willkommen im Festgel\u00E4nde Zum Stift\nWir freuen uns auf EUCH Alle und auf eine sch\u00F6ne Allg\u00E4uer Festwoche 2014 bei und mit uns!",
-					"local_image_name": "locations_stift",
-					"location": {
-                        "lat": 47.725277,
-                        "long": 10.313389
-                    },
-                    "outline": {
-                        "type": "polygon",
-                        "coordinates": [
-                            {
-                                "lat": 47.72549,
-                                "long": 10.31341
-                            },
-                            {
-                                "lat": 47.725376,
-                                "long": 10.313697
-                            },
-                            {
-                                "lat": 47.725129,
-                                "long": 10.313335
-                            },
-                            {
-                                "lat": 47.725281,
-                                "long": 10.313091
-                            }
-                        ]
-                    },
-                    "details": [
-						{						
-							"title": "Info",
-	                        "objects": [
-	                            {
-	                                "title": "Zum Stift auf der Festwoche"
-	                            },
-	                            {
-	                                "title": "Telefon",
-	                                "description": "+49 831 22388"
-	                            },
-	                            {
-	                                "title": "E-mail",
-	                                "description": "festwoche@zum-stift.de"
-	                            },
-	                            {
-	                                "title": "Website",
-	                                "description": "www.zum-stift.de"
-	                            }
-	                        ]
-						},
-						{
-							"title": "Speisekarte",
-	                        "objects": [
-	                            {
-	                                "title": "Hendl und Semmel",
-									"price": 500
-	                            },
-	                            {
-	                                "title": "Hendl und Semmel",
-									"price": 500
-	                            },
-	                            {
-	                                "title": "Hendl und Semmel",
-									"price": 500
-	                            },
-	                            {
-	                                "title": "Hendl und Semmel",
-									"price": 500
-	                            }
-	                        ]
-						},
-						{
-							"title": "Showprogramm",
-	                        "objects": [
-	                            {
-	                                "title": "Unterhaltungsmusik mit den HuNis",
-	                                "start_date": "2014-08-08T19:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Fr\u00FChschoppen mit Trio Halblang",
-	                                "start_date": "2014-08-09T11:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Unterhaltungsmusik mit Buddha Brezn",
-	                                "start_date": "2014-08-09T15:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Fr\u00FChschoppen mit Trio Halblang",
-	                                "start_date": "2014-08-10T11:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Unterhaltungsmusik mit den Lamas",
-	                                "start_date": "2014-08-10T19:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Fr\u00FChschoppen mit Hubert Weber",
-	                                "start_date": "2014-08-11T11:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Unterhaltungsmusik mit Extreme",
-	                                "start_date": "2014-08-11T19:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Die Oberallg\u00E4uer Musikanten",
-	                                "start_date": "2014-08-12T19:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Unterhaltungsmusik mit Buddha Brezn",
-	                                "start_date": "2014-08-13T11:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Unterhaltungsmusik mit Buddha Brezn",
-	                                "start_date": "2014-08-14T11:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Unterhaltungsmusik mit den Lamas",
-	                                "start_date": "2014-08-15T19:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Unterhaltungsmusik mit Extreme",
-	                                "start_date": "2014-08-16T19:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Unterhaltungsmusik mit Freistil",
-	                                "start_date": "2014-08-17T19:00:00+02:00"
-	                            }
-	                        ]
-	                    }
-                    ] 
-                },
-                {
-                    "id": 1203,
-                    "title": "Parkterrasse",
-                    "location": {
-                        "lat": 47.72623,
-                        "long": 10.312466
-                    }
-                },
-                {
-                    "id": 1204,
-                    "title": "Milchzelt",
-                    "location": {
-                        "lat": 47.726226,
-                        "long": 10.309988
-                    }
-                },
-                {
-                    "id": 1205,
-                    "title": "Schubkarchstand",
-                    "location": {
-                        "lat": 47.725753,
-                        "long": 10.311897
-                    }
-                },
-                {
-                    "id": 1206,
-                    "title": "Caf\u00E9 am Zumsteinhaus",
-                    "location": {
-                        "lat": 47.727457,
-                        "long": 10.312273
-                    }
-                },
-                {
-                    "id": 1207,
-                    "title": "Imbissst\u00E4nde",
-                    "location": {
-                        "lat": 47.725959,
-                        "long": 10.312922
-                    }
-                },
-                {
-                    "id": 1208,
-                    "title": "Pavillion",
-                    "location": {
-                        "lat": 47.725721,
-                        "long": 10.312268
-                    },
-                    "outline": {
-                        "type": "circle",
-                        "coordinate": {
-                            "lat": 47.725721,
-                            "long": 10.312268
-                        },
-                        "radius": 5
-                    }
-                }
-            ]
-        },
-        {
             "id": 1300,
             "title": "Weitere Angebote",
             "objects": [
@@ -783,10 +984,48 @@
                 },
                 {
                     "id": 1304,
-                    "title": "Kreativ-Werkstatt mit Kindergarten",
+                    "title": "Kreativ-Werkstatt",
                     "location": {
                         "lat": 47.726399,
                         "long": 10.310425
+                    }
+                }
+            ]
+        },
+        {
+            "id": 1000,
+            "title": "Eing\u00E4nge zum Gel\u00E4nde",
+            "objects": [
+                {
+                    "id": 1001,
+                    "title": "Tor Nord",
+                    "location": {
+                        "lat": 47.727528,
+                        "long": 10.312553
+                    }
+                },
+                {
+                    "id": 1002,
+                    "title": "Tor Ost",
+                    "location": {
+                        "lat": 47.725706,
+                        "long": 10.313178
+                    }
+                },
+                {
+                    "id": 1003,
+                    "title": "Tor S\u00FCd",
+                    "location": {
+                        "lat": 47.724402,
+                        "long": 10.313254
+                    }
+                },
+                {
+                    "id": 1004,
+                    "title": "Tor West",
+                    "location": {
+                        "lat": 47.725369,
+                        "long": 10.310882
                     }
                 }
             ]
