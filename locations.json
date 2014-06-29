@@ -35,26 +35,6 @@
                         ]
                     },
                     "details": [
-						{						
-							"title": "Info",
-	                        "objects": [
-	                            {
-	                                "title": "Zum Stift auf der Festwoche"
-	                            },
-	                            {
-	                                "title": "Telefon",
-	                                "description": "+49 831 22388"
-	                            },
-	                            {
-	                                "title": "E-mail",
-	                                "description": "festwoche@zum-stift.de"
-	                            },
-	                            {
-	                                "title": "Website",
-	                                "description": "www.zum-stift.de"
-	                            }
-	                        ]
-						},
 						{
 							"title": "Speisekarte",
 	                        "objects": [
@@ -77,31 +57,48 @@
 	                        ]
 						},
 						{
-							"title": "Showprogramm",
+							"title": "Fr\u00FChschopppen",
 	                        "objects": [
-	                            {
-	                                "title": "Unterhaltungsmusik mit den HuNis",
-	                                "start_date": "2014-08-08T19:00:00+02:00"
-	                            },
 	                            {
 	                                "title": "Fr\u00FChschoppen mit Trio Halblang",
 	                                "start_date": "2014-08-09T11:00:00+02:00"
-	                            },
-	                            {
-	                                "title": "Unterhaltungsmusik mit Buddha Brezn",
-	                                "start_date": "2014-08-09T15:00:00+02:00"
 	                            },
 	                            {
 	                                "title": "Fr\u00FChschoppen mit Trio Halblang",
 	                                "start_date": "2014-08-10T11:00:00+02:00"
 	                            },
 	                            {
-	                                "title": "Unterhaltungsmusik mit den Lamas",
-	                                "start_date": "2014-08-10T19:00:00+02:00"
-	                            },
-	                            {
 	                                "title": "Fr\u00FChschoppen mit Hubert Weber",
 	                                "start_date": "2014-08-11T11:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Fr\u00FChschoppen mit B\u00E4rlauch Buaba",
+	                                "start_date": "2014-08-15T11:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Fr\u00FChschoppen",
+	                                "start_date": "2014-08-16T11:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Fr\u00FChschoppen mit B\u00E4rlauch Buaba",
+	                                "start_date": "2014-08-17T11:00:00+02:00"
+	                            }
+	                        ]
+	                    },
+						{
+							"title": "Musikprogramm",
+	                        "objects": [
+	                            {
+	                                "title": "Unterhaltungsmusik mit den HuNis",
+	                                "start_date": "2014-08-08T19:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit Buddha Brezn",
+	                                "start_date": "2014-08-09T15:00:00+02:00"
+	                            },
+	                            {
+	                                "title": "Unterhaltungsmusik mit den Lamas",
+	                                "start_date": "2014-08-10T19:00:00+02:00"
 	                            },
 	                            {
 	                                "title": "Unterhaltungsmusik mit Extreme",
@@ -132,7 +129,35 @@
 	                                "start_date": "2014-08-17T19:00:00+02:00"
 	                            }
 	                        ]
-	                    }
+	                    },
+						{						
+							"title": "Info",
+	                        "objects": [
+	                            {
+	                                "title": "Zum Stift auf der Festwoche"
+	                            },
+	                            {
+	                                "title": "Telefon",
+	                                "description": "+49 831 22388",
+									"link": "tel://004983122388"
+	                            },
+	                            {
+	                                "title": "E-mail",
+	                                "description": "festwoche@zum-stift.de",
+									"link": "mailto://festwoche@zum-stift.de"
+	                            },
+	                            {
+	                                "title": "Website",
+	                                "description": "www.zum-stift.de",
+									"link": "http://www.zum-stift.de"
+	                            },
+	                            {
+	                                "title": "Facebook",
+	                                "description": "FB/ ZumStiftAufDerAllgauerFestwoche2013",
+									"link": "https://www.facebook.com/ZumStiftAufDerAllgauerFestwoche2013"
+	                            }
+	                        ]
+						}
                     ] 
                 },
                 {
@@ -390,29 +415,6 @@
 							        ]
 							    },
 							    {
-							        "title": "Polizeipr\u00E4sidium Schwaben",
-							        "title_2": "S\u00FCd/West",
-							        "title_3": "",
-							        "address_street": "Auf der Breite 17",
-							        "address_zip": 87439,
-							        "address_city": "Kempten",
-							        "address_country": "Deutschland",
-							        "address_country_prefix": 49,
-							        "address_phone": "0049 0831/99091011",
-							        "address_fax": "0049 0831/99091019",
-							        "hall": 1,
-							        "booth": 6,
-							        "industry": [
-							            6
-							        ],
-							        "industry_written": [
-							            "Dienstleistungen - Information"
-							        ],
-							        "products": [
-							            "Verkehrs- und Kriminalpr\u00E4vention"
-							        ]
-							    },
-							    {
 							        "title": "bfz gGmbH",
 							        "title_2": "Kempten",
 							        "title_3": "",
@@ -536,6 +538,29 @@
 							            "Coaching",
 							            "Meditation",
 							            "Streitschlichtung"
+							        ]
+							    },
+							    {
+							        "title": "Polizeipr\u00E4sidium Schwaben",
+							        "title_2": "S\u00FCd/West",
+							        "title_3": "",
+							        "address_street": "Auf der Breite 17",
+							        "address_zip": 87439,
+							        "address_city": "Kempten",
+							        "address_country": "Deutschland",
+							        "address_country_prefix": 49,
+							        "address_phone": "0049 0831/99091011",
+							        "address_fax": "0049 0831/99091019",
+							        "hall": 1,
+							        "booth": 6,
+							        "industry": [
+							            6
+							        ],
+							        "industry_written": [
+							            "Dienstleistungen - Information"
+							        ],
+							        "products": [
+							            "Verkehrs- und Kriminalpr\u00E4vention"
 							        ]
 							    },
 							    {
@@ -1054,10 +1079,10 @@
 							"title": "Details",
 	                        "objects": [
 	                            {
-	                                "title": "Busb\u00E4nder sind am Tor OST\u002FZUM erh\u00E4ltlich"
+	                                "title": "Busb\u00E4nder am Tor OST\u002FZUM"
 	                            },
 	                            {
-	                                "title": "\u00D6ffnungszeiten der Verkaufsstelle",
+	                                "title": "\u00D6ffnungszeiten",
 	                                "description": "17:00 bis 0:45 Uhr"
 	                            },
 	                            {

@@ -105,7 +105,7 @@
 			   "buses":[
 				   {
 					   "id": 2301,
-					   "title": "Pendelbus",
+					   "title": "Buszubringer",
 					   "origin": "ZUM/Albert-Wehr-Platz/Linggstra\u00dfe",
 					   "destination": "Hauptbahnhof",
 					   "stops": "bei Bedarf weiter \u00fcber Immenst\u00e4dter Str./Seitz \u2013 Haslacherstr.",
