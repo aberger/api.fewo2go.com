@@ -60,19 +60,19 @@
 							"title": "Fr\u00FChschopppen",
 	                        "objects": [
 	                            {
-	                                "title": "Fr\u00FChschoppen mit Trio Halblang",
+	                                "title": "Mit dem Trio Halblang",
 	                                "start_date": "2014-08-09T11:00:00+02:00"
 	                            },
 	                            {
-	                                "title": "Fr\u00FChschoppen mit Trio Halblang",
+	                                "title": "Mit dem Trio Halblang",
 	                                "start_date": "2014-08-10T11:00:00+02:00"
 	                            },
 	                            {
-	                                "title": "Fr\u00FChschoppen mit Hubert Weber",
+	                                "title": "Mit Hubert Weber",
 	                                "start_date": "2014-08-11T11:00:00+02:00"
 	                            },
 	                            {
-	                                "title": "Fr\u00FChschoppen mit B\u00E4rlauch Buaba",
+	                                "title": "Mit den B\u00E4rlauch Buaba",
 	                                "start_date": "2014-08-15T11:00:00+02:00"
 	                            },
 	                            {
@@ -80,7 +80,7 @@
 	                                "start_date": "2014-08-16T11:00:00+02:00"
 	                            },
 	                            {
-	                                "title": "Fr\u00FChschoppen mit B\u00E4rlauch Buaba",
+	                                "title": "Mit den B\u00E4rlauch Buaba",
 	                                "start_date": "2014-08-17T11:00:00+02:00"
 	                            }
 	                        ]
@@ -89,19 +89,19 @@
 							"title": "Musikprogramm",
 	                        "objects": [
 	                            {
-	                                "title": "Unterhaltungsmusik mit den HuNis",
+	                                "title": "Die HuNis",
 	                                "start_date": "2014-08-08T19:00:00+02:00"
 	                            },
 	                            {
-	                                "title": "Unterhaltungsmusik mit Buddha Brezn",
+	                                "title": "Die Buddha Brezn",
 	                                "start_date": "2014-08-09T15:00:00+02:00"
 	                            },
 	                            {
-	                                "title": "Unterhaltungsmusik mit den Lamas",
+	                                "title": "Die Lamas",
 	                                "start_date": "2014-08-10T19:00:00+02:00"
 	                            },
 	                            {
-	                                "title": "Unterhaltungsmusik mit Extreme",
+	                                "title": "Extreme",
 	                                "start_date": "2014-08-11T19:00:00+02:00"
 	                            },
 	                            {
@@ -109,23 +109,23 @@
 	                                "start_date": "2014-08-12T19:00:00+02:00"
 	                            },
 	                            {
-	                                "title": "Unterhaltungsmusik mit Buddha Brezn",
+	                                "title": "Die Buddha Brezn",
 	                                "start_date": "2014-08-13T11:00:00+02:00"
 	                            },
 	                            {
-	                                "title": "Unterhaltungsmusik mit Buddha Brezn",
+	                                "title": "Die Buddha Brezn",
 	                                "start_date": "2014-08-14T11:00:00+02:00"
 	                            },
 	                            {
-	                                "title": "Unterhaltungsmusik mit den Lamas",
+	                                "title": "Die Lamas",
 	                                "start_date": "2014-08-15T19:00:00+02:00"
 	                            },
 	                            {
-	                                "title": "Unterhaltungsmusik mit Extreme",
+	                                "title": "Extreme",
 	                                "start_date": "2014-08-16T19:00:00+02:00"
 	                            },
 	                            {
-	                                "title": "Unterhaltungsmusik mit Freistil",
+	                                "title": "Freistil",
 	                                "start_date": "2014-08-17T19:00:00+02:00"
 	                            }
 	                        ]
@@ -139,7 +139,7 @@
 	                            {
 	                                "title": "Telefon",
 	                                "description": "+49 831 22388",
-									"link": "tel://004983122388"
+									"link": "telprompt://004983122388"
 	                            },
 	                            {
 	                                "title": "E-mail",

@@ -5,8 +5,8 @@
 	"objects": [
 				{
 				"id": 3001,
-				"title": "64. Kunstaustellung",
-				"description": "Die Kunstausstellung ist bis 08. September 2013 t\u00e4glich von 10:00 bis 18:00 Uhr ge\u00f6ffnet.<br><br>Neue Ideen der Allg\u00e4uer K\u00fcnstler sind in der aktuellen Ausstellung zu sehen. Die gr\u00f6\u00dfte Kunstschau im Allg\u00e4u vereint unterschiedlichste Auffassungen, Materialien und Kunstkonzepte. Neu ist in diesem Jahr die Erweiterung der Ausstellung in den Stadtraum. Die drei gro\u00dfen Kunstpreise - Kunstpreis der Stadt Kempten, Thomas-Dachser-Gedenkpreis f\u00fcr Malerei oder Bildhauerei sowie der F\u00f6rderpreis f\u00fcr junge Kunst - machen die Festwochen-Ausstellung f\u00fcr K\u00fcnstler und Besucher attraktiv. W\u00e4hrend der Ausstellungszeit sind die Besucher eingeladen, ihr Lieblingswerk zu k\u00fcren. Den Publikumspreis 2013 stiftet Fuchs PR & Consulting in Kempten."
+				"title": "65. Kunstaustellung",
+				"description": "Die 65. Kunstausstellung im Rahmen der Allg\u00E4uer Festwoche findet vom 9. August bis 14. September 2014 im Hofgartensaal der Residenz statt. Die Stadt Kempten (Allg\u00E4u) l\u00E4dt Bildende K\u00FCnstlerinnen und K\u00FCnstler zur Teilnahme ein, die seit mindestens einem Jahr ihren Hauptwohnsitz im Allg\u00E4u haben oder im Allg\u00E4u geboren sind. Gezeigt werden k\u00F6nnen Werke der Malerei, Bildhauerei, Grafik, Installation, Fotografie und Videokunst.<br><br>Die Kunstausstellung ist im Ausstellungszeitraum t\u00E4glich von 10:00 - 18:00 Uhr ge\u00F6ffnet."
 			}
 				]
 	},
@@ -34,6 +34,13 @@
 						"title": "Feuerwerk",
 						"entry_date": "2014-08-08T19:00:00+02:00",
 						"start_date": "2014-08-08T20:00:00+02:00"
+						},
+						{
+						"id": 3202,
+						"title": "4 Voices",
+						"hosted_by": "B\u00fchne im Stadtpark",
+						"entry_date": "2014-08-08T20:00:00+02:00",
+						"start_date": "2014-08-08T20:00:00+02:00"
 						}
 						]
 			},
@@ -49,7 +56,14 @@
 						"entry_date": "2014-08-09T19:00:00+02:00",
 						"start_date": "2014-08-09T20:00:00+02:00",
 						"description": "Das Blechbl\u00e4serensemble Abarizzo spielt bereits zum f\u00fcnften Mal in Folge die Residenzhofserenade - und erfreut sich \u00fcberaus gro\u00dfer Beliebtheit. Das Repertoire reicht von Werken aus der Renaissance und der Klassik \u00fcber romantische Musik bis hin zu Kompositionen des 20. Jahrhunderts und Arrangements aus Jazz und Swing. Die unterhaltsam und geistreich moderierten Konzerte des Ensembles sind immer wieder aufs Neue ein Erlebnis."
-					}
+					},
+						{
+						"id": 3302,
+						"title": "Prime Stone",
+						"hosted_by": "B\u00fchne im Stadtpark",
+						"entry_date": "2014-08-09T20:00:00+02:00",
+						"start_date": "2014-08-09T20:00:00+02:00"
+						}
 						]
 			},
 	  		{
@@ -82,9 +96,16 @@
 						{
 						"id": 3501,
 						"title": "Seniorentag",
-						"entry_date": "2014-08-10T19:00:00+02:00",
-						"start_date": "2014-08-10T20:00:00+02:00"
-					}
+						"entry_date": "2014-08-11T19:00:00+02:00",
+						"start_date": "2014-08-11T20:00:00+02:00"
+					},
+						{
+						"id": 3502,
+						"title": "Black Bottom Skiffle Group",
+						"hosted_by": "B\u00fchne im Stadtpark",
+						"entry_date": "2014-08-11T20:00:00+02:00",
+						"start_date": "2014-08-11T20:00:00+02:00"
+						}
 						]
 			},
   	  		{
@@ -92,7 +113,7 @@
 			"day": "2014-08-12T00:00:00+02:00",
 			"objects": [
 						{
-						"id": 3602,
+						"id": 3601,
 						"title": "Westwind",
 						"hosted_by": "Residenzhof",
 						"image": "http://api.fewo2go.com/assets/events/westwind.jpg",
@@ -108,17 +129,25 @@
 			"objects": [
 						{
 						"id": 3701,
-						"title": "Die gro\u00dfe Nachte der Filmmusik",
+						"title": "Die gro\u00dfe Nacht der Filmmusik",
+						"hosted_by": "Residenzhof",
 						"entry_date": "2014-08-13T19:00:00+02:00",
 						"start_date": "2014-08-13T20:00:00+02:00",
 						"description": "Weltraumschlachten, Verfolgungsjagden oder Liebesszenen - ohne Musik sind sie auf der Leinwand kaum denkbar. Nach dem Motto Spiel mir das Lied zum Film pr\u00e4sentiert eine Gruppe Allg\u00e4uer K\u00fcnstler unter der Gesamtleitung der Sopranistin Gertrud Hiemer-Haslach einen Abend mit den gr\u00f6\u00dften Musiktiteln der Filmgeschichte. Die Bandbreite reicht von Marlene-Dietrich-Klassikern (Kinder, heut Abend) \u00fcber 80er-Jahre-Tanzfilme (Dirty Dancing) und aktuellen Songs wie Skyfall bis hin zu Instrumentaltiteln aus Der mit dem Wolf tanzt oder Twighlight.<br>Au\u00dferdem mit dabei: Pianist Reinhold Ohmayer (Voice 4U), Jazz-S\u00e4ngerin Lydia Schiller, Matthias Haslach (stellv. Solotrompeter der Stuttgarter Philharmoniker), Tom Cro\u00E8l (Voice  4U, Face & Voicerience), Roland Wintergerst (Freilichtb\u00fcghne Altusried, U50-Chor Altusried & Musical-Corporation)"
 					},
 					{
-					"id": 3601,
+					"id": 3702,
 					"title": "Familientag",
-					"entry_date": "2014-08-12T19:00:00+02:00",
-					"start_date": "2014-08-12T20:00:00+02:00"
-				}
+					"entry_date": "2014-08-13T19:00:00+02:00",
+					"start_date": "2014-08-13T20:00:00+02:00"
+				},
+						{
+						"id": 3703,
+						"title": "K\u00E4s \u0026 Roll",
+						"hosted_by": "B\u00fchne im Stadtpark",
+						"entry_date": "2014-08-13T20:00:00+02:00",
+						"start_date": "2014-08-13T20:00:00+02:00"
+						}
 						]
 			},
   	  		{
@@ -128,11 +157,20 @@
 						{
 						"id": 3801,
 						"title": "Rainer von Vielen",
+						"hosted_by": "Residenzhof",
 						"image": "http://api.fewo2go.com/assets/events/rainer_von_vielen.jpg",
 						"entry_date": "2014-08-14T19:00:00+02:00",
 						"start_date": "2014-08-14T20:00:00+02:00",
 						"description": "F\u00fcr nachhaltige Zerstreuung, regenerative Euphorie & die globale Erw\u00e4rmung des Weltfriedens. In Zeiten des Kulturpessimismus & der Gleichg\u00fcltigkeit tritt die Allg\u00e4uer Band Rainer von Vielen f\u00fcr eine Erneuerung des Wertekanons der Menschheit ein.<br>Emp\u00f6rt Euch!, Niedermauern, Du bist nicht allein, Wenn die Welt untergeht - Titel aus dem B\u00fchnenst\u00fcck, die ohne gro\u00dfe Worte die Sto\u00dfrichtung erkennen lassen. Die zeitkritischen, fast zynischen Texte treffen auf klassische Liebeslieder und anscheinend leichte Popsongs, mit denen sich die Welt erkl\u00e4ren l\u00e4sst."
-					}
+					},
+						{
+						"id": 3802,
+						"title": "Bluestaff",
+						"hosted_by": "B\u00fchne im Stadtpark",
+						"entry_date": "2014-08-14T20:00:00+02:00",
+						"start_date": "2014-08-14T20:00:00+02:00",
+						"description": "Altes und Neues aus der Blueskiste, gew\u00FCrzt mit Klassikern aus Rock und Soul. Die f\u00FCnf Musiker covern mit einzigartigem Feeling und dr\u00FCcken so den Songs ihren eigenen Stempel auf. Das Repertoire reicht von James Brown, Cannet Heat und Gary Moore bis hin zu Eigenkompositionen."
+						}
 						]
 			},
 	  		{
@@ -146,6 +184,13 @@
 						"entry_date": "2014-08-15T18:00:00+02:00",
 						"start_date": "2014-08-15T19:00:00+02:00",
 						"description": "Den traditionellen Ausklang der Festwochenkultur 2014 \u00fcbernimmt am Freitag der Musikverein Sankt Mang im Rahmen eines Gemeinschaftskonzertes mit dem Musikverein Konzenberg. Der Eintritt ist bei diesem Konzert frei, um Spenden wird gebeten."
+					},
+						{
+						"id": 3902,
+						"title": "Residence NonAme",
+						"hosted_by": "B\u00fchne im Stadtpark",
+						"entry_date": "2014-08-15T20:00:00+02:00",
+						"start_date": "2014-08-15T20:00:00+02:00"
 					}
 						]
 			}
