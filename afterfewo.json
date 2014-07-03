@@ -6,7 +6,20 @@
             "objects": [
                 {
                     "id": 4201,
-                    "title": "O´ zapft is!",
+                    "title": "Feschtwoch Opening",
+                    "hosted_by": "Brauereigastst\u00E4tte Zum Stift",
+                    "location": {
+                        "lat": 47.728555,
+                        "long": 10.31035
+                    },
+                    "image": "http://api.fewo2go.com/assets/afterfewo/stift.png",
+                    "start_date": "2014-08-08T22:30:00+02:00",
+                    "end_date": "2014-08-09T04:00:00+02:00",
+                    "description": "After-Feschtwoch Party<br>Dirndl meets Lederhose - Presented by Joe H\u00F6ssl No Limit<br><br>mit DJ Butzi und Double T<br><br>Sichern Sie sich Ihre Greencard!<br>Garantierter Eintritt!<br>Infos unter:<br>joe@hoessl.net<br>0175 29 46 264<br><br>Einlass ab 22.30 Uhr - ab 18 Jahren<br><br>\u00DCbrigens: Veranstalter ist nicht der Stiftswirt sondern \"der Joe H\u00F6ssl von den Comets\"."
+                },
+				{
+                    "id": 4202,
+                    "title": "O\u00B4 zapft is!",
                     "hosted_by": "Parktheater",
                     "location": {
                         "lat": 47.724386,
@@ -18,19 +31,6 @@
                     "description": "Die Afterparty zum Festwochenauftakt!"
                 },
                 {
-                    "id": 4202,
-                    "title": "Feschtwoch Opening",
-                    "hosted_by": "Brauereigaststätte Zum Stift",
-                    "location": {
-                        "lat": 47.728555,
-                        "long": 10.31035
-                    },
-                    "image": "http://api.fewo2go.com/assets/afterfewo/stift.png",
-                    "start_date": "2014-08-08T23:00:00+02:00",
-                    "end_date": "2014-08-09T04:00:00+02:00",
-                    "description": "Auch dieses Jahr präsentiert EUCH Joe Hössl von den Comets die AFTER-FESCHTWOCH-PARTY im Stift nach der Festwoche. Darum könnt Ihr Euch jetzt schon Eintrittskarten für die After-Feschtwoch-Party sichern. Mit diesen Karten habt ihr dann (am jeweiligem Datum) bis 00.30 Uhr garantierten Einlass. Preis für diese Vorverkaufskarten ist 10 Euro und ist für jeden Veranstaltungsabend gültig (ohne Getränkegutscheine). Der Abendeintritt kostet, wie letztes Jahr, 8 Euro (inklusive 6 Euro Getränkeverzehr).<br><br>Ihr habt Fragen? Ihr wollt reservieren? Dann ruft unter folgender Telefonnummer an: +491752946264 oder schreibt an: joe@hoessl.net<br><br>Übrigens: Veranstalter ist nicht der Stiftswirt sondern \"der Joe Hössl von den Comets\" :-)<br><br>Wir freuen uns auf EUCH!!!"
-                },
-                {
                     "id": 4203,
                     "title": "Afterparty",
                     "hosted_by": "New-Lobby",
@@ -40,7 +40,7 @@
                     },
                     "image": "http://api.fewo2go.com/assets/afterfewo/lobby.png",
                     "start_date": "2014-08-08T23:00:00+02:00",
-                    "description": "Ab 23 Uhr geht’s los bis open end…<br><br>Eintritt 3,00 €<br><br>Musik von DJ Andi, so wie jedes Jahr…"
+                    "description": "Ab 23 Uhr geht\u2019s los bis open end\u2026<br><br>Eintritt 3,00 \u20AC<br><br>Musik von DJ Andi, so wie jedes Jahr\u2026"
                 }
             ]
         },
@@ -50,31 +50,29 @@
             "objects": [
                 {
                     "id": 4301,
-                    "title": "Dirndl & Dirnen",
+                    "title": "Saturday Night Fever im Dirndl und d\u00B4 Lederhos",
+                    "hosted_by": "Brauereigastst\u00E4tte Zum Stift",
+                    "location": {
+                        "lat": 47.728555,
+                        "long": 10.31035
+                    },
+                    "image": "http://api.fewo2go.com/assets/afterfewo/stift.png",
+                    "start_date": "2014-08-08T22:30:00+02:00",
+                    "end_date": "2014-08-09T04:00:00+02:00",
+                    "description": "After-Feschtwoch Party<br>Dirndl meets Lederhose - Presented by Joe H\u00F6ssl No Limit<br><br>mit DJ Butzi und Double T<br><br>Sichern Sie sich Ihre Greencard!<br>Garantierter Eintritt!<br>Infos unter:<br>joe@hoessl.net<br>0175 29 46 264<br><br>Einlass ab 22.30 Uhr - ab 18 Jahren<br><br>\u00DCbrigens: Veranstalter ist nicht der Stiftswirt sondern \"der Joe H\u00F6ssl von den Comets\"."
+                },
+                {
+                    "id": 4302,
+                    "title": "Dirndl \u0026 Dirnen",
                     "hosted_by": "Parktheater",
                     "location": {
                         "lat": 47.724386,
                         "long": 10.314817
                     },
                     "image": "http://api.fewo2go.com/assets/afterfewo/parktheater.png",
-                    "entry_date": "",
                     "start_date": "2014-08-09T23:00:00+02:00",
                     "end_date": "2014-08-10T05:00:00+02:00",
-                    "description": "Ein Dekolleté zum Versinken! Die Experten prämieren…"
-                },
-                {
-                    "id": 4302,
-                    "title": "Saturday Night Fever im Dirndl und d´ Lederhos",
-                    "hosted_by": "Brauereigaststätte Zum Stift",
-                    "location": {
-                        "lat": 47.728555,
-                        "long": 10.31035
-                    },
-                    "image": "http://api.fewo2go.com/assets/afterfewo/stift.png",
-                    "entry_date": "",
-                    "start_date": "2014-08-09T23:00:00+02:00",
-                    "end_date": "2014-08-10T04:00:00+02:00",
-                    "description": "Auch dieses Jahr präsentiert EUCH Joe Hössl von den Comets die AFTER-FESCHTWOCH-PARTY im Stift nach der Festwoche. Darum könnt Ihr Euch jetzt schon Eintrittskarten für die After-Feschtwoch-Party sichern. Mit diesen Karten habt ihr dann (am jeweiligem Datum) bis 00.30 Uhr garantierten Einlass. Preis für diese Vorverkaufskarten ist 10 Euro und ist für jeden Veranstaltungsabend gültig (ohne Getränkegutscheine). Der Abendeintritt kostet, wie letztes Jahr, 8 Euro (inklusive 6 Euro Getränkeverzehr).<br><br>Ihr habt Fragen? Ihr wollt reservieren? Dann ruft unter folgender Telefonnummer an: +491752946264 oder schreibt an: joe@hoessl.net<br><br>Übrigens: Veranstalter ist nicht der Stiftswirt sondern \"der Joe Hössl von den Comets\" :-)<br><br>Wir freuen uns auf EUCH!!!"
+                    "description": "Ein Dekolleté zum Versinken! Die Experten pr\u00E4mieren\u2026"
                 },
                 {
                     "id": 4303,
@@ -86,7 +84,7 @@
                     },
                     "image": "http://api.fewo2go.com/assets/afterfewo/lobby.png",
                     "start_date": "2014-08-09T23:00:00+02:00",
-                    "description": "Ab 23 Uhr geht’s los bis open end…<br><br>Eintritt 3,00 €<br><br>Musik von DJ Andi, so wie jedes Jahr…"
+                    "description": "Ab 23 Uhr geht\u2019s los bis open end\u2026<br><br>Eintritt 3,00 \u20AC<br><br>Musik von DJ Andi, so wie jedes Jahr\u2026"
                 }
             ]
         },
@@ -104,7 +102,7 @@
                     },
                     "image": "http://api.fewo2go.com/assets/afterfewo/lobby.png",
                     "start_date": "2014-08-10T23:00:00+02:00",
-                    "description": "Ab 23 Uhr geht’s los bis open end…<br><br>Eintritt 3,00 €<br><br>Musik von DJ Andi, so wie jedes Jahr…"
+                    "description": "Ab 23 Uhr geht\u2019s los bis open end\u2026<br><br>Eintritt 3,00 \u20AC<br><br>Musik von DJ Andi, so wie jedes Jahr\u2026"
                 }
             ]
         },
@@ -122,7 +120,7 @@
                     },
                     "image": "http://api.fewo2go.com/assets/afterfewo/lobby.png",
                     "start_date": "2014-08-11T23:00:00+02:00",
-                    "description": "Ab 23 Uhr geht’s los bis open end…<br><br>Eintritt 3,00 €<br><br>Musik von DJ Andi, so wie jedes Jahr…"
+                    "description": "Ab 23 Uhr geht\u2019s los bis open end\u2026<br><br>Eintritt 3,00 \u20AC<br><br>Musik von DJ Andi, so wie jedes Jahr\u2026"
                 }
             ]
         },
@@ -140,7 +138,7 @@
                     },
                     "image": "http://api.fewo2go.com/assets/afterfewo/lobby.png",
                     "start_date": "2014-08-12T23:00:00+02:00",
-                    "description": "Ab 23 Uhr geht’s los bis open end…<br><br>Eintritt 3,00 €<br><br>Musik von DJ Andi, so wie jedes Jahr…"
+                    "description": "Ab 23 Uhr geht\u2019s los bis open end\u2026<br><br>Eintritt 3,00 \u20AC<br><br>Musik von DJ Andi, so wie jedes Jahr\u2026"
                 }
             ]
         },
@@ -150,17 +148,16 @@
             "objects": [
                 {
                     "id": 4701,
-                    "title": "The Mighty Büble Club",
+                    "title": "The Mighty B\u00FCble Club",
                     "hosted_by": "Parktheater",
                     "location": {
                         "lat": 47.724386,
                         "long": 10.314817
                     },
                     "image": "http://api.fewo2go.com/assets/afterfewo/parktheater.png",
-                    "entry_date": "",
                     "start_date": "2014-08-13T22:00:00+02:00",
                     "end_date": "2014-08-14T05:00:00+02:00",
-                    "description": "Da kutt koiner z´knapp!"
+                    "description": "Da kutt koiner z\u00B4knapp!"
                 },
                 {
                     "id": 4702,
@@ -172,7 +169,7 @@
                     },
                     "image": "http://api.fewo2go.com/assets/afterfewo/lobby.png",
                     "start_date": "2014-08-13T23:00:00+02:00",
-                    "description": "Ab 23 Uhr geht’s los bis open end…<br><br>Eintritt 3,00 €<br><br>Musik von DJ Andi, so wie jedes Jahr…"
+                    "description": "Ab 23 Uhr geht\u2019s los bis open end\u2026<br><br>Eintritt 3,00 \u20AC<br><br>Musik von DJ Andi, so wie jedes Jahr\u2026"
                 }
             ]
         },
@@ -182,6 +179,19 @@
             "objects": [
                 {
                     "id": 4801,
+                    "title": "A bissl mehr wia Halbzeit",
+                    "hosted_by": "Brauereigastst\u00E4tte Zum Stift",
+                    "location": {
+                        "lat": 47.728555,
+                        "long": 10.31035
+                    },
+                    "image": "http://api.fewo2go.com/assets/afterfewo/stift.png",
+                    "start_date": "2014-08-08T22:30:00+02:00",
+                    "end_date": "2014-08-09T04:00:00+02:00",
+                    "description": "After-Feschtwoch Party<br>Dirndl meets Lederhose - Presented by Joe H\u00F6ssl No Limit<br><br>mit DJ Butzi und Double T<br><br>Sichern Sie sich Ihre Greencard!<br>Garantierter Eintritt!<br>Infos unter:<br>joe@hoessl.net<br>0175 29 46 264<br><br>Einlass ab 22.30 Uhr - ab 18 Jahren<br><br>\u00DCbrigens: Veranstalter ist nicht der Stiftswirt sondern \"der Joe H\u00F6ssl von den Comets\"."
+                },
+                {
+                    "id": 4802,
                     "title": "Heimatabend",
                     "hosted_by": "Parktheater",
                     "location": {
@@ -189,24 +199,9 @@
                         "long": 10.314817
                     },
                     "image": "http://api.fewo2go.com/assets/afterfewo/parktheater.png",
-                    "entry_date": "",
                     "start_date": "2014-08-14T22:00:00+02:00",
                     "end_date": "2014-08-15T05:00:00+02:00",
                     "description": "Besser a Rausch wie a Fieber!"
-                },
-                {
-                    "id": 4802,
-                    "title": "A bissl mehr wia Halbzeit",
-                    "hosted_by": "Brauereigaststätte Zum Stift",
-                    "location": {
-                        "lat": 47.728555,
-                        "long": 10.31035
-                    },
-                    "image": "http://api.fewo2go.com/assets/afterfewo/stift.png",
-                    "entry_date": "",
-                    "start_date": "2014-08-14T23:00:00+02:00",
-                    "end_date": "2014-08-15T04:00:00+02:00",
-                    "description": "Auch dieses Jahr präsentiert EUCH Joe Hössl von den Comets die AFTER-FESCHTWOCH-PARTY im Stift nach der Festwoche. Darum könnt Ihr Euch jetzt schon Eintrittskarten für die After-Feschtwoch-Party sichern. Mit diesen Karten habt ihr dann (am jeweiligem Datum) bis 00.30 Uhr garantierten Einlass. Preis für diese Vorverkaufskarten ist 10 Euro und ist für jeden Veranstaltungsabend gültig (ohne Getränkegutscheine). Der Abendeintritt kostet, wie letztes Jahr, 8 Euro (inklusive 6 Euro Getränkeverzehr).<br><br>Ihr habt Fragen? Ihr wollt reservieren? Dann ruft unter folgender Telefonnummer an: +491752946264 oder schreibt an: joe@hoessl.net<br><br>Übrigens: Veranstalter ist nicht der Stiftswirt sondern \"der Joe Hössl von den Comets\" :-)<br><br>Wir freuen uns auf EUCH!!!"
                 },
                 {
                     "id": 4803,
@@ -218,7 +213,7 @@
                     },
                     "image": "http://api.fewo2go.com/assets/afterfewo/lobby.png",
                     "start_date": "2014-08-14T23:00:00+02:00",
-                    "description": "Ab 23 Uhr geht’s los bis open end…<br><br>Eintritt 3,00 €<br><br>Musik von DJ Andi, so wie jedes Jahr…"
+                    "description": "Ab 23 Uhr geht\u2019s los bis open end\u2026<br><br>Eintritt 3,00 \u20AC<br><br>Musik von DJ Andi, so wie jedes Jahr\u2026"
                 }
             ]
         },
@@ -228,31 +223,29 @@
             "objects": [
                 {
                     "id": 4901,
-                    "title": "Ein hosianna dem flüssigen Manna",
+                    "title": "Endschpurt",
+                    "hosted_by": "Brauereigastst\u00E4tte Zum Stift",
+                    "location": {
+                        "lat": 47.728555,
+                        "long": 10.31035
+                    },
+                    "image": "http://api.fewo2go.com/assets/afterfewo/stift.png",
+                    "start_date": "2014-08-08T22:30:00+02:00",
+                    "end_date": "2014-08-09T04:00:00+02:00",
+                    "description": "After-Feschtwoch Party<br>Dirndl meets Lederhose - Presented by Joe H\u00F6ssl No Limit<br><br>mit DJ Butzi und Double T<br><br>Sichern Sie sich Ihre Greencard!<br>Garantierter Eintritt!<br>Infos unter:<br>joe@hoessl.net<br>0175 29 46 264<br><br>Einlass ab 22.30 Uhr - ab 18 Jahren<br><br>\u00DCbrigens: Veranstalter ist nicht der Stiftswirt sondern \"der Joe H\u00F6ssl von den Comets\"."
+                },
+                {
+                    "id": 4902,
+                    "title": "Ein hosianna dem fl\u00FCssigen Manna",
                     "hosted_by": "Parktheater",
                     "location": {
                         "lat": 47.724386,
                         "long": 10.314817
                     },
                     "image": "http://api.fewo2go.com/assets/afterfewo/parktheater.png",
-                    "entry_date": "",
                     "start_date": "2014-08-15T23:00:00+02:00",
                     "end_date": "2014-08-16T05:00:00+02:00",
-                    "description": "Blauweißer Himmel und ein gülden Gebräu!"
-                },
-                {
-                    "id": 4902,
-                    "title": "Endschpurt",
-                    "hosted_by": "Brauereigaststätte Zum Stift",
-                    "location": {
-                        "lat": 47.728555,
-                        "long": 10.31035
-                    },
-                    "image": "http://api.fewo2go.com/assets/afterfewo/stift.png",
-                    "entry_date": "",
-                    "start_date": "2014-08-15T23:00:00+02:00",
-                    "end_date": "2014-08-16T04:00:00+02:00",
-                    "description": "Auch dieses Jahr präsentiert EUCH Joe Hössl von den Comets die AFTER-FESCHTWOCH-PARTY im Stift nach der Festwoche. Darum könnt Ihr Euch jetzt schon Eintrittskarten für die After-Feschtwoch-Party sichern. Mit diesen Karten habt ihr dann (am jeweiligem Datum) bis 00.30 Uhr garantierten Einlass. Preis für diese Vorverkaufskarten ist 10 Euro und ist für jeden Veranstaltungsabend gültig (ohne Getränkegutscheine). Der Abendeintritt kostet, wie letztes Jahr, 8 Euro (inklusive 6 Euro Getränkeverzehr).<br><br>Ihr habt Fragen? Ihr wollt reservieren? Dann ruft unter folgender Telefonnummer an: +491752946264 oder schreibt an: joe@hoessl.net<br><br>Übrigens: Veranstalter ist nicht der Stiftswirt sondern \"der Joe Hössl von den Comets\" :-)<br><br>Wir freuen uns auf EUCH!!!"
+                    "description": "Blauwei\u00DFer Himmel und ein g\u00FClden Gebr\u00E4u!"
                 },
                 {
                     "id": 4903,
@@ -264,7 +257,7 @@
                     },
                     "image": "http://api.fewo2go.com/assets/afterfewo/lobby.png",
                     "start_date": "2014-08-15T23:00:00+02:00",
-                    "description": "Ab 23 Uhr geht’s los bis open end…<br><br>Eintritt 3,00 €<br><br>Musik von DJ Andi, so wie jedes Jahr…"
+                    "description": "Ab 23 Uhr geht\u2019s los bis open end\u2026<br><br>Eintritt 3,00 \u20AC<br><br>Musik von DJ Andi, so wie jedes Jahr\u2026"
                 }
             ]
         },
@@ -274,6 +267,19 @@
             "objects": [
                 {
                     "id": 5001,
+                    "title": "Gro\u00DFes \"Finale\"",
+                    "hosted_by": "Brauereigastst\u00E4tte Zum Stift",
+                    "location": {
+                        "lat": 47.728555,
+                        "long": 10.31035
+                    },
+                    "image": "http://api.fewo2go.com/assets/afterfewo/stift.png",
+                    "start_date": "2014-08-08T22:30:00+02:00",
+                    "end_date": "2014-08-09T04:00:00+02:00",
+                    "description": "After-Feschtwoch Party<br>Dirndl meets Lederhose - Presented by Joe H\u00F6ssl No Limit<br><br>mit DJ Butzi und Double T<br><br>Sichern Sie sich Ihre Greencard!<br>Garantierter Eintritt!<br>Infos unter:<br>joe@hoessl.net<br>0175 29 46 264<br><br>Einlass ab 22.30 Uhr - ab 18 Jahren<br><br>\u00DCbrigens: Veranstalter ist nicht der Stiftswirt sondern \"der Joe H\u00F6ssl von den Comets\"."
+                },
+                {
+                    "id": 5002,
                     "title": "Pfiat eich!",
                     "hosted_by": "Parktheater",
                     "location": {
@@ -281,24 +287,9 @@
                         "long": 10.314817
                     },
                     "image": "http://api.fewo2go.com/assets/afterfewo/parktheater.png",
-                    "entry_date": "",
                     "start_date": "2014-08-16T23:00:00+02:00",
                     "end_date": "2014-08-17T05:00:00+02:00",
                     "description": "Huramentmischtvaregdar, wo gemma jetzt na?<br>Die letzte Partynacht vor der Sommerpause!"
-                },
-                {
-                    "id": 5002,
-                    "title": "Großes \"Finale\"",
-                    "hosted_by": "Brauereigaststätte Zum Stift",
-                    "location": {
-                        "lat": 47.728555,
-                        "long": 10.31035
-                    },
-                    "image": "http://api.fewo2go.com/assets/afterfewo/stift.png",
-                    "entry_date": "",
-                    "start_date": "2014-08-16T23:00:00+02:00",
-                    "end_date": "2014-08-17T04:00:00+02:00",
-                    "description": "Auch dieses Jahr präsentiert EUCH Joe Hössl von den Comets die AFTER-FESCHTWOCH-PARTY im Stift nach der Festwoche. Darum könnt Ihr Euch jetzt schon Eintrittskarten für die After-Feschtwoch-Party sichern. Mit diesen Karten habt ihr dann (am jeweiligem Datum) bis 00.30 Uhr garantierten Einlass. Preis für diese Vorverkaufskarten ist 10 Euro und ist für jeden Veranstaltungsabend gültig (ohne Getränkegutscheine). Der Abendeintritt kostet, wie letztes Jahr, 8 Euro (inklusive 6 Euro Getränkeverzehr).<br><br>Ihr habt Fragen? Ihr wollt reservieren? Dann ruft unter folgender Telefonnummer an: +491752946264 oder schreibt an: joe@hoessl.net<br><br>Übrigens: Veranstalter ist nicht der Stiftswirt sondern \"der Joe Hössl von den Comets\" :-)<br><br>Wir freuen uns auf EUCH!!!"
                 },
                 {
                     "id": 5003,
@@ -310,7 +301,7 @@
                     },
                     "image": "http://api.fewo2go.com/assets/afterfewo/lobby.png",
                     "start_date": "2014-08-16T23:00:00+02:00",
-                    "description": "Ab 23 Uhr geht’s los bis open end…<br><br>Eintritt 3,00 €<br><br>Musik von DJ Andi, so wie jedes Jahr…"
+                    "description": "Ab 23 Uhr geht\u2019s los bis open end\u2026<br><br>Eintritt 3,00 \u20AC<br><br>Musik von DJ Andi, so wie jedes Jahr\u2026"
                 }
             ]
         }
