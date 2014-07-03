@@ -1,307 +1,307 @@
 {
     "afterfewo": [
         {
-            "id": 4200,
             "day": "2014-08-08T00:00:00+02:00",
+            "id": 4200,
             "objects": [
                 {
+                    "description": "After-Feschtwoch Party<br>Dirndl meets Lederhose - Presented by Joe H\u00f6ssl No Limit<br><br>mit DJ Butzi und Double T<br><br>Sichern Sie sich Ihre Greencard!<br>Garantierter Eintritt!<br>Infos unter:<br>joe@hoessl.net<br>0175 29 46 264<br><br>Einlass ab 22.30 Uhr - ab 18 Jahren<br><br>\u00dcbrigens: Veranstalter ist nicht der Stiftswirt sondern \"der Joe H\u00f6ssl von den Comets\".",
+                    "end_date": "2014-08-09T04:00:00+02:00",
+                    "hosted_by": "Zum Stift",
                     "id": 4201,
-                    "title": "Feschtwoch Opening",
-                    "hosted_by": "Brauereigastst\u00E4tte Zum Stift",
+                    "image": "http://api.fewo2go.com/assets/afterfewo/stift.png",
                     "location": {
                         "lat": 47.728555,
                         "long": 10.31035
                     },
-                    "image": "http://api.fewo2go.com/assets/afterfewo/stift.png",
                     "start_date": "2014-08-08T22:30:00+02:00",
-                    "end_date": "2014-08-09T04:00:00+02:00",
-                    "description": "After-Feschtwoch Party<br>Dirndl meets Lederhose - Presented by Joe H\u00F6ssl No Limit<br><br>mit DJ Butzi und Double T<br><br>Sichern Sie sich Ihre Greencard!<br>Garantierter Eintritt!<br>Infos unter:<br>joe@hoessl.net<br>0175 29 46 264<br><br>Einlass ab 22.30 Uhr - ab 18 Jahren<br><br>\u00DCbrigens: Veranstalter ist nicht der Stiftswirt sondern \"der Joe H\u00F6ssl von den Comets\"."
+                    "title": "Feschtwoch Opening"
                 },
-				{
-                    "id": 4202,
-                    "title": "O\u00B4 zapft is!",
-                    "hosted_by": "Parktheater",
-                    "location": {
-                        "lat": 47.724386,
-                        "long": 10.314817
-                    },
-                    "image": "http://api.fewo2go.com/assets/afterfewo/parktheater.png",
-                    "start_date": "2014-08-08T23:00:00+02:00",
+                {
+                    "description": "Die Afterparty zum Festwochenauftakt!",
                     "end_date": "2014-08-09T05:00:00+02:00",
-                    "description": "Die Afterparty zum Festwochenauftakt!"
-                },
-                {
-                    "id": 4203,
-                    "title": "Afterparty",
-                    "hosted_by": "New-Lobby",
+                    "hosted_by": "Parktheater",
+                    "id": 4202,
+                    "image": "http://api.fewo2go.com/assets/afterfewo/parktheater.png",
                     "location": {
-                        "lat": 47.728555,
-                        "long": 10.31035
+                        "lat": 47.724386,
+                        "long": 10.314817
                     },
-                    "image": "http://api.fewo2go.com/assets/afterfewo/lobby.png",
                     "start_date": "2014-08-08T23:00:00+02:00",
-                    "description": "Ab 23 Uhr geht\u2019s los bis open end\u2026<br><br>Eintritt 3,00 \u20AC<br><br>Musik von DJ Andi, so wie jedes Jahr\u2026"
+                    "title": "O\u00b4 zapft is!"
+                },
+                {
+                    "description": "Ab 23 Uhr geht\u2019s los bis open end\u2026<br><br>Eintritt 3,00 \u20ac<br><br>Musik von DJ Andi, so wie jedes Jahr\u2026",
+                    "hosted_by": "New-Lobby",
+                    "id": 4203,
+                    "image": "http://api.fewo2go.com/assets/afterfewo/lobby.png",
+                    "location": {
+                        "lat": 47.728555,
+                        "long": 10.31035
+                    },
+                    "start_date": "2014-08-08T23:00:00+02:00",
+                    "title": "Afterparty"
                 }
             ]
         },
         {
-            "id": 4300,
             "day": "2014-08-09T00:00:00+02:00",
+            "id": 4300,
             "objects": [
                 {
+                    "description": "After-Feschtwoch Party<br>Dirndl meets Lederhose - Presented by Joe H\u00f6ssl No Limit<br><br>mit DJ Butzi und Double T<br><br>Sichern Sie sich Ihre Greencard!<br>Garantierter Eintritt!<br>Infos unter:<br>joe@hoessl.net<br>0175 29 46 264<br><br>Einlass ab 22.30 Uhr - ab 18 Jahren<br><br>\u00dcbrigens: Veranstalter ist nicht der Stiftswirt sondern \"der Joe H\u00f6ssl von den Comets\".",
+                    "end_date": "2014-08-09T04:00:00+02:00",
+                    "hosted_by": "Zum Stift",
                     "id": 4301,
-                    "title": "Saturday Night Fever im Dirndl und d\u00B4 Lederhos",
-                    "hosted_by": "Brauereigastst\u00E4tte Zum Stift",
+                    "image": "http://api.fewo2go.com/assets/afterfewo/stift.png",
                     "location": {
                         "lat": 47.728555,
                         "long": 10.31035
                     },
-                    "image": "http://api.fewo2go.com/assets/afterfewo/stift.png",
                     "start_date": "2014-08-08T22:30:00+02:00",
-                    "end_date": "2014-08-09T04:00:00+02:00",
-                    "description": "After-Feschtwoch Party<br>Dirndl meets Lederhose - Presented by Joe H\u00F6ssl No Limit<br><br>mit DJ Butzi und Double T<br><br>Sichern Sie sich Ihre Greencard!<br>Garantierter Eintritt!<br>Infos unter:<br>joe@hoessl.net<br>0175 29 46 264<br><br>Einlass ab 22.30 Uhr - ab 18 Jahren<br><br>\u00DCbrigens: Veranstalter ist nicht der Stiftswirt sondern \"der Joe H\u00F6ssl von den Comets\"."
+                    "title": "Saturday Night Fever im Dirndl und d\u00b4 Lederhos"
                 },
                 {
-                    "id": 4302,
-                    "title": "Dirndl \u0026 Dirnen",
-                    "hosted_by": "Parktheater",
-                    "location": {
-                        "lat": 47.724386,
-                        "long": 10.314817
-                    },
-                    "image": "http://api.fewo2go.com/assets/afterfewo/parktheater.png",
-                    "start_date": "2014-08-09T23:00:00+02:00",
+                    "description": "Ein Dekollet\u00e9 zum Versinken! Die Experten pr\u00e4mieren\u2026",
                     "end_date": "2014-08-10T05:00:00+02:00",
-                    "description": "Ein Dekolleté zum Versinken! Die Experten pr\u00E4mieren\u2026"
-                },
-                {
-                    "id": 4303,
-                    "title": "Afterparty",
-                    "hosted_by": "New-Lobby",
+                    "hosted_by": "Parktheater",
+                    "id": 4302,
+                    "image": "http://api.fewo2go.com/assets/afterfewo/parktheater.png",
                     "location": {
-                        "lat": 47.728555,
-                        "long": 10.31035
+                        "lat": 47.724386,
+                        "long": 10.314817
                     },
-                    "image": "http://api.fewo2go.com/assets/afterfewo/lobby.png",
                     "start_date": "2014-08-09T23:00:00+02:00",
-                    "description": "Ab 23 Uhr geht\u2019s los bis open end\u2026<br><br>Eintritt 3,00 \u20AC<br><br>Musik von DJ Andi, so wie jedes Jahr\u2026"
+                    "title": "Dirndl & Dirnen"
+                },
+                {
+                    "description": "Ab 23 Uhr geht\u2019s los bis open end\u2026<br><br>Eintritt 3,00 \u20ac<br><br>Musik von DJ Andi, so wie jedes Jahr\u2026",
+                    "hosted_by": "New-Lobby",
+                    "id": 4303,
+                    "image": "http://api.fewo2go.com/assets/afterfewo/lobby.png",
+                    "location": {
+                        "lat": 47.728555,
+                        "long": 10.31035
+                    },
+                    "start_date": "2014-08-09T23:00:00+02:00",
+                    "title": "Afterparty"
                 }
             ]
         },
         {
-            "id": 4400,
             "day": "2014-08-10T00:00:00+02:00",
+            "id": 4400,
             "objects": [
                 {
+                    "description": "Ab 23 Uhr geht\u2019s los bis open end\u2026<br><br>Eintritt 3,00 \u20ac<br><br>Musik von DJ Andi, so wie jedes Jahr\u2026",
+                    "hosted_by": "New-Lobby",
                     "id": 4401,
-                    "title": "Afterparty",
-                    "hosted_by": "New-Lobby",
+                    "image": "http://api.fewo2go.com/assets/afterfewo/lobby.png",
                     "location": {
                         "lat": 47.728555,
                         "long": 10.31035
                     },
-                    "image": "http://api.fewo2go.com/assets/afterfewo/lobby.png",
                     "start_date": "2014-08-10T23:00:00+02:00",
-                    "description": "Ab 23 Uhr geht\u2019s los bis open end\u2026<br><br>Eintritt 3,00 \u20AC<br><br>Musik von DJ Andi, so wie jedes Jahr\u2026"
+                    "title": "Afterparty"
                 }
             ]
         },
         {
-            "id": 4500,
             "day": "2014-08-11T00:00:00+02:00",
+            "id": 4500,
             "objects": [
                 {
+                    "description": "Ab 23 Uhr geht\u2019s los bis open end\u2026<br><br>Eintritt 3,00 \u20ac<br><br>Musik von DJ Andi, so wie jedes Jahr\u2026",
+                    "hosted_by": "New-Lobby",
                     "id": 4501,
-                    "title": "Afterparty",
-                    "hosted_by": "New-Lobby",
+                    "image": "http://api.fewo2go.com/assets/afterfewo/lobby.png",
                     "location": {
                         "lat": 47.728555,
                         "long": 10.31035
                     },
-                    "image": "http://api.fewo2go.com/assets/afterfewo/lobby.png",
                     "start_date": "2014-08-11T23:00:00+02:00",
-                    "description": "Ab 23 Uhr geht\u2019s los bis open end\u2026<br><br>Eintritt 3,00 \u20AC<br><br>Musik von DJ Andi, so wie jedes Jahr\u2026"
+                    "title": "Afterparty"
                 }
             ]
         },
         {
-            "id": 4600,
             "day": "2014-08-12T00:00:00+02:00",
+            "id": 4600,
             "objects": [
                 {
+                    "description": "Ab 23 Uhr geht\u2019s los bis open end\u2026<br><br>Eintritt 3,00 \u20ac<br><br>Musik von DJ Andi, so wie jedes Jahr\u2026",
+                    "hosted_by": "New-Lobby",
                     "id": 4601,
-                    "title": "Afterparty",
-                    "hosted_by": "New-Lobby",
+                    "image": "http://api.fewo2go.com/assets/afterfewo/lobby.png",
                     "location": {
                         "lat": 47.728555,
                         "long": 10.31035
                     },
-                    "image": "http://api.fewo2go.com/assets/afterfewo/lobby.png",
                     "start_date": "2014-08-12T23:00:00+02:00",
-                    "description": "Ab 23 Uhr geht\u2019s los bis open end\u2026<br><br>Eintritt 3,00 \u20AC<br><br>Musik von DJ Andi, so wie jedes Jahr\u2026"
+                    "title": "Afterparty"
                 }
             ]
         },
         {
-            "id": 4700,
             "day": "2014-08-13T00:00:00+02:00",
+            "id": 4700,
             "objects": [
                 {
-                    "id": 4701,
-                    "title": "The Mighty B\u00FCble Club",
-                    "hosted_by": "Parktheater",
-                    "location": {
-                        "lat": 47.724386,
-                        "long": 10.314817
-                    },
-                    "image": "http://api.fewo2go.com/assets/afterfewo/parktheater.png",
-                    "start_date": "2014-08-13T22:00:00+02:00",
+                    "description": "Da kutt koiner z\u00b4knapp!",
                     "end_date": "2014-08-14T05:00:00+02:00",
-                    "description": "Da kutt koiner z\u00B4knapp!"
+                    "hosted_by": "Parktheater",
+                    "id": 4701,
+                    "image": "http://api.fewo2go.com/assets/afterfewo/parktheater.png",
+                    "location": {
+                        "lat": 47.724386,
+                        "long": 10.314817
+                    },
+                    "start_date": "2014-08-13T22:00:00+02:00",
+                    "title": "The Mighty B\u00fcble Club"
                 },
                 {
+                    "description": "Ab 23 Uhr geht\u2019s los bis open end\u2026<br><br>Eintritt 3,00 \u20ac<br><br>Musik von DJ Andi, so wie jedes Jahr\u2026",
+                    "hosted_by": "New-Lobby",
                     "id": 4702,
-                    "title": "Afterparty",
-                    "hosted_by": "New-Lobby",
+                    "image": "http://api.fewo2go.com/assets/afterfewo/lobby.png",
                     "location": {
                         "lat": 47.728555,
                         "long": 10.31035
                     },
-                    "image": "http://api.fewo2go.com/assets/afterfewo/lobby.png",
                     "start_date": "2014-08-13T23:00:00+02:00",
-                    "description": "Ab 23 Uhr geht\u2019s los bis open end\u2026<br><br>Eintritt 3,00 \u20AC<br><br>Musik von DJ Andi, so wie jedes Jahr\u2026"
+                    "title": "Afterparty"
                 }
             ]
         },
         {
-            "id": 4800,
             "day": "2014-08-14T00:00:00+02:00",
+            "id": 4800,
             "objects": [
                 {
+                    "description": "After-Feschtwoch Party<br>Dirndl meets Lederhose - Presented by Joe H\u00f6ssl No Limit<br><br>mit DJ Butzi und Double T<br><br>Sichern Sie sich Ihre Greencard!<br>Garantierter Eintritt!<br>Infos unter:<br>joe@hoessl.net<br>0175 29 46 264<br><br>Einlass ab 22.30 Uhr - ab 18 Jahren<br><br>\u00dcbrigens: Veranstalter ist nicht der Stiftswirt sondern \"der Joe H\u00f6ssl von den Comets\".",
+                    "end_date": "2014-08-09T04:00:00+02:00",
+                    "hosted_by": "Zum Stift",
                     "id": 4801,
-                    "title": "A bissl mehr wia Halbzeit",
-                    "hosted_by": "Brauereigastst\u00E4tte Zum Stift",
+                    "image": "http://api.fewo2go.com/assets/afterfewo/stift.png",
                     "location": {
                         "lat": 47.728555,
                         "long": 10.31035
                     },
-                    "image": "http://api.fewo2go.com/assets/afterfewo/stift.png",
                     "start_date": "2014-08-08T22:30:00+02:00",
-                    "end_date": "2014-08-09T04:00:00+02:00",
-                    "description": "After-Feschtwoch Party<br>Dirndl meets Lederhose - Presented by Joe H\u00F6ssl No Limit<br><br>mit DJ Butzi und Double T<br><br>Sichern Sie sich Ihre Greencard!<br>Garantierter Eintritt!<br>Infos unter:<br>joe@hoessl.net<br>0175 29 46 264<br><br>Einlass ab 22.30 Uhr - ab 18 Jahren<br><br>\u00DCbrigens: Veranstalter ist nicht der Stiftswirt sondern \"der Joe H\u00F6ssl von den Comets\"."
+                    "title": "A bissl mehr wia Halbzeit"
                 },
                 {
-                    "id": 4802,
-                    "title": "Heimatabend",
-                    "hosted_by": "Parktheater",
-                    "location": {
-                        "lat": 47.724386,
-                        "long": 10.314817
-                    },
-                    "image": "http://api.fewo2go.com/assets/afterfewo/parktheater.png",
-                    "start_date": "2014-08-14T22:00:00+02:00",
+                    "description": "Besser a Rausch wie a Fieber!",
                     "end_date": "2014-08-15T05:00:00+02:00",
-                    "description": "Besser a Rausch wie a Fieber!"
+                    "hosted_by": "Parktheater",
+                    "id": 4802,
+                    "image": "http://api.fewo2go.com/assets/afterfewo/parktheater.png",
+                    "location": {
+                        "lat": 47.724386,
+                        "long": 10.314817
+                    },
+                    "start_date": "2014-08-14T22:00:00+02:00",
+                    "title": "Heimatabend"
                 },
                 {
+                    "description": "Ab 23 Uhr geht\u2019s los bis open end\u2026<br><br>Eintritt 3,00 \u20ac<br><br>Musik von DJ Andi, so wie jedes Jahr\u2026",
+                    "hosted_by": "New-Lobby",
                     "id": 4803,
-                    "title": "Afterparty",
-                    "hosted_by": "New-Lobby",
+                    "image": "http://api.fewo2go.com/assets/afterfewo/lobby.png",
                     "location": {
                         "lat": 47.728555,
                         "long": 10.31035
                     },
-                    "image": "http://api.fewo2go.com/assets/afterfewo/lobby.png",
                     "start_date": "2014-08-14T23:00:00+02:00",
-                    "description": "Ab 23 Uhr geht\u2019s los bis open end\u2026<br><br>Eintritt 3,00 \u20AC<br><br>Musik von DJ Andi, so wie jedes Jahr\u2026"
+                    "title": "Afterparty"
                 }
             ]
         },
         {
-            "id": 4900,
             "day": "2014-08-15T00:00:00+02:00",
+            "id": 4900,
             "objects": [
                 {
+                    "description": "After-Feschtwoch Party<br>Dirndl meets Lederhose - Presented by Joe H\u00f6ssl No Limit<br><br>mit DJ Butzi und Double T<br><br>Sichern Sie sich Ihre Greencard!<br>Garantierter Eintritt!<br>Infos unter:<br>joe@hoessl.net<br>0175 29 46 264<br><br>Einlass ab 22.30 Uhr - ab 18 Jahren<br><br>\u00dcbrigens: Veranstalter ist nicht der Stiftswirt sondern \"der Joe H\u00f6ssl von den Comets\".",
+                    "end_date": "2014-08-09T04:00:00+02:00",
+                    "hosted_by": "Zum Stift",
                     "id": 4901,
-                    "title": "Endschpurt",
-                    "hosted_by": "Brauereigastst\u00E4tte Zum Stift",
+                    "image": "http://api.fewo2go.com/assets/afterfewo/stift.png",
                     "location": {
                         "lat": 47.728555,
                         "long": 10.31035
                     },
-                    "image": "http://api.fewo2go.com/assets/afterfewo/stift.png",
                     "start_date": "2014-08-08T22:30:00+02:00",
-                    "end_date": "2014-08-09T04:00:00+02:00",
-                    "description": "After-Feschtwoch Party<br>Dirndl meets Lederhose - Presented by Joe H\u00F6ssl No Limit<br><br>mit DJ Butzi und Double T<br><br>Sichern Sie sich Ihre Greencard!<br>Garantierter Eintritt!<br>Infos unter:<br>joe@hoessl.net<br>0175 29 46 264<br><br>Einlass ab 22.30 Uhr - ab 18 Jahren<br><br>\u00DCbrigens: Veranstalter ist nicht der Stiftswirt sondern \"der Joe H\u00F6ssl von den Comets\"."
+                    "title": "Endschpurt"
                 },
                 {
-                    "id": 4902,
-                    "title": "Ein hosianna dem fl\u00FCssigen Manna",
+                    "description": "Blauwei\u00dfer Himmel und ein g\u00fclden Gebr\u00e4u!",
+                    "end_date": "2014-08-16T05:00:00+02:00",
                     "hosted_by": "Parktheater",
+                    "id": 4902,
+                    "image": "http://api.fewo2go.com/assets/afterfewo/parktheater.png",
                     "location": {
                         "lat": 47.724386,
                         "long": 10.314817
                     },
-                    "image": "http://api.fewo2go.com/assets/afterfewo/parktheater.png",
                     "start_date": "2014-08-15T23:00:00+02:00",
-                    "end_date": "2014-08-16T05:00:00+02:00",
-                    "description": "Blauwei\u00DFer Himmel und ein g\u00FClden Gebr\u00E4u!"
+                    "title": "Ein hosianna dem fl\u00fcssigen Manna"
                 },
                 {
-                    "id": 4903,
-                    "title": "Afterparty",
+                    "description": "Ab 23 Uhr geht\u2019s los bis open end\u2026<br><br>Eintritt 3,00 \u20ac<br><br>Musik von DJ Andi, so wie jedes Jahr\u2026",
                     "hosted_by": "New-Lobby",
+                    "id": 4903,
+                    "image": "http://api.fewo2go.com/assets/afterfewo/lobby.png",
                     "location": {
                         "lat": 47.728555,
                         "long": 10.31035
                     },
-                    "image": "http://api.fewo2go.com/assets/afterfewo/lobby.png",
                     "start_date": "2014-08-15T23:00:00+02:00",
-                    "description": "Ab 23 Uhr geht\u2019s los bis open end\u2026<br><br>Eintritt 3,00 \u20AC<br><br>Musik von DJ Andi, so wie jedes Jahr\u2026"
+                    "title": "Afterparty"
                 }
             ]
         },
         {
-            "id": 5000,
             "day": "2014-08-16T00:00:00+02:00",
+            "id": 5000,
             "objects": [
                 {
+                    "description": "After-Feschtwoch Party<br>Dirndl meets Lederhose - Presented by Joe H\u00f6ssl No Limit<br><br>mit DJ Butzi und Double T<br><br>Sichern Sie sich Ihre Greencard!<br>Garantierter Eintritt!<br>Infos unter:<br>joe@hoessl.net<br>0175 29 46 264<br><br>Einlass ab 22.30 Uhr - ab 18 Jahren<br><br>\u00dcbrigens: Veranstalter ist nicht der Stiftswirt sondern \"der Joe H\u00f6ssl von den Comets\".",
+                    "end_date": "2014-08-09T04:00:00+02:00",
+                    "hosted_by": "Zum Stift",
                     "id": 5001,
-                    "title": "Gro\u00DFes \"Finale\"",
-                    "hosted_by": "Brauereigastst\u00E4tte Zum Stift",
+                    "image": "http://api.fewo2go.com/assets/afterfewo/stift.png",
                     "location": {
                         "lat": 47.728555,
                         "long": 10.31035
                     },
-                    "image": "http://api.fewo2go.com/assets/afterfewo/stift.png",
                     "start_date": "2014-08-08T22:30:00+02:00",
-                    "end_date": "2014-08-09T04:00:00+02:00",
-                    "description": "After-Feschtwoch Party<br>Dirndl meets Lederhose - Presented by Joe H\u00F6ssl No Limit<br><br>mit DJ Butzi und Double T<br><br>Sichern Sie sich Ihre Greencard!<br>Garantierter Eintritt!<br>Infos unter:<br>joe@hoessl.net<br>0175 29 46 264<br><br>Einlass ab 22.30 Uhr - ab 18 Jahren<br><br>\u00DCbrigens: Veranstalter ist nicht der Stiftswirt sondern \"der Joe H\u00F6ssl von den Comets\"."
+                    "title": "Gro\u00dfes \"Finale\""
                 },
                 {
-                    "id": 5002,
-                    "title": "Pfiat eich!",
+                    "description": "Huramentmischtvaregdar, wo gemma jetzt na?<br>Die letzte Partynacht vor der Sommerpause!",
+                    "end_date": "2014-08-17T05:00:00+02:00",
                     "hosted_by": "Parktheater",
+                    "id": 5002,
+                    "image": "http://api.fewo2go.com/assets/afterfewo/parktheater.png",
                     "location": {
                         "lat": 47.724386,
                         "long": 10.314817
                     },
-                    "image": "http://api.fewo2go.com/assets/afterfewo/parktheater.png",
                     "start_date": "2014-08-16T23:00:00+02:00",
-                    "end_date": "2014-08-17T05:00:00+02:00",
-                    "description": "Huramentmischtvaregdar, wo gemma jetzt na?<br>Die letzte Partynacht vor der Sommerpause!"
+                    "title": "Pfiat eich!"
                 },
                 {
-                    "id": 5003,
-                    "title": "Afterparty",
+                    "description": "Ab 23 Uhr geht\u2019s los bis open end\u2026<br><br>Eintritt 3,00 \u20ac<br><br>Musik von DJ Andi, so wie jedes Jahr\u2026",
                     "hosted_by": "New-Lobby",
+                    "id": 5003,
+                    "image": "http://api.fewo2go.com/assets/afterfewo/lobby.png",
                     "location": {
                         "lat": 47.728555,
                         "long": 10.31035
                     },
-                    "image": "http://api.fewo2go.com/assets/afterfewo/lobby.png",
                     "start_date": "2014-08-16T23:00:00+02:00",
-                    "description": "Ab 23 Uhr geht\u2019s los bis open end\u2026<br><br>Eintritt 3,00 \u20AC<br><br>Musik von DJ Andi, so wie jedes Jahr\u2026"
+                    "title": "Afterparty"
                 }
             ]
         }
