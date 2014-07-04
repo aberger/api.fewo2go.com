@@ -4,6 +4,7 @@
 		   "objects":[
 					  {
 					  "title":"Stiftszelt / Parkterrasse / Bierzelt",
+					  "subtitle":"19:00 - 00:30",
 					  "opens": "2014-08-08T19:00:00+02:00",
 					  "closes": "2014-08-09T00:30:00+02:00",
 					  "entrance_till": "2014-08-08T22:30:00+02:00"
@@ -15,17 +16,20 @@
 		   "objects":[
 					  {
 					  "title":"Stiftszelt / Parkterrasse / Bierzelt",
+					  "subtitle":"10:00 - 00:30",
 					  "opens": "2014-08-09T10:00:00+02:00",
 					  "closes": "2014-08-10T00:30:00+02:00",
 					  "entrance_till": "2014-08-09T22:30:00+02:00"
 					  },
 					  {
 					  "title":"Messe",
+					  "subtitle":"10:00 - 18:00",
 					  "opens": "2014-08-09T10:00:00+02:00",
 					  "closes": "2014-08-09T18:00:00+02:00"
 					  },
 					  {
 					  "title":"Kunstausstellung",
+					  "subtitle":"10:00 - 18:00",
 					  "opens": "2014-08-09T10:00:00+02:00",
 					  "closes": "2014-08-09T18:00:00+02:00"
 					  }
