@@ -16,7 +16,12 @@
                     "industry_written": "Gesundheit,Schwimmanlagen-Saunabau-Infrarot-Solarien",
                     "products": "Whirlpools f. Haus & Garten, Infrarot-W\u00e4rmekabinen",
                     "title": "A. Armstark",
-                    "title_2": "Whirlpools & Infrarotkabinen"
+                    "title_2": "Whirlpools & Infrarotkabinen",
+					"details": [
+						{
+							
+						}
+					]
                 },
                 {
                     "address_city": "Kaufbeuren",
