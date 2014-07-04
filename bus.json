@@ -20,6 +20,7 @@
 				   {
 					   "id": 2201,
 					   "title": "Bus 1",
+					   "subtitle": "22:15, 23:15, 0:15, 0:45",
 					   "origin": "ZUM/Albert-Wehr-Platz/Linggstra\u00dfe",
 					   "destination": "Buchenberg \u2013 Weitnau \u2013 Isny",
 					   "stops": "Lindauer Stra\u00dfe/Heussring \u2013 Ayb\u00fchlweg \u2013 Leutkircher Stra\u00dfe \u2013 Rothkreuz \u2013 Buchenberg \u2013 Sibratshofen \u2013 ausw\u00e4rts B12 / einw\u00e4rts Weitnau",
