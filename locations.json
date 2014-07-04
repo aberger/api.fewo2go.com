@@ -136,27 +136,6 @@
                         "lat": 47.725277,
                         "long": 10.313389
                     },
-                    "outline": {
-                        "coordinates": [
-                            {
-                                "lat": 47.72549,
-                                "long": 10.31341
-                            },
-                            {
-                                "lat": 47.725376,
-                                "long": 10.313697
-                            },
-                            {
-                                "lat": 47.725129,
-                                "long": 10.313335
-                            },
-                            {
-                                "lat": 47.725281,
-                                "long": 10.313091
-                            }
-                        ],
-                        "type": "polygon"
-                    },
                     "title": "Zum Stift"
                 },
                 {
@@ -303,6 +282,37 @@
                     "title": "Milchzelt"
                 },
                 {
+                    "details": [
+                        {
+                            "objects": [
+                                {
+                                    "price": 450,
+                                    "title": "Winzerbrot"
+                                },
+                                {
+                                    "price": 550,
+                                    "title": "K\u00e4sew\u00fcrfel"
+                                },
+                                {
+                                    "price": 550,
+                                    "title": "Rauchschinkenplatte"
+                                },
+                                {
+                                    "price": 450,
+                                    "title": "Kaffee und Kuchen"
+                                },
+                                {
+                                    "price": 450,
+                                    "title": "Weinschorle/Vierspurige 0,5 l"
+                                },
+                                {
+                                    "price": 230,
+                                    "title": "Alkoholfreie Getr\u00e4nke 0,5 l"
+                                }
+                            ],
+                            "title": "Speisekarte"
+                        }
+                    ],
                     "id": 1205,
                     "location": {
                         "lat": 47.725753,
@@ -327,20 +337,43 @@
                     "title": "Imbissst\u00e4nde"
                 },
                 {
+                    "details": [
+                        {
+                            "objects": [
+                                {
+                                    "price": 9999,
+                                    "title": "Espresso / Cappuccino"
+                                },
+                                {
+                                    "price": 300,
+                                    "title": "Kellerbier Hell / Rosé Ladies Bier 0,33l"
+                                },
+                                {
+                                    "price": 500,
+                                    "title": "Sprizz Aperol / Hugo"
+                                },
+                                {
+                                    "price": 350,
+                                    "title": "Lugana (Bulgarini) 0,1l"
+                                },
+                                {
+                                    "price": 450,
+                                    "title": "Special Drink Laser"
+                                },
+                                {
+                                    "price": 9999,
+                                    "title": "Pizza"
+                                }
+                            ],
+                            "title": "Speisekarte"
+                        }
+                    ],
                     "id": 1208,
                     "location": {
                         "lat": 47.725721,
                         "long": 10.312268
                     },
-                    "outline": {
-                        "coordinate": {
-                            "lat": 47.725721,
-                            "long": 10.312268
-                        },
-                        "radius": 5,
-                        "type": "circle"
-                    },
-                    "title": "Pavillion"
+                    "title": "Schickeria - Pavillion"
                 }
             ],
             "title": "Essen und Trinken"
