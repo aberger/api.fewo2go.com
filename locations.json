@@ -279,7 +279,7 @@
                         "lat": 47.726226,
                         "long": 10.309988
                     },
-                    "title": "Milchzelt"
+                    "title": "Milch Wirtschaft"
                 },
                 {
                     "details": [
@@ -4540,14 +4540,6 @@
                     "title": "B\u00fchne im Stadtpark"
                 },
                 {
-                    "id": 1303,
-                    "location": {
-                        "lat": 47.727481,
-                        "long": 10.31192
-                    },
-                    "title": "Kulturtreff"
-                },
-                {
                     "id": 1304,
                     "location": {
                         "lat": 47.726399,
@@ -4600,20 +4592,44 @@
             "id": 1400,
             "objects": [
                 {
+                    "details": [
+                        {
+                            "objects": [
+                                {
+                                    "description": "+49 831 25 25-546",
+                                    "link": "telprompt://00498312525546",
+                                    "title": "Martina Dufner-Wucher - Gesch\u00e4ftsf\u00fchrung"
+                                },
+                                {
+                                    "description": "+49 831 25 25-432",
+                                    "link": "telprompt://00498312525432",
+                                    "title": "Anita Filser - Festwochenorganisation"
+                                },
+                                {
+                                    "description": "+49 831 25 25-679",
+                                    "link": "telprompt://00498312525679",
+                                    "title": "Florian John - Ausstellerbetreuung"
+                                },
+                                {
+                                    "description": "+49 160 8088311",
+                                    "link": "telprompt://00491608088311",
+                                    "title": "Marianne Lechner - Technische Leitung"
+                                }
+                            ],
+                            "title": "Organisationsteam"
+                        }
+                    ],
                     "id": 1401,
                     "location": {
                         "lat": 47.725622,
                         "long": 10.312663
                     },
-                    "title": "Messeleitung"
+                    "title": "Ausstellungsleitung"
                 },
                 {
                     "details": [
                         {
                             "objects": [
-                                {
-                                    "title": "Busb\u00e4nder am Tor OST/ZUM"
-                                },
                                 {
                                     "description": "17:00 bis 0:45 Uhr",
                                     "title": "\u00d6ffnungszeiten"
@@ -4623,7 +4639,21 @@
                                     "title": "Preis"
                                 }
                             ],
-                            "title": "Details"
+                            "title": "Busb\u00e4nderverkauf"
+                        },
+                        {
+                            "objects": [
+                                {
+                                    "title": "Fundsachen"
+                                },
+                                {
+                                    "title": "Besucher Info"
+                                },
+                                {
+                                    "title": "Schlie\u00dff\u00e4cher"
+                                }
+                            ],
+                            "title": "Sonstiges"
                         }
                     ],
                     "id": 1402,
@@ -4631,7 +4661,7 @@
                         "lat": 47.725648,
                         "long": 10.313612
                     },
-                    "title": "Busb\u00e4nderverkauf"
+                    "title": "Servicepoint"
                 },
                 {
                     "id": 1403,
@@ -4640,14 +4670,6 @@
                         "long": 10.31181
                     },
                     "title": "Sicherheitszentrale"
-                },
-                {
-                    "id": 1404,
-                    "location": {
-                        "lat": 47.726052,
-                        "long": 10.31291
-                    },
-                    "title": "Schlie\u00dff\u00e4cher"
                 }
             ],
             "title": "Messeservice"
