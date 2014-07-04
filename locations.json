@@ -25,7 +25,7 @@
                                     "title": "Hendl und Semmel"
                                 }
                             ],
-                            "title": "Speisekarte"
+                            "title": "Speise- und Getr\u00e4nkekarte"
                         },
                         {
                             "objects": [
@@ -310,7 +310,7 @@
                                     "title": "Alkoholfreie Getr\u00e4nke 0,5 l"
                                 }
                             ],
-                            "title": "Speisekarte"
+                            "title": "Speise- und Getr\u00e4nkekarte"
                         }
                     ],
                     "id": 1205,
@@ -346,7 +346,7 @@
                                 },
                                 {
                                     "price": 300,
-                                    "title": "Kellerbier Hell / Rosé Ladies Bier 0,33l"
+                                    "title": "Kellerbier Hell / Ros\u00e9 Ladies Bier 0,33l"
                                 },
                                 {
                                     "price": 500,
@@ -365,7 +365,7 @@
                                     "title": "Pizza"
                                 }
                             ],
-                            "title": "Speisekarte"
+                            "title": "Speise- und Getr\u00e4nkekarte"
                         }
                     ],
                     "id": 1208,
