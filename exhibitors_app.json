@@ -10,18 +10,12 @@
                     "address_phone": "08532/9257-0",
                     "address_street": "Birndorf 1",
                     "address_zip": 94167,
-                    "booth": 28,
-                    "hall": "6",
+                    "web": "www.top2.de",
                     "industry": "11,23",
                     "industry_written": "Gesundheit,Schwimmanlagen-Saunabau-Infrarot-Solarien",
                     "products": "Whirlpools f. Haus & Garten, Infrarot-W\u00e4rmekabinen",
                     "title": "App Aussteller #1",
-                    "title_2": "Whirlpools & Infrarotkabinen",
-					"details": [
-						{
-							
-						}
-					]
+                    "title_2": "Whirlpools & Infrarotkabinen"
                 },
                 {
                     "address_city": "Kaufbeuren",
@@ -31,8 +25,7 @@
                     "address_phone": "08341/9082490",
                     "address_street": "Eichwald 5 - 7",
                     "address_zip": 87600,
-                    "booth": 2,
-                    "hall": "10A",
+                    "web": "www.top2.de",
                     "industry": "10",
                     "industry_written": "K\u00f6rperpflege, Kosmetik",
                     "products": "Naturkosmetik",
@@ -47,13 +40,17 @@
                     "address_phone": "0831/575216-0",
                     "address_street": "Dieselstra\u00dfe 53",
                     "address_zip": 87437,
-                    "booth": 19,
-                    "hall": "13",
+                    "web": "www.top2.de",
                     "industry": "2,6",
                     "industry_written": "Auto und Zubeh\u00f6r,Dienstleistungen, Information",
                     "products": "Fahrsicherheitstraining, Reisen, Versicherungen, Mitgliedschaften, Mitgliederservice",
                     "title": "App Aussteller #3",
-                    "title_2": ""
+                    "title_2": "",
+					"details": [
+						{
+							
+						}
+					]
                 },
                 {
                     "address_city": "Kempten",
@@ -63,8 +60,7 @@
                     "address_phone": "0049 0831/5126865",
                     "address_street": "K\u00f6nigstra\u00dfe 2",
                     "address_zip": 87435,
-                    "booth": 19,
-                    "hall": "9",
+                    "web": "www.top2.de",
                     "industry": "22",
                     "industry_written": "Schmuck und Lederwaren",
                     "products": "",
