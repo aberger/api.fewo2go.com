@@ -22,6 +22,7 @@
                     "address_city": "Kaufbeuren",
                     "address_country": "Deutschland",
                     "address_country_prefix": 49,
+					"address_country_email": "mailto://test@test.de",
                     "address_fax": "08341/9083969",
                     "address_phone": "08341/9082490",
                     "address_street": "Eichwald 5 - 7",
