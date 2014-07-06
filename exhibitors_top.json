@@ -28,6 +28,7 @@
                     "address_street": "Eichwald 5 - 7",
                     "address_zip": 87600,
                     "banner": "http://api.fewo2go.com/assets/exhibitors/top2_banner.png",
+					"banner_link": "http://api.fewo2go.com/assets/exhibitors/top2_banner.png",
                     "details": "Hier haben Sie so viel Platz wie Sie m\u00f6chten. Denn die Fl\u00e4che ist bis ins Unendliche Scrollbar<br><br>Wir empfehlen jedoch Ihrem Text mehr  Qualit\u00e4t statt Quantit\u00e4t zu verleihen.<br><br>Stellen Sie kurz Ihr Unternehmen vor, das Produkt/Dienstleistung, die Philosophie und ggf. den Ansprechpartner.<br><br>Der Button rechts oben erm\u00f6glicht dem User Sie direkt anzurufen, oder Ihre Webseite zu besuchen, wenn Sie m\u00f6chten.",
                     "image": "http://api.fewo2go.com/assets/exhibitors/top2_profile.png",
                     "industry": "10",
