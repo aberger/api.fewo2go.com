@@ -9,20 +9,48 @@
                         {
                             "objects": [
                                 {
-                                    "price": 500,
-                                    "title": "Hendl und Semmel"
+                                    "price": 1190,
+                                    "title": "Metzgerkotelette mit Kartoffelsalat"
                                 },
                                 {
-                                    "price": 500,
-                                    "title": "Hendl und Semmel"
+                                    "price": 1390,
+                                    "title": "Rindersaftgulasch mit Semmelkn\u00f6del"
                                 },
                                 {
-                                    "price": 500,
-                                    "title": "Hendl und Semmel"
+                                    "price": 1290,
+                                    "title": "Spanferkel-Krustenbraten mit Krautsalat und Kartoffelkn\u00f6del"
                                 },
                                 {
-                                    "price": 500,
-                                    "title": "Hendl und Semmel"
+                                    "price": 720,
+                                    "title": "Geschwollene mit Kartoffelsalat"
+                                },
+                                {
+                                    "price": 1020,
+                                    "title": "Abgebratene Maultaschen mit Schmelzzwiebeln und Kartoffelsalat"
+                                },
+                                {
+                                    "price": 920,
+                                    "title": "Allg\u00e4uer K\u00e4sspatzen mit gr\u00fcnem Salat"
+                                },
+                                {
+                                    "price": 850,
+                                    "title": "Allg\u00e4uer Krautkrapfen mit gemischtem Salat"
+                                },
+                                {
+                                    "price": 3800,
+                                    "title": "Brotzeitbrettl f\u00fcr 4 Personen"
+                                },
+                                {
+                                    "price": 390,
+                                    "title": "B\u00fcble Festbier 0,5l"
+                                },
+                                {
+                                    "price": 450,
+                                    "title": "Vierspurige 0,5l"
+                                },
+                                {
+                                    "price": 480,
+                                    "title": "Hugo / Sprizz / Lillet 0,2l"
                                 }
                             ],
                             "title": "Speise- und Getr\u00e4nkekarte"

@@ -52,8 +52,7 @@
 						  ]
 			 },
 			 {
-			 "title":"Schnupperkarte",
-			 "subtitle":"Ab 15:30 Uhr",
+			 "title":"Schnupperkarte - ab 15:30 Uhr",
 			 "price":500
 			 },
 			 {
@@ -62,13 +61,11 @@
 			 "price":1500
 			 },
 			 {
-			 "title":"Mittagskarte",
-			 "subtitle":"F\u00fcr die Zeit von 12:00 bis 14:00 Uhr an allen Kassen",
+			 "title":"Mittagskarte - von 12:00 bis 14:00 Uhr",
 			 "price":350
 			 },
 			 {
-			 "title":"Abendkarte",
-			 "subtitle":"Von 17:00 bis 22:30 Uhr",
+			 "title":"Abendkarte - von 17:00 bis 22:30 Uhr",
 			 "price":300
 			 },
 			 {
