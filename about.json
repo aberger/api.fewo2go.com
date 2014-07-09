@@ -1,6 +1,7 @@
 {
     "about": [
         {
+			"title": "Kontakt",
             "objects": [
                 {
                     "title": "Website",
@@ -54,11 +55,11 @@
             "objects": [
                 {
                     "title": "FeWo2Go bewerten",
-                    "link": "http://itunes.com/some"
+                    "link": "https://itunes.apple.com/us/app/fewo2go/id889962859?ls=1&mt=8"
                 },
                 {
                     "title": "Privacy Policy",
-                    "link": "http://www.fewo2go.com/privacy",
+                    "link": "http://www.fewo2go.com",
                     "target": "webview"
                 }
             ]
