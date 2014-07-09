@@ -4701,6 +4701,17 @@
                 }
             ],
             "title": "Messeservice"
+        },
+        {
+            "id": 90000,
+            "objects": [
+                {
+                    "id": 99999,
+                    "title": "\u00dcber die App",
+                    "view": "about"
+                }
+            ],
+            "title": "Appservice"
         }
     ]
 }
