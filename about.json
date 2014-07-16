@@ -32,7 +32,7 @@
                 {
                     "title": "Alessandro Tramontana",
                     "description": "Art Direction",
-                    "link": "#"
+                    "link": "http://www.fewo2go.com/team/"
                 },
                 {
                     "title": "Miriam Janiel",
@@ -46,7 +46,7 @@
                 },
                 {
                     "title": "Special thanks",
-                    "link": "#",
+                    "link": "http://www.fewo2go.com/thanks",
                     "target": "webview"
                 }
             ]
@@ -55,12 +55,7 @@
             "objects": [
                 {
                     "title": "FeWo2Go bewerten",
-                    "link": "https://itunes.apple.com/us/app/fewo2go/id889962859?ls=1&mt=8"
-                },
-                {
-                    "title": "Privacy Policy",
-                    "link": "http://www.fewo2go.com",
-                    "target": "webview"
+                    "link": "https://itunes.apple.com/app/fewo2go/id889962859?ls=1&mt=8"
                 }
             ]
         }

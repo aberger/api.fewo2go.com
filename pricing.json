@@ -52,7 +52,7 @@
 						  ]
 			 },
 			 {
-			 "title":"Schnupperkarte - ab 15:30",
+			 "title":"Schnupperkarte ab 15:30 Uhr",
 			 "price":500
 			 },
 			 {
@@ -61,11 +61,11 @@
 			 "price":1500
 			 },
 			 {
-			 "title":"Mittagskarte - von 12:00 bis 14:00",
+			 "title":"Mittagskarte 12:00 - 14:00 Uhr",
 			 "price":350
 			 },
 			 {
-			 "title":"Abendkarte - von 17:00 bis 22:30",
+			 "title":"Abendkarte 17:00 - 22:30 Uhr",
 			 "price":300
 			 },
 			 {
@@ -92,7 +92,7 @@
 			 "price":1400
 			 },
 			 {
-			 "title":"Busband - ab 22:15",
+			 "title":"Busband - ab 22:15 Uhr",
 			 "subtitle":"An den Kassen und im Festwochengel\u00e4nde erh\u00e4ltlich.",
 			 "price":200
 			 }

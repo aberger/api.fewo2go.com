@@ -6,7 +6,7 @@
             "objects": [
                 {
                     "description": "After-Feschtwoch Party<br>Dirndl meets Lederhose - Presented by Joe H\u00f6ssl No Limit<br><br>mit DJ Butzi und Double T<br><br>Sichern Sie sich Ihre Greencard!<br>Garantierter Eintritt!<br>Infos unter:<br>joe@hoessl.net<br>+49 175 29 46 264<br><br>Einlass ab 22.30 Uhr - ab 18 Jahren<br><br>\u00dcbrigens: Veranstalter ist nicht der Stiftswirt sondern \"der Joe H\u00f6ssl von den Comets\".",
-                    "end_date": "2014-08-09T04:00:00+02:00",
+                    "end_date": "2014-08-08T04:00:00+02:00",
                     "hosted_by": "Zum Stift",
                     "id": 4201,
                     "image": "http://api.fewo2go.com/assets/afterfewo/stift.png",
@@ -19,7 +19,7 @@
                 },
                 {
                     "description": "Die Afterparty zum Festwochenauftakt!",
-                    "end_date": "2014-08-09T05:00:00+02:00",
+                    "end_date": "2014-08-08T05:00:00+02:00",
                     "hosted_by": "Parktheater",
                     "id": 4202,
                     "image": "http://api.fewo2go.com/assets/afterfewo/parktheater.png",
@@ -58,12 +58,12 @@
                         "lat": 47.728555,
                         "long": 10.31035
                     },
-                    "start_date": "2014-08-08T22:30:00+02:00",
+                    "start_date": "2014-08-09T22:30:00+02:00",
                     "title": "Saturday Night Fever im Dirndl und d\u00b4 Lederhos"
                 },
                 {
                     "description": "Ein Dekollet\u00e9 zum Versinken! Die Experten pr\u00e4mieren\u2026",
-                    "end_date": "2014-08-10T05:00:00+02:00",
+                    "end_date": "2014-08-09T05:00:00+02:00",
                     "hosted_by": "Parktheater",
                     "id": 4302,
                     "image": "http://api.fewo2go.com/assets/afterfewo/parktheater.png",
@@ -147,10 +147,23 @@
             "id": 4700,
             "objects": [
                 {
+                    "description": "After-Feschtwoch Party<br>Dirndl meets Lederhose - Presented by Joe H\u00f6ssl No Limit<br><br>mit DJ Butzi und Double T<br><br>Sichern Sie sich Ihre Greencard!<br>Garantierter Eintritt!<br>Infos unter:<br>joe@hoessl.net<br>+49 175 29 46 264<br><br>Einlass ab 22.30 Uhr - ab 18 Jahren<br><br>\u00dcbrigens: Veranstalter ist nicht der Stiftswirt sondern \"der Joe H\u00f6ssl von den Comets\".",
+                    "end_date": "2014-08-13T04:00:00+02:00",
+                    "hosted_by": "Zum Stift",
+                    "id": 4701,
+                    "image": "http://api.fewo2go.com/assets/afterfewo/stift.png",
+                    "location": {
+                        "lat": 47.728555,
+                        "long": 10.31035
+                    },
+                    "start_date": "2014-08-13T22:30:00+02:00",
+                    "title": "After-Feschtwoch"
+                },
+				{
                     "description": "Da kutt koiner z\u00b4knapp!",
                     "end_date": "2014-08-14T05:00:00+02:00",
                     "hosted_by": "Parktheater",
-                    "id": 4701,
+                    "id": 4702,
                     "image": "http://api.fewo2go.com/assets/afterfewo/parktheater.png",
                     "location": {
                         "lat": 47.724386,
@@ -162,7 +175,7 @@
                 {
                     "description": "Ab 23 Uhr geht\u2019s los bis open end\u2026<br><br>Eintritt 3,00 \u20ac<br><br>Musik von DJ Andi\u2026",
                     "hosted_by": "New-Lobby",
-                    "id": 4702,
+                    "id": 4703,
                     "image": "http://api.fewo2go.com/assets/afterfewo/lobby.png",
                     "location": {
                         "lat": 47.728555,
@@ -179,7 +192,7 @@
             "objects": [
                 {
                     "description": "After-Feschtwoch Party<br>Dirndl meets Lederhose - Presented by Joe H\u00f6ssl No Limit<br><br>mit DJ Butzi und Double T<br><br>Sichern Sie sich Ihre Greencard!<br>Garantierter Eintritt!<br>Infos unter:<br>joe@hoessl.net<br>+49 175 29 46 264<br><br>Einlass ab 22.30 Uhr - ab 18 Jahren<br><br>\u00dcbrigens: Veranstalter ist nicht der Stiftswirt sondern \"der Joe H\u00f6ssl von den Comets\".",
-                    "end_date": "2014-08-09T04:00:00+02:00",
+                    "end_date": "2014-08-14T04:00:00+02:00",
                     "hosted_by": "Zum Stift",
                     "id": 4801,
                     "image": "http://api.fewo2go.com/assets/afterfewo/stift.png",
@@ -187,7 +200,7 @@
                         "lat": 47.728555,
                         "long": 10.31035
                     },
-                    "start_date": "2014-08-08T22:30:00+02:00",
+                    "start_date": "2014-08-14T22:30:00+02:00",
                     "title": "A bissl mehr wia Halbzeit"
                 },
                 {
@@ -223,7 +236,7 @@
             "objects": [
                 {
                     "description": "After-Feschtwoch Party<br>Dirndl meets Lederhose - Presented by Joe H\u00f6ssl No Limit<br><br>mit DJ Butzi und Double T<br><br>Sichern Sie sich Ihre Greencard!<br>Garantierter Eintritt!<br>Infos unter:<br>joe@hoessl.net<br>+49 175 29 46 264<br><br>Einlass ab 22.30 Uhr - ab 18 Jahren<br><br>\u00dcbrigens: Veranstalter ist nicht der Stiftswirt sondern \"der Joe H\u00f6ssl von den Comets\".",
-                    "end_date": "2014-08-09T04:00:00+02:00",
+                    "end_date": "2014-08-15T04:00:00+02:00",
                     "hosted_by": "Zum Stift",
                     "id": 4901,
                     "image": "http://api.fewo2go.com/assets/afterfewo/stift.png",
@@ -231,7 +244,7 @@
                         "lat": 47.728555,
                         "long": 10.31035
                     },
-                    "start_date": "2014-08-08T22:30:00+02:00",
+                    "start_date": "2014-08-15T22:30:00+02:00",
                     "title": "Endschpurt"
                 },
                 {
@@ -267,7 +280,7 @@
             "objects": [
                 {
                     "description": "After-Feschtwoch Party<br>Dirndl meets Lederhose - Presented by Joe H\u00f6ssl No Limit<br><br>mit DJ Butzi und Double T<br><br>Sichern Sie sich Ihre Greencard!<br>Garantierter Eintritt!<br>Infos unter:<br>joe@hoessl.net<br>+49 175 29 46 264<br><br>Einlass ab 22.30 Uhr - ab 18 Jahren<br><br>\u00dcbrigens: Veranstalter ist nicht der Stiftswirt sondern \"der Joe H\u00f6ssl von den Comets\".",
-                    "end_date": "2014-08-09T04:00:00+02:00",
+                    "end_date": "2014-08-16T04:00:00+02:00",
                     "hosted_by": "Zum Stift",
                     "id": 5001,
                     "image": "http://api.fewo2go.com/assets/afterfewo/stift.png",
@@ -275,7 +288,7 @@
                         "lat": 47.728555,
                         "long": 10.31035
                     },
-                    "start_date": "2014-08-08T22:30:00+02:00",
+                    "start_date": "2014-08-16T22:30:00+02:00",
                     "title": "Gro\u00dfes \"Finale\""
                 },
                 {
