@@ -4707,6 +4707,10 @@
             "objects": [
                 {
                     "id": 99999,
+                    "location": {
+                        "lat": 0.0,
+                        "long": 0.0
+                    },
                     "title": "\u00dcber die App",
                     "view": "about"
                 }
