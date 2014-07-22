@@ -1,61 +1,65 @@
 {
     "about": [
         {
-			"title": "Kontakt",
             "objects": [
                 {
-                    "title": "Website",
-                    "link": "http://www.fewo2go.com"
+                    "link": "http://www.fewo2go.com",
+                    "title": "Website"
                 },
                 {
-                    "title": "FeWo2Go auf Facebook liken",
-                    "link": "https://www.facebook.com/fewo2goapp"
+                    "link": "https://www.facebook.com/fewo2goapp",
+                    "title": "FeWo2Go auf Facebook liken"
                 },
                 {
-                    "title": "FeWo2Go auf Twitter folgen",
-                    "link": "https://twitter.com/fewo2go"
+                    "link": "https://twitter.com/fewo2go",
+                    "title": "FeWo2Go auf Twitter folgen"
                 },
                 {
-                    "title": "FeWo2Go auf Instagram folgen",
-                    "link": "http://instagram.com/fewo2go/"
+                    "link": "http://instagram.com/fewo2go/",
+                    "title": "FeWo2Go auf Instagram folgen"
                 }
-            ]
+            ],
+            "title": "Kontakt"
         },
         {
-            "title": "Team",
             "objects": [
                 {
-                    "title": "Alex Berger",
                     "description": "Idee und Umsetzung",
-                    "link": "http://aberger.me"
+                    "link": "http://aberger.me",
+                    "title": "Alex Berger"
                 },
                 {
-                    "title": "Alessandro Tramontana",
-                    "description": "Art Direction",
-                    "link": "http://www.fewo2go.com/team/ale.html"
+                    "description": "Konzept und Art Direction",
+                    "link": "http://www.fewo2go.com/team/ale.html",
+                    "title": "Alessandro Tramontana"
                 },
                 {
-                    "title": "Miriam Janiel",
                     "description": "Projekt Management",
-                    "link": "http://miriam.janiel.eu"
+                    "link": "http://miriam.janiel.eu",
+                    "title": "Miriam Janiel"
                 },
                 {
-                    "title": "Michael Ohnrich",
                     "description": "3D Artwork",
-                    "link": "http://www.3dohnrich.de"
+                    "link": "http://www.3dohnrich.de",
+                    "title": "Michael Ohnrich"
                 },
                 {
-                    "title": "Special thanks",
                     "link": "http://www.fewo2go.com/thanks",
-                    "target": "webview"
+                    "target": "webview",
+                    "title": "Special thanks"
                 }
-            ]
+            ],
+            "title": "Team"
         },
         {
             "objects": [
                 {
-                    "title": "FeWo2Go bewerten",
-                    "link": "https://itunes.apple.com/app/fewo2go/id889962859?ls=1&mt=8"
+                    "link": "https://itunes.apple.com/app/fewo2go/id889962859?ls=1&mt=8",
+                    "title": "FeWo2Go bewerten"
+                },
+                {
+                    "link": "mailto:?subject=FeWo2Go%20-%20Deine%20App%20zur%20Allg\u00e4uer%20Festwoche&body=https://itunes.apple.com/app/fewo2go/id889962859?ls=1&mt=8",
+                    "title": "FeWo2Go empfehlen"
                 }
             ]
         }

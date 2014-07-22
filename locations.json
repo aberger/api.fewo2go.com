@@ -37,7 +37,7 @@
                                     "title": "Allg\u00e4uer Krautkrapfen"
                                 },
                                 {
-                                    "price": 3800,
+                                    "price": 4250,
                                     "title": "Brotzeitbrettl f\u00fcr 4 Personen"
                                 },
                                 {
@@ -59,11 +59,11 @@
                             "objects": [
                                 {
                                     "start_date": "2014-08-09T11:00:00+02:00",
-                                    "title": "Mit dem Trio Halblang"
+                                    "title": "Fr\u00fchschoppen"
                                 },
                                 {
                                     "start_date": "2014-08-10T11:00:00+02:00",
-                                    "title": "Mit dem Trio Halblang"
+                                    "title": "Fr\u00fchschoppen"
                                 },
                                 {
                                     "start_date": "2014-08-11T11:00:00+02:00",
@@ -104,7 +104,7 @@
                                 },
                                 {
                                     "start_date": "2014-08-12T19:00:00+02:00",
-                                    "title": "Die Oberallg\u00e4uer Musikanten"
+                                    "title": "Oberallg\u00e4u Musikanten"
                                 },
                                 {
                                     "start_date": "2014-08-13T11:00:00+02:00",
@@ -167,6 +167,41 @@
                     "title": "Zum Stift"
                 },
                 {
+                    "details": [
+                        {
+                            "objects": [
+                                {
+                                    "price": 390,
+                                    "title": "Meckatzer Weiss-Gold 0,5l"
+                                },
+                                {
+                                    "price": 390,
+                                    "title": "Meckatzer Hefeweizen 0,5l"
+                                },
+                                {
+                                    "price": 450,
+                                    "title": "Weinschorle weiß/rot 0,5l"
+                                },
+                                {
+                                    "price": 9999,
+                                    "title": "Kuchen/Torten/Desserts"
+                                },
+                                {
+                                    "price": 1020,
+                                    "title": "Gemischte Brotzeit"
+                                },
+                                {
+                                    "price": 850,
+                                    "title": "Hausgemachtes Anti Pasti"
+                                },
+                                {
+                                    "price": 5500,
+                                    "title": "Riesenbrotzeitbrett 1 Meter ab 21:00"
+                                }
+                            ],
+                            "title": "Speise- und Getr\u00e4nkekarte"
+                        }
+					],
                     "id": 1202,
                     "location": {
                         "lat": 47.72623,
