@@ -1,100 +1,111 @@
-{"pricing": [
-			 {
-			 "title":"Tageskarte",
-			 "subtitle":"",
-			 "price":750,
-			 "discounts":[
-						  {
-						  "title":"Kinder unter 13 Jahren",
-						  "subtitle":"(in Begleitung Erwachsener)",
-						  "price":0
-						  },
-						  {
-						  "title":"Gruppen",
-						  "subtitle":"(ab 10 Personen)",
-						  "price":600
-						  },
-						  {
-						  "title":"Besucher, die mit Bus oder Bahn anreisen",
-						  "subtitle":"",
-						  "price":600
-						  },
-						  {
-						  "title":"Allg\u00e4u-Walser-Card",
-						  "subtitle":"",
-						  "price":600
-						  },
-						  {
-						  "title":"Senioren ab 60 Jahren",
-						  "subtitle":"(gegen Vorlage ihres Personalausweises)",
-						  "price":600
-						  },
-						  {
-						  "title":"Schwerbehinderte und deren Begleitpersonen",
-						  "subtitle":"(die im Ausweis der Betreffenden durch das Merkzeichen B gekennzeichnet sind)",
-						  "price":600
-						  },
-						  {
-						  "title":"Jugendliche von 13 bis einschlie\u00dflich 17 Jahren",
-						  "subtitle":"",
-						  "price":600
-						  },
-						  {
-						  "title":"Sch\u00fcler, Studenten, Bundesfreiwilligendienst Leistende",
-						  "subtitle":"(gegen Vorlage ihres Ausweis)",
-						  "price":600
-						  },
-						  {
-						  "title":"Arbeitslose und Sozialhilfeempf\u00e4nger",
-						  "subtitle":"(gegen Nachweis, in Verbindung mit dem g\u00fcltigen Personalausweis)",
-						  "price":600
-						  }
-						  ]
-			 },
-			 {
-			 "title":"Schnupperkarte ab 15:30 Uhr",
-			 "price":500
-			 },
-			 {
-			 "title":"Familienkarte",
-			 "subtitle":"F\u00fcr 2 Erwachsene und beliebig viele eigene Kinder bis 18 Jahre",
-			 "price":1500
-			 },
-			 {
-			 "title":"Mittagskarte 12:00 - 14:00 Uhr",
-			 "price":350
-			 },
-			 {
-			 "title":"Abendkarte 17:00 - 22:30 Uhr",
-			 "price":300
-			 },
-			 {
-			 "title":"Abendkarte Plus",
-			 "subtitle":"Inklusive Busheimfahrt mit Nachtbussen der Verkehrsgemeinschaft Kempten",
-			 "price":600
-			 },
-			 {
-			 "title":"10er Abendkarte",
-			 "price":2700
-			 },
-			 {
-			 "title":"Allg\u00e4uer Kunstaustellung",
-			 "price":0
-			 },
-			 {
-			 "title":"Kombikarte 1 - VG Kempten",
-			 "subtitle":"Beinaltet den Eintritt zur Messe sowie Hin- und R\u00fcckfahrt. G\u00fcltig auch in den Nachtbussen.",
-			 "price":900
-			 },
-			 {
-			 "title":"Kombikarte 2 - VG Oberallg\u00e4u",
-			 "subtitle":"Beinaltet den Eintritt zur Messe sowie Hin- und R\u00fcckfahrt. G\u00fcltig auch in den Nachtbussen.",
-			 "price":1400
-			 },
-			 {
-			 "title":"Busband - ab 22:15 Uhr",
-			 "subtitle":"An den Kassen und im Festwochengel\u00e4nde erh\u00e4ltlich.",
-			 "price":200
-			 }
-			 ]
+{
+    "pricing": [
+        {
+            "discounts": [
+                {
+                    "price": 0,
+                    "subtitle": "(in Begleitung Erwachsener)",
+                    "title": "Kinder unter 13 Jahren"
+                },
+                {
+                    "price": 600,
+                    "subtitle": "(ab 10 Personen)",
+                    "title": "Gruppen"
+                },
+                {
+                    "price": 600,
+                    "subtitle": "",
+                    "title": "Besucher, die mit Bus oder Bahn anreisen"
+                },
+                {
+                    "price": 600,
+                    "subtitle": "",
+                    "title": "Allg\u00e4u-Walser-Card"
+                },
+                {
+                    "price": 600,
+                    "subtitle": "",
+                    "title": "HEIMATCard (Allg\u00e4uer Zeitung)"
+                },
+                {
+                    "price": 600,
+                    "subtitle": "",
+                    "title": "Rentner und Pension\u00e4re (gegen Nachweis)"
+                },
+                {
+                    "price": 600,
+                    "subtitle": "(gegen Vorlage ihres Personalausweises)",
+                    "title": "Senioren ab 60 Jahren"
+                },
+                {
+                    "price": 600,
+                    "subtitle": "(die im Ausweis der Betreffenden durch das Merkzeichen B gekennzeichnet sind)",
+                    "title": "Schwerbehinderte und deren Begleitpersonen"
+                },
+                {
+                    "price": 600,
+                    "subtitle": "",
+                    "title": "Jugendliche von 13 bis einschlie\u00dflich 17 Jahren"
+                },
+                {
+                    "price": 600,
+                    "subtitle": "(gegen Vorlage ihres Ausweis)",
+                    "title": "Sch\u00fcler, Studenten, Bundesfreiwilligendienst Leistende"
+                },
+                {
+                    "price": 600,
+                    "subtitle": "(gegen Nachweis, in Verbindung mit dem g\u00fcltigen Personalausweis)",
+                    "title": "Arbeitslose und Sozialhilfeempf\u00e4nger"
+                }
+            ],
+            "price": 750,
+            "subtitle": "",
+            "title": "Tageskarte"
+        },
+        {
+            "price": 500,
+            "title": "Schnupperkarte ab 15:30 Uhr"
+        },
+        {
+            "price": 1500,
+            "subtitle": "F\u00fcr 2 Erwachsene und beliebig viele eigene Kinder bis 18 Jahre",
+            "title": "Familienkarte"
+        },
+        {
+            "price": 350,
+            "title": "Mittagskarte 12:00 - 14:00 Uhr"
+        },
+        {
+            "price": 300,
+            "title": "Abendkarte 17:00 - 22:30 Uhr"
+        },
+        {
+            "price": 600,
+            "subtitle": "Inklusive Busheimfahrt mit Nachtbussen der Verkehrsgemeinschaft Kempten",
+            "title": "Abendkarte Plus"
+        },
+        {
+            "price": 2700,
+            "title": "10er Abendkarte"
+        },
+        {
+            "price": 0,
+            "title": "Allg\u00e4uer Kunstaustellung"
+        },
+        {
+            "price": 900,
+            "subtitle": "Beinaltet den Eintritt zur Messe sowie Hin- und R\u00fcckfahrt. G\u00fcltig auch in den Nachtbussen.",
+            "title": "Kombikarte 1 - VG Kempten"
+        },
+        {
+            "price": 1400,
+            "subtitle": "Beinaltet den Eintritt zur Messe sowie Hin- und R\u00fcckfahrt. G\u00fcltig auch in den Nachtbussen.",
+            "title": "Kombikarte 2 - VG Oberallg\u00e4u"
+        },
+        {
+            "price": 200,
+            "subtitle": "An den Kassen und im Festwochengel\u00e4nde erh\u00e4ltlich.",
+            "title": "Busband - ab 22:15 Uhr"
+        }
+    ]
 }

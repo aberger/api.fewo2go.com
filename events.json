@@ -1,198 +1,214 @@
-{"events": [
-	{
-	"id": 3000,
-	"day": "",
-	"objects": [
-				{
-				"id": 3001,
-				"title": "65. Kunstaustellung",
-				"description": "Die 65. Kunstausstellung im Rahmen der Allg\u00E4uer Festwoche findet vom 9. August bis 14. September 2014 im Hofgartensaal der Residenz statt. Die Stadt Kempten (Allg\u00E4u) l\u00E4dt Bildende K\u00FCnstlerinnen und K\u00FCnstler zur Teilnahme ein, die seit mindestens einem Jahr ihren Hauptwohnsitz im Allg\u00E4u haben oder im Allg\u00E4u geboren sind. Gezeigt werden k\u00F6nnen Werke der Malerei, Bildhauerei, Grafik, Installation, Fotografie und Videokunst.<br><br>Die Kunstausstellung ist im Ausstellungszeitraum t\u00E4glich von 10:00 - 18:00 Uhr ge\u00F6ffnet."
-			}
-				]
-	},
-			{
-			"id": 3100,
-			"day": "2014-08-07T00:00:00+02:00",
-			"objects": [
-						{
-						"id": 3101,
-						"title": "Claire",
-						"hosted_by": "Residenzhof",
-						"image": "http://api.fewo2go.com/assets/events/claire.png",
-						"entry_date": "2014-08-07T19:00:00+02:00",
-						"start_date": "2014-08-07T20:00:00+02:00",
-						"description": "Er\u00f6ffnet wird die Festwochen Kultur in diesem Jahr erstmals bereits einen Tag fr\u00fcher - und zwar exklusiv am Donnerstag, 07.08. im Residenzhof.<br><br>Als Warm-Up pr\u00e4sentieren wir euch die Senkrechtstarter der deutschen Musikszene: Claire!<br>Der Ursprung der Band liegt in M\u00fcnchen. Josie-Claire, S\u00e4ngerin und Namensgeberin der Formation, hat ihre Wurzeln jedoch im Allg\u00e4u. Nach Tourneen und Festivalgigs in halb Europa kommt Claire (nach ihrem Auftritt 2013 im K\u00fcnstlerhaus) endlich wieder nach Kempten.<br><br>Kostenloser Eintritt mit dem Konzertticket zur Aftershow im Parktheater!"
-					}
-						]
-			},
-			{
-			"id": 3200,
-			"day": "2014-08-08T00:00:00+02:00",
-			"objects": [
-						{
-						"id": 3201,
-						"title": "Feuerwerk",
-						"entry_date": "2014-08-08T19:00:00+02:00",
-						"start_date": "2014-08-08T20:00:00+02:00"
-						},
-						{
-						"id": 3202,
-						"title": "4 Voices",
-						"hosted_by": "B\u00fchne im Stadtpark",
-						"entry_date": "2014-08-08T20:00:00+02:00",
-						"start_date": "2014-08-08T20:00:00+02:00"
-						}
-						]
-			},
-	  		{
-			"id": 3300,
-  			"day": "2014-08-09T00:00:00+02:00",
-  			"objects": [
-						{
-						"id": 3301,
-						"title": "Residenzhofserenade",
-						"hosted_by": "Residenzhof",
-						"image": "http://api.fewo2go.com/assets/events/residenzhofserenade.jpg",
-						"entry_date": "2014-08-09T19:00:00+02:00",
-						"start_date": "2014-08-09T20:00:00+02:00",
-						"description": "Das Blechbl\u00e4serensemble Abarizzo spielt bereits zum f\u00fcnften Mal in Folge die Residenzhofserenade - und erfreut sich \u00fcberaus gro\u00dfer Beliebtheit. Das Repertoire reicht von Werken aus der Renaissance und der Klassik \u00fcber romantische Musik bis hin zu Kompositionen des 20. Jahrhunderts und Arrangements aus Jazz und Swing. Die unterhaltsam und geistreich moderierten Konzerte des Ensembles sind immer wieder aufs Neue ein Erlebnis."
-					},
-						{
-						"id": 3302,
-						"title": "Prime Stone",
-						"hosted_by": "B\u00fchne im Stadtpark",
-						"entry_date": "2014-08-09T20:00:00+02:00",
-						"start_date": "2014-08-09T20:00:00+02:00"
-						}
-						]
-			},
-	  		{
-  			"id": 3400,
-  			"day": "2014-08-10T00:00:00+02:00",
-  			"objects": [
-						{
-						"id": 3401,
-						"title": "Georg Ringsgwandl",
-						"hosted_by": "Residenzhof",
-						"image": "http://api.fewo2go.com/assets/events/georg_ringsgwandl.jpg",
-						"entry_date": "2014-08-10T19:00:00+02:00",
-						"start_date": "2014-08-10T20:00:00+02:00",
-						"description": "Mehr Anerkennung in der Arbeit, die Kinder fitter in der Schule, die Frau freundlicher, der Mann ordentlicher, die Figur besser. Es k\u00f6nnte runder laufen im Leben, alles etwas mehr leuchten. Einfach \"Mehr Glanz!\" -So hei\u00dft auch sein neues Programm, welches Ringsgwandl & Band in Kempten pr\u00e4sentieren wird.<br>Seine Konzerte sind immer noch abgedrehte Vorstellungen, inzwischen aber musikalisch ausgeschlafene Programme: Ein Paradiesvogel, der immer gekonnter fliegt. (Hannoversche Allgemeine)"
-					},
-					{
-					"id": 3402,
-					"title": "Lichterfest",
-					"hosted_by": "Stadtpark",
-					"entry_date": "2014-08-10T19:00:00+02:00",
-					"start_date": "2014-08-10T20:00:00+02:00",
-					"description": "Ausweichtermin 13.08."
-					}
-						]
-			},
-			{
-			"id": 3500,
-			"day": "2014-08-11T00:00:00+02:00",
-			"objects": [
-						{
-						"id": 3501,
-						"title": "Seniorentag",
-						"entry_date": "2014-08-11T19:00:00+02:00",
-						"start_date": "2014-08-11T20:00:00+02:00"
-					},
-						{
-						"id": 3502,
-						"title": "Black Bottom Skiffle Group",
-						"hosted_by": "B\u00fchne im Stadtpark",
-						"entry_date": "2014-08-11T20:00:00+02:00",
-						"start_date": "2014-08-11T20:00:00+02:00"
-						}
-						]
-			},
-  	  		{
-			"id": 3600,
-			"day": "2014-08-12T00:00:00+02:00",
-			"objects": [
-						{
-						"id": 3601,
-						"title": "Westwind",
-						"hosted_by": "Residenzhof",
-						"image": "http://api.fewo2go.com/assets/events/westwind.jpg",
-						"entry_date": "2014-08-12T19:00:00+02:00",
-						"start_date": "2014-08-12T20:00:00+02:00",
-						"description": "Werner Specht geh\u00f6rt seit vielen Jahren zu einem der wichtigsten und profiliertesten Vertretern der Liedermacher-Szene im Allg\u00e4uer Raum. Mit seinem pers\u00f6nlichem Stil, seinen Texten und seiner Musikalit\u00e4t f\u00e4llt er aus dem g\u00e4ngigen Rahmen. Er ist immer am Suchen und Ver\u00e4ndern und versteht seinen musikalischen Weg als Lebensdeutung. Mit seiner Gruppe \"Westwind\", bestehend aus f\u00fcnf Musikern mit S\u00e4ngerin, bekommt seine Musik eine neue Dimension. Ihre Spielfreude geben diese Musiker in ihrer sch\u00f6nsten Form weiter, sie ist sp\u00fcrbar."
-					}
-						]
-			},
-  	  		{
-			"id": 3700,
-			"day": "2014-08-13T00:00:00+02:00",
-			"objects": [
-						{
-						"id": 3701,
-						"title": "Die gro\u00dfe Nacht der Filmmusik",
-						"hosted_by": "Residenzhof",
-						"entry_date": "2014-08-13T19:00:00+02:00",
-						"start_date": "2014-08-13T20:00:00+02:00",
-						"description": "Weltraumschlachten, Verfolgungsjagden oder Liebesszenen - ohne Musik sind sie auf der Leinwand kaum denkbar. Nach dem Motto Spiel mir das Lied zum Film pr\u00e4sentiert eine Gruppe Allg\u00e4uer K\u00fcnstler unter der Gesamtleitung der Sopranistin Gertrud Hiemer-Haslach einen Abend mit den gr\u00f6\u00dften Musiktiteln der Filmgeschichte. Die Bandbreite reicht von Marlene-Dietrich-Klassikern (Kinder, heut Abend) \u00fcber 80er-Jahre-Tanzfilme (Dirty Dancing) und aktuellen Songs wie Skyfall bis hin zu Instrumentaltiteln aus Der mit dem Wolf tanzt oder Twighlight.<br>Au\u00dferdem mit dabei: Pianist Reinhold Ohmayer (Voice 4U), Jazz-S\u00e4ngerin Lydia Schiller, Matthias Haslach (stellv. Solotrompeter der Stuttgarter Philharmoniker), Tom Cro\u00E8l (Voice  4U, Face & Voicerience), Roland Wintergerst (Freilichtb\u00fcghne Altusried, U50-Chor Altusried & Musical-Corporation)"
-					},
-					{
-					"id": 3702,
-					"title": "Familientag",
-					"entry_date": "2014-08-13T19:00:00+02:00",
-					"start_date": "2014-08-13T20:00:00+02:00"
-				},
-						{
-						"id": 3703,
-						"title": "K\u00E4s \u0026 Roll",
-						"hosted_by": "B\u00fchne im Stadtpark",
-						"entry_date": "2014-08-13T20:00:00+02:00",
-						"start_date": "2014-08-13T20:00:00+02:00"
-						}
-						]
-			},
-  	  		{
-			"id": 3800,
-			"day": "2014-08-14T00:00:00+02:00",
-			"objects": [
-						{
-						"id": 3801,
-						"title": "Rainer von Vielen",
-						"hosted_by": "Residenzhof",
-						"image": "http://api.fewo2go.com/assets/events/rainer_von_vielen.jpg",
-						"entry_date": "2014-08-14T19:00:00+02:00",
-						"start_date": "2014-08-14T20:00:00+02:00",
-						"description": "F\u00fcr nachhaltige Zerstreuung, regenerative Euphorie & die globale Erw\u00e4rmung des Weltfriedens. In Zeiten des Kulturpessimismus & der Gleichg\u00fcltigkeit tritt die Allg\u00e4uer Band Rainer von Vielen f\u00fcr eine Erneuerung des Wertekanons der Menschheit ein.<br>Emp\u00f6rt Euch!, Niedermauern, Du bist nicht allein, Wenn die Welt untergeht - Titel aus dem B\u00fchnenst\u00fcck, die ohne gro\u00dfe Worte die Sto\u00dfrichtung erkennen lassen. Die zeitkritischen, fast zynischen Texte treffen auf klassische Liebeslieder und anscheinend leichte Popsongs, mit denen sich die Welt erkl\u00e4ren l\u00e4sst."
-					},
-						{
-						"id": 3802,
-						"title": "Bluestaff",
-						"hosted_by": "B\u00fchne im Stadtpark",
-						"entry_date": "2014-08-14T20:00:00+02:00",
-						"start_date": "2014-08-14T20:00:00+02:00",
-						"description": "Altes und Neues aus der Blueskiste, gew\u00FCrzt mit Klassikern aus Rock und Soul. Die f\u00FCnf Musiker covern mit einzigartigem Feeling und dr\u00FCcken so den Songs ihren eigenen Stempel auf. Das Repertoire reicht von James Brown, Cannet Heat und Gary Moore bis hin zu Eigenkompositionen."
-						}
-						]
-			},
-	  		{
-			"id": 3900,
-			"day": "2014-08-15T00:00:00+02:00",
-			"objects": [
-						{
-						"id": 3901,
-						"title": "Gemeinschaftskonzert",
-						"image": "http://api.fewo2go.com/assets/events/gemeinschaftskonzert.jpg",
-						"entry_date": "2014-08-15T18:00:00+02:00",
-						"start_date": "2014-08-15T19:00:00+02:00",
-						"description": "Den traditionellen Ausklang der Festwochenkultur 2014 \u00fcbernimmt am Freitag der Musikverein Sankt Mang im Rahmen eines Gemeinschaftskonzertes mit dem Musikverein Konzenberg. Der Eintritt ist bei diesem Konzert frei, um Spenden wird gebeten."
-					},
-						{
-						"id": 3902,
-						"title": "Residence NonAme",
-						"hosted_by": "B\u00fchne im Stadtpark",
-						"entry_date": "2014-08-15T20:00:00+02:00",
-						"start_date": "2014-08-15T20:00:00+02:00"
-					}
-						]
-			}
+{
+    "events": [
+        {
+            "day": "",
+            "id": 3000,
+            "objects": [
+                {
+                    "description": "Die 65. Kunstausstellung im Rahmen der Allg\u00e4uer Festwoche findet vom 9. August bis 14. September 2014 im Hofgartensaal der Residenz statt. Die Stadt Kempten (Allg\u00e4u) l\u00e4dt Bildende K\u00fcnstlerinnen und K\u00fcnstler zur Teilnahme ein, die seit mindestens einem Jahr ihren Hauptwohnsitz im Allg\u00e4u haben oder im Allg\u00e4u geboren sind. Gezeigt werden k\u00f6nnen Werke der Malerei, Bildhauerei, Grafik, Installation, Fotografie und Videokunst.<br><br>Die Kunstausstellung ist im Ausstellungszeitraum t\u00e4glich von 10:00 - 18:00 Uhr ge\u00f6ffnet.",
+                    "id": 3001,
+                    "title": "65. Kunstaustellung"
+                }
+            ]
+        },
+        {
+            "day": "2014-08-07T00:00:00+02:00",
+            "id": 3100,
+            "objects": [
+                {
+                    "description": "Er\u00f6ffnet wird die Festwochen Kultur in diesem Jahr erstmals bereits einen Tag fr\u00fcher - und zwar exklusiv am Donnerstag, 07.08. im Residenzhof.<br><br>Als Warm-Up pr\u00e4sentieren wir euch die Senkrechtstarter der deutschen Musikszene: Claire!<br>Der Ursprung der Band liegt in M\u00fcnchen. Josie-Claire, S\u00e4ngerin und Namensgeberin der Formation, hat ihre Wurzeln jedoch im Allg\u00e4u. Nach Tourneen und Festivalgigs in halb Europa kommt Claire (nach ihrem Auftritt 2013 im K\u00fcnstlerhaus) endlich wieder nach Kempten.<br><br>Kostenloser Eintritt mit dem Konzertticket zur Aftershow im Parktheater!",
+                    "entry_date": "2014-08-07T19:00:00+02:00",
+                    "hosted_by": "Residenzhof",
+                    "id": 3101,
+                    "image": "http://api.fewo2go.com/assets/events/claire.png",
+                    "start_date": "2014-08-07T20:00:00+02:00",
+                    "title": "Claire"
+                }
+            ]
+        },
+        {
+            "day": "2014-08-08T00:00:00+02:00",
+            "id": 3200,
+            "objects": [
+                {
+                    "entry_date": "2014-08-08T19:00:00+02:00",
+                    "id": 3201,
+                    "start_date": "2014-08-08T20:00:00+02:00",
+                    "title": "Feuerwerk"
+                },
+                {
+                    "entry_date": "2014-08-08T20:00:00+02:00",
+                    "hosted_by": "B\u00fchne im Stadtpark",
+                    "id": 3202,
+                    "start_date": "2014-08-08T20:00:00+02:00",
+                    "title": "4 Voices"
+                }
+            ]
+        },
+        {
+            "day": "2014-08-09T00:00:00+02:00",
+            "id": 3300,
+            "objects": [
+                {
+                    "description": "Das Blechbl\u00e4serensemble Abarizzo spielt bereits zum f\u00fcnften Mal in Folge die Residenzhofserenade - und erfreut sich \u00fcberaus gro\u00dfer Beliebtheit. Das Repertoire reicht von Werken aus der Renaissance und der Klassik \u00fcber romantische Musik bis hin zu Kompositionen des 20. Jahrhunderts und Arrangements aus Jazz und Swing. Die unterhaltsam und geistreich moderierten Konzerte des Ensembles sind immer wieder aufs Neue ein Erlebnis.",
+                    "entry_date": "2014-08-09T19:00:00+02:00",
+                    "hosted_by": "Residenzhof",
+                    "id": 3301,
+                    "image": "http://api.fewo2go.com/assets/events/residenzhofserenade.png",
+                    "start_date": "2014-08-09T20:00:00+02:00",
+                    "title": "Residenzhofserenade"
+                },
+                {
+                    "entry_date": "2014-08-09T20:00:00+02:00",
+                    "hosted_by": "B\u00fchne im Stadtpark",
+                    "id": 3302,
+                    "start_date": "2014-08-09T20:00:00+02:00",
+                    "title": "Prime Stone"
+                }
+            ]
+        },
+        {
+            "day": "2014-08-10T00:00:00+02:00",
+            "id": 3400,
+            "objects": [
+                {
+                    "description": "Mehr Anerkennung in der Arbeit, die Kinder fitter in der Schule, die Frau freundlicher, der Mann ordentlicher, die Figur besser. Es k\u00f6nnte runder laufen im Leben, alles etwas mehr leuchten. Einfach \"Mehr Glanz!\" -So hei\u00dft auch sein neues Programm, welches Ringsgwandl & Band in Kempten pr\u00e4sentieren wird.<br>Seine Konzerte sind immer noch abgedrehte Vorstellungen, inzwischen aber musikalisch ausgeschlafene Programme: Ein Paradiesvogel, der immer gekonnter fliegt. (Hannoversche Allgemeine)",
+                    "entry_date": "2014-08-10T19:00:00+02:00",
+                    "hosted_by": "Residenzhof",
+                    "id": 3401,
+                    "image": "http://api.fewo2go.com/assets/events/georg_ringsgwandl.png",
+                    "start_date": "2014-08-10T20:00:00+02:00",
+                    "title": "Georg Ringsgwandl"
+                },
+                {
+                    "description": "Ausweichtermin 13.08.",
+                    "entry_date": "2014-08-10T19:00:00+02:00",
+                    "hosted_by": "Stadtpark",
+                    "id": 3402,
+                    "start_date": "2014-08-10T20:00:00+02:00",
+                    "title": "Lichterfest"
+                }
+            ]
+        },
+        {
+            "day": "2014-08-11T00:00:00+02:00",
+            "id": 3500,
+            "objects": [
+                {
+                    "entry_date": "2014-08-11T19:00:00+02:00",
+                    "id": 3501,
+                    "start_date": "2014-08-11T20:00:00+02:00",
+                    "title": "Seniorentag"
+                },
+                {
+                    "entry_date": "2014-08-11T20:00:00+02:00",
+                    "hosted_by": "B\u00fchne im Stadtpark",
+                    "id": 3502,
+                    "start_date": "2014-08-11T20:00:00+02:00",
+                    "title": "Black Bottom Skiffle Group"
+                }
+            ]
+        },
+        {
+            "day": "2014-08-12T00:00:00+02:00",
+            "id": 3600,
+            "objects": [
+                {
+                    "description": "Werner Specht geh\u00f6rt seit vielen Jahren zu einem der wichtigsten und profiliertesten Vertretern der Liedermacher-Szene im Allg\u00e4uer Raum. Mit seinem pers\u00f6nlichem Stil, seinen Texten und seiner Musikalit\u00e4t f\u00e4llt er aus dem g\u00e4ngigen Rahmen. Er ist immer am Suchen und Ver\u00e4ndern und versteht seinen musikalischen Weg als Lebensdeutung. Mit seiner Gruppe \"Westwind\", bestehend aus f\u00fcnf Musikern mit S\u00e4ngerin, bekommt seine Musik eine neue Dimension. Ihre Spielfreude geben diese Musiker in ihrer sch\u00f6nsten Form weiter, sie ist sp\u00fcrbar.",
+                    "entry_date": "2014-08-12T19:00:00+02:00",
+                    "hosted_by": "Residenzhof",
+                    "id": 3601,
+                    "image": "http://api.fewo2go.com/assets/events/westwind.png",
+                    "start_date": "2014-08-12T20:00:00+02:00",
+                    "title": "Westwind"
+                }
+            ]
+        },
+        {
+            "day": "2014-08-13T00:00:00+02:00",
+            "id": 3700,
+            "objects": [
+                {
+                    "description": "Weltraumschlachten, Verfolgungsjagden oder Liebesszenen - ohne Musik sind sie auf der Leinwand kaum denkbar. Nach dem Motto Spiel mir das Lied zum Film pr\u00e4sentiert eine Gruppe Allg\u00e4uer K\u00fcnstler unter der Gesamtleitung der Sopranistin Gertrud Hiemer-Haslach einen Abend mit den gr\u00f6\u00dften Musiktiteln der Filmgeschichte. Die Bandbreite reicht von Marlene-Dietrich-Klassikern (Kinder, heut Abend) \u00fcber 80er-Jahre-Tanzfilme (Dirty Dancing) und aktuellen Songs wie Skyfall bis hin zu Instrumentaltiteln aus Der mit dem Wolf tanzt oder Twighlight.<br>Au\u00dferdem mit dabei: Pianist Reinhold Ohmayer (Voice 4U), Jazz-S\u00e4ngerin Lydia Schiller, Matthias Haslach (stellv. Solotrompeter der Stuttgarter Philharmoniker), Tom Cro\u00e8l (Voice  4U, Face & Voicerience), Roland Wintergerst (Freilichtb\u00fcghne Altusried, U50-Chor Altusried & Musical-Corporation)",
+                    "entry_date": "2014-08-13T19:00:00+02:00",
+                    "hosted_by": "Residenzhof",
+                    "id": 3701,
+                    "start_date": "2014-08-13T20:00:00+02:00",
+                    "title": "Die gro\u00dfe Nacht der Filmmusik"
+                },
+                {
+                    "entry_date": "2014-08-13T19:00:00+02:00",
+                    "id": 3702,
+                    "start_date": "2014-08-13T20:00:00+02:00",
+                    "title": "Familientag"
+                },
+                {
+                    "entry_date": "2014-08-13T20:00:00+02:00",
+                    "hosted_by": "B\u00fchne im Stadtpark",
+                    "id": 3703,
+                    "start_date": "2014-08-13T20:00:00+02:00",
+                    "title": "K\u00e4s & Roll"
+                },
+                {
+                    "entry_date": "2014-08-13T18:00:00+02:00",
+                    "hosted_by": "B\u00fchne im Stadtpark",
+                    "id": 3704,
+                    "start_date": "2014-08-13T18:45:00+02:00",
+                    "title": "Tanzshow Tanzschule Stiltanz"
+                }
+            ]
+        },
+        {
+            "day": "2014-08-14T00:00:00+02:00",
+            "id": 3800,
+            "objects": [
+                {
+                    "description": "F\u00fcr nachhaltige Zerstreuung, regenerative Euphorie & die globale Erw\u00e4rmung des Weltfriedens. In Zeiten des Kulturpessimismus & der Gleichg\u00fcltigkeit tritt die Allg\u00e4uer Band Rainer von Vielen f\u00fcr eine Erneuerung des Wertekanons der Menschheit ein.<br>Emp\u00f6rt Euch!, Niedermauern, Du bist nicht allein, Wenn die Welt untergeht - Titel aus dem B\u00fchnenst\u00fcck, die ohne gro\u00dfe Worte die Sto\u00dfrichtung erkennen lassen. Die zeitkritischen, fast zynischen Texte treffen auf klassische Liebeslieder und anscheinend leichte Popsongs, mit denen sich die Welt erkl\u00e4ren l\u00e4sst.",
+                    "entry_date": "2014-08-14T19:00:00+02:00",
+                    "hosted_by": "Residenzhof",
+                    "id": 3801,
+                    "image": "http://api.fewo2go.com/assets/events/rainer_von_vielen.png",
+                    "start_date": "2014-08-14T20:00:00+02:00",
+                    "title": "Rainer von Vielen"
+                },
+                {
+                    "description": "Altes und Neues aus der Blueskiste, gew\u00fcrzt mit Klassikern aus Rock und Soul. Die f\u00fcnf Musiker covern mit einzigartigem Feeling und dr\u00fccken so den Songs ihren eigenen Stempel auf. Das Repertoire reicht von James Brown, Cannet Heat und Gary Moore bis hin zu Eigenkompositionen.",
+                    "entry_date": "2014-08-14T20:00:00+02:00",
+                    "hosted_by": "B\u00fchne im Stadtpark",
+                    "id": 3802,
+                    "start_date": "2014-08-14T20:00:00+02:00",
+                    "title": "Bluestaff"
+                }
+            ]
+        },
+        {
+            "day": "2014-08-15T00:00:00+02:00",
+            "id": 3900,
+            "objects": [
+                {
+                    "description": "Start: individuell zwischen 8 und 10 Uhr<br>Promistart: 9:30 Uhr<br>Siegerehrung: 12:00 Uhr<br>Letzter Zieleinlauf: 14:00 Uhr<br>Start und Ziel: Residenzplatz Kempten<br><br>Dort ist auch mit einer kleinen Laufsport- und Gesundheitsmesse, mit Musik und einem Biergarten f\u00fcr Unterhaltung und das leibliche Wohl gesorgt.<br><br>Als Partnergemeinde konnten wir in diesem Jahr die M\u00e4rkte Buchenberg und Weitnau gewinnen.<br><br>In diese Richtung f\u00fchren auch die Strecken, die Georg Hieble wieder ausgew\u00e4hlt hat:<br>Bei 6 km \u2013 13 km \u2013 20 km\u2013 45 km - Distanz ist bestimmt f\u00fcr Jedermann/Jederfrau und Kind die richtige Strecke dabei.<br><br>Fast jede Fortbewegungsart ist erlaubt: Gehen, Wandern, Walken, Nordic-Walken, Laufen, Rollifahren, Handbiken, Inlinern, Skaten, Biken oder Radfahren\u2026<br><br>Der Allg\u00e4uer Benefizlauf zu Gunsten behinderter Menschen ist ein Lauf ohne Zeitabnahme. Spa\u00df und Freude an der Bewegung und am Miteinander stehen im Vordergrund.<br><br>Der Teilnehmer kann die von ihm gew\u00e4hlte Strecke alleine laufen und starten, wann er m\u00f6chte. Lustiger ist es aber, wenn man sich zu einem Team zusammenschlie\u00dft. Suchen Sie sich Mitl\u00e4ufer: in Ihrer Firma, Ihrer Freizeitgruppe, Ihrem Freundeskreis oder Ihrer Familie. Und suchen Sie sich einen Sponsor, der Ihre Aktivit\u00e4ten unterst\u00fctzt.<br>Man kann sich aber auch selbst sponsern. Die Startgeb\u00fchr richtet sich nach der gew\u00e4hlten Strecke (5,00 \u2013 10,00 \u2013 15,00 Euro) und kommt zu 100 % der Stiftung f\u00fcr K\u00f6rperbehinderte zugute.<br><br>Auch Kinder sind herzlich willkommen: Sie starten bis zum Alter von 12 Jahren gemeinsam mit den Eltern kostenlos, und jedes teilnehmende Kind bis zu diesem Alter erh\u00e4lt eine McDonald\u00b4s-\u00dcberraschung!<br><br>Gewinner sind die drei Teams, die sich mit der gr\u00f6\u00dften Teilnehmerzahl anmelden. Sie erhalten eine Einladung zur Brotzeit.<br>Das personenst\u00e4rkste Team erh\u00e4lt zus\u00e4tzlich den \u201eGemeinsam l\u00e4uft\u00b4s \u2013 Wanderpokal der BARMER GEK.<br><br>Sie k\u00f6nnen ab sofort Ihren Sponsorenvertrag mit der Teilnehmerliste von unserer Homepage herunterladen oder bei uns anfordern. F\u00fcr weitere Informationen stehen wir Ihnen jederzeit gerne zur Verf\u00fcgung.",
+                    "hosted_by": "Residenzplatz Kempten",
+                    "id": 3903,
+                    "image": "http://api.fewo2go.com/assets/events/benefizlauf.png",
+                    "start_date": "2014-08-15T08:00:00+02:00",
+                    "title": "9. Allg\u00e4uer Benefizlauf"
+                },
+                {
+                    "description": "Den traditionellen Ausklang der Festwochenkultur 2014 \u00fcbernimmt am Freitag der Musikverein Sankt Mang im Rahmen eines Gemeinschaftskonzertes mit dem Musikverein Konzenberg. Der Eintritt ist bei diesem Konzert frei, um Spenden wird gebeten.",
+                    "entry_date": "2014-08-15T18:00:00+02:00",
+                    "id": 3901,
+                    "image": "http://api.fewo2go.com/assets/events/gemeinschaftskonzert.png",
+                    "start_date": "2014-08-15T19:00:00+02:00",
+                    "title": "Gemeinschaftskonzert"
+                },
+                {
+                    "entry_date": "2014-08-15T20:00:00+02:00",
+                    "hosted_by": "B\u00fchne im Stadtpark",
+                    "id": 3902,
+                    "start_date": "2014-08-15T20:00:00+02:00",
+                    "title": "Residence NonAme"
+                }
+            ]
+        }
     ]
 }
