@@ -1,129 +1,172 @@
-{"bus": [
-		   {
-			   "id": 2100,
-			   "title":"Pendelbusse Park & Ride",
-			   "buses":[
-				   {
-					   "id": 2101,
-					   "title": "Pendelbus",
-					   "subtitle": "9:50 - 18:20 Uhr",
-					   "origin": "Park & Ride Parkpl\u00e4tze",
-					   "destination": "Festwochengel\u00e4nde",
-					   "stops": "keine",
-					   "departing": "t\u00e4glich von 9:50 bis 18:20 Uhr"
-				   }
-			   ]
-		   },
-		   {
-			   "id": 2200,
-			   "title":"Abendbusse",
-			   "buses":[
-				   {
-					   "id": 2201,
-					   "title": "Bus 1",
-					   "subtitle": "22:15, 23:15, 0:15, 0:45",
-					   "origin": "ZUM/Albert-Wehr-Platz/Linggstra\u00dfe",
-					   "destination": "Buchenberg \u2013 Weitnau \u2013 Isny",
-					   "stops": "Lindauer Stra\u00dfe/Heussring \u2013 Ayb\u00fchlweg \u2013 Leutkircher Stra\u00dfe \u2013 Rothkreuz \u2013 Buchenberg \u2013 Sibratshofen \u2013 ausw\u00e4rts B12 / einw\u00e4rts Weitnau",
-					   "departing": "t\u00e4glich um 22:15, 23:15, 0:15 und 0:45 Uhr"
-				   },
-				   {
-					   "id": 2202,
-					   "title": "Bus 2",
-					   "subtitle": "22:15, 23:15, 0:15, 0:45",
-					   "origin": "ZUM/Albert-Wehr-Platz/Linggstra\u00dfe",
-					   "destination": "Wildpoldsried",
-					   "stops": "Kaufbeurer Stra\u00dfe \u2013 B\u00fchl \u2013 Ostbahnhof \u2013 Betzigau \u2013 Wildpoldsried",
-					   "departing": "t\u00e4glich um 22:15, 23:15, 0:15 und 0:45 Uhr"
-				   },
-				   {
-					   "id": 2203,
-					   "title": "Bus 3",
-					   "subtitle": "22:15, 23:15, 0:15, 0:45",
-					   "origin": "ZUM/Albert-Wehr-Platz/Linggstra\u00dfe",
-					   "destination": "Immenstadt \u2013 Oberstdorf \u2013 Oberstaufen",
-					   "stops": "Immenst\u00e4dter Str. \u2013 Hegge/B19 \u2013 Stein \u2013 Immenstadt (nur um 0.45 Uhr: Umsteigem\u00f6glichkeit bei Bedarf nach Blaichach \u2013 Sonthofen \u2013 Oberstdorf und nach Oberstaufen)",
-					   "departing": "t\u00e4glich um 22:15, 23:15, 0:15 und 0:45 Uhr"
-				   },
-				   {
-					   "id": 2204,
-					   "title": "Bus 4",
-					   "subtitle": "22:15, 23:15, 0:15, 0:45",
-					   "origin": "ZUM/Albert-Wehr-Platz/Linggstra\u00dfe",
-					   "destination": "Waltenhofen \u2013 Niedersonthofen \u2013 Martinszell",
-					   "stops": "Keselstra\u00dfe \u2013 Eich \u2013 Hegge \u2013 Waltenhofen \u2013 Rauns \u2013 Niedersonthofen \u2013 Oberdorf \u2013 Martinszell",
-					   "departing": "t\u00e4glich um 22:15, 23:15, 0:15 und 0:45 Uhr"
-				   },
-				   {
-					   "id": 2205,
-					   "title": "Bus 5",
-					   "subtitle": "22:15, 23:15, 0:15, 0:45",
-					   "origin": "ZUM/Albert-Wehr-Platz/Linggstra\u00dfe",
-					   "destination": "Sankt Mang \u2013 Sulzberg \u2013 Wolfis",
-					   "stops": "Sankt Mang/Ludwigstra\u00dfe \u2013 Weidach \u2013 Sulzberg \u2013 Ottacker \u2013 Wolfis (bei Bedarf weiter nach Moosbach)",
-					   "departing": "t\u00e4glich um 22:15, 23:15, 0:15 und 0:45 Uhr"
-				   },
-				   {
-					   "id": 2206,
-					   "title": "Bus 6",
-					   "subtitle": "22:15, 23:15, 0:15, 0:45",
-					   "origin": "ZUM/Albert-Wehr-Platz/Linggstra\u00dfe",
-					   "destination": "Durach \u2013 Petersthal \u2013 Oy \u2013 Wertach",
-					   "stops": "Sankt Mang/Breslauer Stra\u00dfe \u2013 Durach \u2013 Petersthal \u2013 bei Bedarf weiter nach Oy/Wertach",
-					   "departing": "t\u00e4glich um 22:15, 23:15, 0:15 und 0:45 Uhr"
-				   },
-				   {
-					   "id": 2207,
-					   "title": "Bus 7",
-					   "subtitle": "22:15, 23:15, 0:15, 0:45",
-					   "origin": "ZUM/Albert-Wehr-Platz/Linggstra\u00dfe",
-					   "destination": "Altusried \u2013 Kimratshofen",
-					   "stops": "Memminger Stra\u00dfe \u2013 Oberwang \u2013 Hirschdorf \u2013 Krugzell \u2013 Altusried \u2013 Kimratshofen (bei Bedarf um 0.45 Uhr bis Frauenzell)",
-					   "departing": "t\u00e4glich um 22:15, 23:15, 0:15 und 0:45 Uhr"
-				   },
-				   {
-					   "id": 2208,
-					   "title": "Bus 8",
-					   "subtitle": "22:15, 23:15, 0:15, 0:45",
-					   "origin": "ZUM/Albert-Wehr-Platz/Linggstra\u00dfe",
-					   "destination": "Wiggensbach \u2013 Ermengerst",
-					   "stops": "Thingers \u2013 Schwabelsberg \u2013 Heiligkreuz \u2013 Neuhausen \u2013 Wiggensbach \u2013 Ermengerst",
-					   "departing": "t\u00e4glich um 22:15, 23:15, 0:15 und 0:45 Uhr"
-				   },
-				   {
-					   "id": 2209,
-					   "title": "Bus 9",
-					   "subtitle": "22:15, 23:15, 0:15, 0:45",
-					   "origin": "ZUM/Albert-Wehr-Platz/Linggstra\u00dfe",
-					   "destination": "Dietmannsried",
-					   "stops": "Rottachstra\u00dfe \u2013 Berliner Platz \u2013 Ursulasried \u2013 Heising \u2013 Lauben \u2013 Dietmannsried \u2013 Schrattenbach \u2013 Reicholzried",
-					   "departing": "t\u00e4glich um 22:15, 23:15, 0:15 und 0:45 Uhr"
-				   },
-				   {
-					   "id": 2210,
-					   "title": "Bus 10",
-					   "subtitle": "22:15, 23:15, 0:15, 0:45",
-					   "origin": "ZUM/Albert-Wehr-Platz/Linggstra\u00dfe",
-					   "destination": "Oberg\u00fcnzburg",
-					   "stops": "Leubas \u2013 B\u00f6rwang \u2013 Haldenwang \u2013 Probstried \u2013 Untrasried \u2013 Oberg\u00fcnzburg",
-					   "departing": "t\u00e4glich um 22:15, 23:15, 0:15 und 0:45 Uhr"
-				   }
-			   ]
-		   },
-		   {
-			   "id": 2300,
-			   "title":"Buszubringer",
-			   "buses":[
-				   {
-					   "id": 2301,
-					   "subtitle": "20:00 - 23:00 Uhr",
-					   "title": "Buszubringer",
-					   "origin": "ZUM/Albert-Wehr-Platz/Linggstra\u00dfe",
-					   "destination": "Hauptbahnhof",
-					   "stops": "bei Bedarf weiter \u00fcber Immenst\u00e4dter Str./Seitz \u2013 Haslacherstr.",
-					   "departing": "halbst\u00fcndlich von 20:00 bis 23:00 Uhr"
-				   }
-			   ]
-		   }
-		   ]
+{
+    "bus": [
+        {
+            "buses": [
+                {
+                    "departing": "t\u00e4glich von 9:50 bis 18:20 Uhr",
+                    "destination": "Festwochengel\u00e4nde",
+                    "id": 2101,
+                    "location": {
+                        "lat": 47.725864,
+                        "long": 10.313583
+                    },
+                    "origin": "Park & Ride Parkpl\u00e4tze",
+                    "stops": "keine",
+                    "subtitle": "9:50 - 18:20 Uhr",
+                    "title": "Pendelbus"
+                },
+                {
+                    "departing": "18:20 \u2013 19:20 \u2013 20:20 \u2013 21:20 \u2013 22:00 \u2013 22:30 \u2013 23:00",
+                    "destination": "Hochschule \u2013 HBF",
+                    "id": 2102,
+                    "location": {
+                        "lat": 47.725741,
+                        "long": 10.31354
+                    },
+                    "origin": "Residenz",
+                    "stops": "Hochschule \u2013 HBF \u2013 Kottener Stra\u00dfe",
+                    "subtitle": "20:00 - 23:00 Uhr",
+                    "title": "Buszubringer"
+                }
+            ],
+            "id": 2100,
+            "title": "Pendelbusse Park & Ride"
+        },
+        {
+            "buses": [
+                {
+                    "departing": "t\u00e4glich um 22:15, 23:15, 0:15 und 0:45 Uhr",
+                    "destination": "Buchenberg \u2013 Weitnau \u2013 Isny",
+                    "id": 2201,
+                    "location": {
+                        "lat": 47.7252,
+                        "long": 10.314115
+                    },
+                    "origin": "ZUM/Albert-Wehr-Platz/Linggstra\u00dfe",
+                    "stops": "Lindauer Stra\u00dfe/Heussring \u2013 Ayb\u00fchlweg \u2013 Leutkircher Stra\u00dfe \u2013 Rothkreuz \u2013 Buchenberg \u2013 Sibratshofen \u2013 ausw\u00e4rts B12 / einw\u00e4rts Weitnau",
+                    "subtitle": "22:15, 23:15, 0:15, 0:45",
+                    "title": "Bus 1"
+                },
+                {
+                    "departing": "t\u00e4glich um 22:15, 23:15, 0:15 und 0:45 Uhr",
+                    "destination": "Wildpoldsried",
+                    "id": 2202,
+                    "location": {
+                        "lat": 47.725424,
+                        "long": 10.313948
+                    },
+                    "origin": "ZUM/Albert-Wehr-Platz/Linggstra\u00dfe",
+                    "stops": "Kaufbeurer Stra\u00dfe \u2013 B\u00fchl \u2013 Ostbahnhof \u2013 Betzigau \u2013 Wildpoldsried",
+                    "subtitle": "22:15, 23:15, 0:15, 0:45",
+                    "title": "Bus 2"
+                },
+                {
+                    "departing": "t\u00e4glich um 22:15, 23:15, 0:15 und 0:45 Uhr",
+                    "destination": "Immenstadt \u2013 Oberstdorf \u2013 Oberstaufen",
+                    "id": 2203,
+                    "location": {
+                        "lat": 47.725546,
+                        "long": 10.313825
+                    },
+                    "origin": "ZUM/Albert-Wehr-Platz/Linggstra\u00dfe",
+                    "stops": "Immenst\u00e4dter Str. \u2013 Hegge/B19 \u2013 Stein \u2013 Immenstadt (nur um 0.45 Uhr: Umsteigem\u00f6glichkeit bei Bedarf nach Blaichach \u2013 Sonthofen \u2013 Oberstdorf und nach Oberstaufen)",
+                    "subtitle": "22:15, 23:15, 0:15, 0:45",
+                    "title": "Bus 3"
+                },
+                {
+                    "departing": "t\u00e4glich um 22:15, 23:15, 0:15 und 0:45 Uhr",
+                    "destination": "Waltenhofen \u2013 Niedersonthofen \u2013 Martinszell",
+                    "id": 2204,
+                    "location": {
+                        "lat": 47.725741,
+                        "long": 10.31354
+                    },
+                    "origin": "ZUM/Albert-Wehr-Platz/Linggstra\u00dfe",
+                    "stops": "Keselstra\u00dfe \u2013 Eich \u2013 Hegge \u2013 Waltenhofen \u2013 Rauns \u2013 Niedersonthofen \u2013 Oberdorf \u2013 Martinszell",
+                    "subtitle": "22:15, 23:15, 0:15, 0:45",
+                    "title": "Bus 4"
+                },
+                {
+                    "departing": "t\u00e4glich um 22:15, 23:15, 0:15 und 0:45 Uhr",
+                    "destination": "Sankt Mang \u2013 Sulzberg \u2013 Wolfis",
+                    "id": 2205,
+                    "location": {
+                        "lat": 47.725824,
+                        "long": 10.313385
+                    },
+                    "origin": "ZUM/Albert-Wehr-Platz/Linggstra\u00dfe",
+                    "stops": "Sankt Mang/Ludwigstra\u00dfe \u2013 Weidach \u2013 Sulzberg \u2013 Ottacker \u2013 Wolfis (bei Bedarf weiter nach Moosbach)",
+                    "subtitle": "22:15, 23:15, 0:15, 0:45",
+                    "title": "Bus 5"
+                },
+                {
+                    "departing": "t\u00e4glich um 22:15, 23:15, 0:15 und 0:45 Uhr",
+                    "destination": "Durach \u2013 Petersthal \u2013 Oy \u2013 Wertach",
+                    "id": 2206,
+                    "location": {
+                        "lat": 47.725965,
+                        "long": 10.313235
+                    },
+                    "origin": "ZUM/Albert-Wehr-Platz/Linggstra\u00dfe",
+                    "stops": "Sankt Mang/Breslauer Stra\u00dfe \u2013 Durach \u2013 Petersthal \u2013 bei Bedarf weiter nach Oy/Wertach",
+                    "subtitle": "22:15, 23:15, 0:15, 0:45",
+                    "title": "Bus 6"
+                },
+                {
+                    "departing": "t\u00e4glich um 22:15, 23:15, 0:15 und 0:45 Uhr",
+                    "destination": "Altusried \u2013 Kimratshofen",
+                    "id": 2207,
+                    "location": {
+                        "lat": 47.726088,
+                        "long": 10.31331
+                    },
+                    "origin": "ZUM/Albert-Wehr-Platz/Linggstra\u00dfe",
+                    "stops": "Memminger Stra\u00dfe \u2013 Oberwang \u2013 Hirschdorf \u2013 Krugzell \u2013 Altusried \u2013 Kimratshofen (bei Bedarf um 0.45 Uhr bis Frauenzell)",
+                    "subtitle": "22:15, 23:15, 0:15, 0:45",
+                    "title": "Bus 7"
+                },
+                {
+                    "departing": "t\u00e4glich um 22:15, 23:15, 0:15 und 0:45 Uhr",
+                    "destination": "Wiggensbach \u2013 Ermengerst",
+                    "id": 2208,
+                    "location": {
+                        "lat": 47.725864,
+                        "long": 10.313583
+                    },
+                    "origin": "ZUM/Albert-Wehr-Platz/Linggstra\u00dfe",
+                    "stops": "Thingers \u2013 Schwabelsberg \u2013 Heiligkreuz \u2013 Neuhausen \u2013 Wiggensbach \u2013 Ermengerst",
+                    "subtitle": "22:15, 23:15, 0:15, 0:45",
+                    "title": "Bus 8"
+                },
+                {
+                    "departing": "t\u00e4glich um 22:15, 23:15, 0:15 und 0:45 Uhr",
+                    "destination": "Dietmannsried",
+                    "id": 2209,
+                    "location": {
+                        "lat": 47.725355,
+                        "long": 10.314074
+                    },
+                    "origin": "ZUM/Albert-Wehr-Platz/Linggstra\u00dfe",
+                    "stops": "Rottachstra\u00dfe \u2013 Berliner Platz \u2013 Ursulasried \u2013 Heising \u2013 Lauben \u2013 Dietmannsried \u2013 Schrattenbach \u2013 Reicholzried",
+                    "subtitle": "22:15, 23:15, 0:15, 0:45",
+                    "title": "Bus 9"
+                },
+                {
+                    "departing": "t\u00e4glich um 22:15, 23:15, 0:15 und 0:45 Uhr",
+                    "destination": "Oberg\u00fcnzburg",
+                    "id": 2210,
+                    "location": {
+                        "lat": 47.725258,
+                        "long": 10.314163
+                    },
+                    "origin": "ZUM/Albert-Wehr-Platz/Linggstra\u00dfe",
+                    "stops": "Leubas \u2013 B\u00f6rwang \u2013 Haldenwang \u2013 Probstried \u2013 Untrasried \u2013 Oberg\u00fcnzburg",
+                    "subtitle": "22:15, 23:15, 0:15, 0:45",
+                    "title": "Bus 10"
+                }
+            ],
+            "id": 2200,
+            "title": "Abendbusse"
+        }
+    ]
 }
