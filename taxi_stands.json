@@ -1,0 +1,18 @@
+{
+    "taxi_stands": [
+        {
+            "id": 2500,
+            "title": "Taxistände",
+            "stands": [
+                {
+                    "id": 2501,
+                    "title": "Am Lyzeum",
+                    "location": {
+                        "lat": 47.726023,
+                        "long": 10.313637
+                    }
+                }
+            ]
+        }
+    ]
+}
