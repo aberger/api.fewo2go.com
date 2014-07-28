@@ -5,6 +5,7 @@
                 {
                     "departing": "t\u00e4glich von 9:50 bis 18:20 Uhr",
                     "destination": "Festwochengel\u00e4nde",
+                    "details": [],
                     "id": 2101,
                     "location": {
                         "lat": 47.725864,
@@ -18,6 +19,7 @@
                 {
                     "departing": "18:20 \u2013 19:20 \u2013 20:20 \u2013 21:20 \u2013 22:00 \u2013 22:30 \u2013 23:00",
                     "destination": "Hochschule \u2013 HBF",
+                    "details": [],
                     "id": 2102,
                     "location": {
                         "lat": 47.725741,
@@ -37,6 +39,7 @@
                 {
                     "departing": "t\u00e4glich um 22:15, 23:15, 0:15 und 0:45 Uhr",
                     "destination": "Buchenberg \u2013 Weitnau \u2013 Isny",
+                    "details": [],
                     "id": 2201,
                     "location": {
                         "lat": 47.7252,
@@ -50,6 +53,7 @@
                 {
                     "departing": "t\u00e4glich um 22:15, 23:15, 0:15 und 0:45 Uhr",
                     "destination": "Wildpoldsried",
+                    "details": [],
                     "id": 2202,
                     "location": {
                         "lat": 47.725424,
@@ -63,6 +67,7 @@
                 {
                     "departing": "t\u00e4glich um 22:15, 23:15, 0:15 und 0:45 Uhr",
                     "destination": "Immenstadt \u2013 Oberstdorf \u2013 Oberstaufen",
+                    "details": [],
                     "id": 2203,
                     "location": {
                         "lat": 47.725546,
@@ -76,6 +81,7 @@
                 {
                     "departing": "t\u00e4glich um 22:15, 23:15, 0:15 und 0:45 Uhr",
                     "destination": "Waltenhofen \u2013 Niedersonthofen \u2013 Martinszell",
+                    "details": [],
                     "id": 2204,
                     "location": {
                         "lat": 47.725741,
@@ -89,6 +95,7 @@
                 {
                     "departing": "t\u00e4glich um 22:15, 23:15, 0:15 und 0:45 Uhr",
                     "destination": "Sankt Mang \u2013 Sulzberg \u2013 Wolfis",
+                    "details": [],
                     "id": 2205,
                     "location": {
                         "lat": 47.725824,
@@ -102,6 +109,7 @@
                 {
                     "departing": "t\u00e4glich um 22:15, 23:15, 0:15 und 0:45 Uhr",
                     "destination": "Durach \u2013 Petersthal \u2013 Oy \u2013 Wertach",
+                    "details": [],
                     "id": 2206,
                     "location": {
                         "lat": 47.725965,
@@ -115,6 +123,7 @@
                 {
                     "departing": "t\u00e4glich um 22:15, 23:15, 0:15 und 0:45 Uhr",
                     "destination": "Altusried \u2013 Kimratshofen",
+                    "details": [],
                     "id": 2207,
                     "location": {
                         "lat": 47.726088,
@@ -128,6 +137,7 @@
                 {
                     "departing": "t\u00e4glich um 22:15, 23:15, 0:15 und 0:45 Uhr",
                     "destination": "Wiggensbach \u2013 Ermengerst",
+                    "details": [],
                     "id": 2208,
                     "location": {
                         "lat": 47.725864,
@@ -141,6 +151,7 @@
                 {
                     "departing": "t\u00e4glich um 22:15, 23:15, 0:15 und 0:45 Uhr",
                     "destination": "Dietmannsried",
+                    "details": [],
                     "id": 2209,
                     "location": {
                         "lat": 47.725355,
@@ -154,6 +165,7 @@
                 {
                     "departing": "t\u00e4glich um 22:15, 23:15, 0:15 und 0:45 Uhr",
                     "destination": "Oberg\u00fcnzburg",
+                    "details": [],
                     "id": 2210,
                     "location": {
                         "lat": 47.725258,
