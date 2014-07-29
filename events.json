@@ -150,10 +150,10 @@
                     "title": "K\u00e4s & Roll"
                 },
                 {
-                    "entry_date": "2014-08-13T18:00:00+02:00",
+                    "start_date": "2014-08-13T18:00:00+02:00",
                     "hosted_by": "B\u00fchne im Stadtpark",
                     "id": 3704,
-                    "start_date": "2014-08-13T18:45:00+02:00",
+                    "end_date": "2014-08-13T18:45:00+02:00",
                     "title": "Tanzshow Tanzschule Stiltanz"
                 }
             ]
