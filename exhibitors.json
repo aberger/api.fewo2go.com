@@ -81,13 +81,16 @@
                 },
                 {
                     "address_city": "Rechberghausen",
-                    "address_phone": "07161/12671",
+                    "address_country_email": "mailto://info@allgaeulilie.de",
+                    "address_phone": "+49716112671",
                     "address_street": "Kernerstra\u00dfe 17",
                     "address_zip": 73098,
                     "booth": 8,
+                    "details": "<p style=\"font-weight:bold;\">spirit of the alps!</p><p style=\"font-weight:bold;\">Mode & Lifestyle<br>Manufactur</p><p>Dahinter verbirgt sich unsere Motivation exklusive modern-traditionelle Mode & Lifestyle Produkte in alpin-sportivem Design f\u00fcrs Bekleiden, zum Begleiten und Wohnen, hier im Allg\u00e4u zu entwerfen und herzustellen.</p><p>Ganz neu und exclusiv zur FeWo2014, das Handycase aus heimischem Holz, feel it, optional auch individuell gravierbar!</p><p>Auf der Suche nach alpinem DESIGN \u201cMade im Allg\u00e4u\u201d , dann ist allgaeulilie\u00ae genau das Richtige!</p><p>allgaeulilie\u00ae ist nicht Massenmarkt, sondern pers\u00f6nlich, individuell und lokal produziert. Bestickte Taschen & Accessories aus Design-Wollfilz sowie hochwertigem Pull-Up-Leder mit individuellen Lasergravuren bilden den Kern des LABELS mit der besonderen DESIGN IDENTITY.</p><p>Steig ein in die \u201cWelt von allgaeulilie\u00ae\u201d, sei ein Teil von uns \u2013 wir freuen uns auf Dich!</p>",
                     "email_address": "info@allgaeulilie.de",
                     "hall": "10A",
-                    "title": "allgaeulilie - Mode und",
+                    "image": "http://api.fewo2go.com/assets/exhibitors/allgaeulilie_profile.png",
+                    "title": "allgaeulilie\u00ae Mode & Lifestyle",
                     "web": "www.allgaeulilie.de"
                 },
                 {
@@ -359,7 +362,7 @@
                     "address_phone": "0831/580969-0",
                     "address_street": "Anton-Fehr-Stra\u00dfe 4",
                     "address_zip": 87437,
-                    "booth": "",
+                    "booth": 0,
                     "email_address": "ulrich.hipler@aelf-ke.bayern.de",
                     "hall": "",
                     "title": "Amt f\u00fcr Ern\u00e4hrung,",

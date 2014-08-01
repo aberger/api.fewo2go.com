@@ -3,6 +3,20 @@
         {
             "objects": [
                 {
+                    "address_city": "Rechberghausen",
+                    "address_country_email": "mailto://info@allgaeulilie.de",
+                    "address_phone": "+49716112671",
+                    "address_street": "Kernerstra\u00dfe 17",
+                    "address_zip": 73098,
+                    "booth": 8,
+                    "details": "<p style=\"font-weight:bold;\">spirit of the alps!</p><p style=\"font-weight:bold;\">Mode & Lifestyle<br>Manufactur</p><p>Dahinter verbirgt sich unsere Motivation exklusive modern-traditionelle Mode & Lifestyle Produkte in alpin-sportivem Design f\u00fcrs Bekleiden, zum Begleiten und Wohnen, hier im Allg\u00e4u zu entwerfen und herzustellen.</p><p>Ganz neu und exclusiv zur FeWo2014, das Handycase aus heimischem Holz, feel it, optional auch individuell gravierbar!</p><p>Auf der Suche nach alpinem DESIGN \u201cMade im Allg\u00e4u\u201d , dann ist allgaeulilie\u00ae genau das Richtige!</p><p>allgaeulilie\u00ae ist nicht Massenmarkt, sondern pers\u00f6nlich, individuell und lokal produziert. Bestickte Taschen & Accessories aus Design-Wollfilz sowie hochwertigem Pull-Up-Leder mit individuellen Lasergravuren bilden den Kern des LABELS mit der besonderen DESIGN IDENTITY.</p><p>Steig ein in die \u201cWelt von allgaeulilie\u00ae\u201d, sei ein Teil von uns \u2013 wir freuen uns auf Dich!</p>",
+                    "email_address": "info@allgaeulilie.de",
+                    "hall": "10A",
+                    "image": "http://api.fewo2go.com/assets/exhibitors/allgaeulilie_profile.png",
+                    "title": "allgaeulilie\u00ae Mode & Lifestyle",
+                    "web": "www.allgaeulilie.de"
+                },
+                {
                     "address_city": "Kempten (Allg\u00e4u)",
                     "address_country": "Deutschland",
                     "address_country_email": "http://www.engelvoelkers.com/de/kempten/#contact",
@@ -29,7 +43,7 @@
                     "address_phone": "+4917631436415",
                     "address_street": "Ludwigstrasse 3",
                     "address_zip": 87437,
-                    "details": "<p style=\"font-weight:bold;\">die All inklusive Wohn-Gemeinschaft</p><p>Das Konzept des WG-Hauses ist es, Studenten eine Plattform zur pers\u00f6nlichen Entfaltung zu bieten. Das 4-stöckige zentral gelegene Haus wurde mit 13 hochwertig m\u00f6blierten Einzelzimmern ausgestattet. Die voll ausgestatteten Gemeinschaftsr\u00e4ume, der Partykeller und der hinterm Haus gelegene Garten sorgen f\u00fcr zus\u00e4tzlichen Fun beim Studieren.</p><p>Unser hochwertiges WG-Haus befindet sich in der Ludwigstrasse 3. Das All inklusive Wohnerlebnis f\u00fcr Studenten gibt es schon provisionsfrei ab 285 Euro und beinhaltet alle Nebenkosten, Internet- und TV-Anschluss, Wasch- und Trockenraum, Garten, Fahrrad- und Partyraum.</p><p>Wenn du beim Studieren nicht auf Luxus im Zuhause verzichten m\u00f6chtest und die Zeit im Studium mit vielen Studenten unter einem Dach genießen m\u00f6chtest, dann melde dich direkt \u00fcber die App bei uns. Und mit etwas Gl\u00fcck haben wir ein passendes WG-Zimmer f\u00fcr dich.</p>",
+                    "details": "<p style=\"font-weight:bold;\">die All inklusive Wohn-Gemeinschaft</p><p>Das Konzept des WG-Hauses ist es, Studenten eine Plattform zur pers\u00f6nlichen Entfaltung zu bieten. Das 4-st\u00f6ckige zentral gelegene Haus wurde mit 13 hochwertig m\u00f6blierten Einzelzimmern ausgestattet. Die voll ausgestatteten Gemeinschaftsr\u00e4ume, der Partykeller und der hinterm Haus gelegene Garten sorgen f\u00fcr zus\u00e4tzlichen Fun beim Studieren.</p><p>Unser hochwertiges WG-Haus befindet sich in der Ludwigstrasse 3. Das All inklusive Wohnerlebnis f\u00fcr Studenten gibt es schon provisionsfrei ab 285 Euro und beinhaltet alle Nebenkosten, Internet- und TV-Anschluss, Wasch- und Trockenraum, Garten, Fahrrad- und Partyraum.</p><p>Wenn du beim Studieren nicht auf Luxus im Zuhause verzichten m\u00f6chtest und die Zeit im Studium mit vielen Studenten unter einem Dach genie\u00dfen m\u00f6chtest, dann melde dich direkt \u00fcber die App bei uns. Und mit etwas Gl\u00fcck haben wir ein passendes WG-Zimmer f\u00fcr dich.</p>",
                     "image": "http://api.fewo2go.com/assets/exhibitors/doubleyougee_profile.png",
                     "industry": "",
                     "industry_written": "",
