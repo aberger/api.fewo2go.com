@@ -180,7 +180,7 @@
                                 },
                                 {
                                     "price": 450,
-                                    "title": "Weinschorle weiß/rot 0,5l"
+                                    "title": "Weinschorle wei\u00df/rot 0,5l"
                                 },
                                 {
                                     "price": 9999,
@@ -201,7 +201,7 @@
                             ],
                             "title": "Speise- und Getr\u00e4nkekarte"
                         }
-					],
+                    ],
                     "id": 1202,
                     "location": {
                         "lat": 47.72623,
