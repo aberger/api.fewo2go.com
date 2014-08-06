@@ -5173,6 +5173,197 @@
                         "long": 10.311766
                     },
                     "title": "Freigel\u00e4nde am K\u00f6nigsplatz"
+                },
+                {
+                    "details": [
+                        {
+                            "objects": [
+                                {
+                                    "address_city": "Kempten (Allg\u00e4u)",
+                                    "address_phone": "0831/564244-0",
+                                    "address_street": "Unterwanger Stra\u00dfe 1",
+                                    "address_zip": 87439,
+                                    "booth": 2,
+                                    "email_address": "b.briechle@toyota-strobel.de",
+                                    "hall": "FSW",
+                                    "title": "Autohaus Franz Strobel KG",
+                                    "web": "www.toyota-strobel.de"
+                                },
+                                {
+                                    "address_city": "Kempten (Allg\u00e4u)",
+                                    "address_phone": "0831/580010",
+                                    "address_street": "Gewerbestra\u00dfe 1",
+                                    "address_zip": 87439,
+                                    "booth": 3,
+                                    "email_address": "info@autohaus-sirch.de",
+                                    "hall": "FSW",
+                                    "title": "Autohaus Sirch GmbH",
+                                    "web": "www.autohaus-sirch.de"
+                                },
+                                {
+                                    "address_city": "Kempten (Allg\u00e4u)",
+                                    "address_phone": "0831/57142-13",
+                                    "address_street": "Porschestra\u00dfe 2",
+                                    "address_zip": 87437,
+                                    "booth": 11,
+                                    "email_address": "vertrieb@ava-verlag.de",
+                                    "hall": "FSW",
+                                    "title": "AVA-Agrar Verlag Allg\u00e4u GmbH",
+                                    "web": "www.ava-verlag.de"
+                                },
+                                {
+                                    "address_city": "Dillingen",
+                                    "address_phone": "09071/9818",
+                                    "address_street": "Am Mittelfeld 65D",
+                                    "address_zip": 89407,
+                                    "booth": 15,
+                                    "email_address": "bauelemente-bauer@t-online.de",
+                                    "hall": "FSW",
+                                    "title": "Bauer Bauelemente GmbH + Co.KG",
+                                    "web": "www.bauelemente-bauer.de"
+                                },
+                                {
+                                    "address_city": "Kempten",
+                                    "address_phone": "0831/5258075",
+                                    "address_street": "Ellharter Stra\u00dfe 10",
+                                    "address_zip": 87435,
+                                    "booth": 9,
+                                    "email_address": "info@happywaves.de",
+                                    "hall": "FSW",
+                                    "title": "HAPPYWAVES Direktvertrieb",
+                                    "web": "www.happywaves.de"
+                                },
+                                {
+                                    "address_city": "St. Georgen",
+                                    "address_phone": "0043/664/9691098",
+                                    "address_street": "Attergaustrasse 46",
+                                    "address_zip": 4880,
+                                    "booth": 6,
+                                    "email_address": "office@hermapro.at",
+                                    "hall": "FSW",
+                                    "title": "Hermapro GmbH",
+                                    "web": "www.hermapro.at"
+                                },
+                                {
+                                    "address_city": "Durach",
+                                    "address_phone": "0831/61814",
+                                    "address_street": "Weidach-Siedlung 17",
+                                    "address_zip": 87471,
+                                    "booth": 5,
+                                    "email_address": "kaderabek@t-online.de",
+                                    "hall": "FSW",
+                                    "title": "Karl Kaderabek",
+                                    "web": "www.kaderabek.de"
+                                },
+                                {
+                                    "address_city": "Immenstadt",
+                                    "address_phone": "08323/96642-0",
+                                    "address_street": "Blaichacher Stra\u00dfe 7",
+                                    "address_zip": 87509,
+                                    "booth": 1,
+                                    "email_address": "info@kern-holz.de",
+                                    "hall": "FSW",
+                                    "title": "Kern - Holz- und Gartenland",
+                                    "web": "www.kern-holz.de"
+                                },
+                                {
+                                    "address_city": "Memmingen",
+                                    "address_phone": "08331/9389358",
+                                    "address_street": "Gr\u00fcnenfurt 4 (Am Schlo\u00df)",
+                                    "address_zip": 87700,
+                                    "booth": 13,
+                                    "email_address": "info@angelika-kruppa.de",
+                                    "hall": "FSW",
+                                    "title": "Kruppa Angelika",
+                                    "web": "www.angelika-kruppa.de"
+                                },
+                                {
+                                    "address_city": "Illertissen/Au",
+                                    "address_phone": "07303/41465",
+                                    "address_street": "Holzstra\u00dfe 2",
+                                    "address_zip": 89257,
+                                    "booth": 8,
+                                    "email_address": "d.schlumpp@leeb-balkone.com",
+                                    "hall": "FSW",
+                                    "title": "Leeb-Balkone / Z\u00e4une - Schlumpp",
+                                    "web": "www.leeb-balkone.com"
+                                },
+                                {
+                                    "address_city": "Kenzingen",
+                                    "address_phone": "07644/921790",
+                                    "address_street": "Tullastra\u00dfe 6",
+                                    "address_zip": 79341,
+                                    "booth": 16,
+                                    "email_address": "info@leichtmobile.de",
+                                    "hall": "FSW",
+                                    "title": "Leichtmobile GmbH & Co. KG",
+                                    "web": "www.leichtmobile.de"
+                                },
+                                {
+                                    "address_city": "Memmingen/Amendingen",
+                                    "address_phone": "08331/8381-0",
+                                    "address_street": "Teramostra\u00dfe 8",
+                                    "address_zip": 87700,
+                                    "booth": 7,
+                                    "email_address": "m.brosig@memminger-torbau.de",
+                                    "hall": "FSW",
+                                    "title": "Memminger Torbau GmbH",
+                                    "web": "www.memminger-torbau.de"
+                                },
+                                {
+                                    "address_city": "Memmingen",
+                                    "address_phone": "08331/9537-20",
+                                    "address_street": "Max-Planck-Stra\u00dfe 14",
+                                    "address_zip": 87700,
+                                    "booth": 12,
+                                    "email_address": "info@metall-bau-mueller.de",
+                                    "hall": "FSW",
+                                    "title": "M\u00fcller Herbert, Metallbau e. K.",
+                                    "web": "www.metall-bau-mueller.de"
+                                },
+                                {
+                                    "address_city": "Illertissen",
+                                    "address_phone": "07303/173-0",
+                                    "address_street": "Dietenheimer Stra\u00dfe 43",
+                                    "address_zip": 89257,
+                                    "booth": 17,
+                                    "email_address": "info@ruku.info",
+                                    "hall": "FSW",
+                                    "title": "RUKU Tore - T\u00fcren GmbH",
+                                    "web": "www.ruku.info"
+                                },
+                                {
+                                    "address_city": "Unterthingau",
+                                    "address_phone": "08377/97496-0",
+                                    "address_street": "An der Aitranger Stra\u00dfe 9",
+                                    "address_zip": 87647,
+                                    "booth": 4,
+                                    "email_address": "info@schwarz-tore.de",
+                                    "hall": "FSW",
+                                    "title": "Schwarz-Tore e.K.",
+                                    "web": "www.schwarz-tore.de"
+                                },
+                                {
+                                    "address_city": "Unterjoch",
+                                    "address_phone": "08324/901646",
+                                    "address_street": "Am Zehrer 3",
+                                    "address_zip": 87541,
+                                    "booth": 10,
+                                    "email_address": "allgaeu@zaunteam.de",
+                                    "hall": "FSW",
+                                    "title": "Zaunteam Allg\u00e4u GmbH & Co. KG",
+                                    "web": "www.zaunteam.de"
+                                }
+                            ],
+                            "title": "Aussteller"
+                        }
+                    ],
+                    "id": 1119,
+                    "location": {
+                        "lat": 47.725515,
+                        "long": 10.311567
+                    },
+                    "title": "Freigel\u00e4nde um Halle 10"
                 }
             ],
             "title": "Messehallen"
