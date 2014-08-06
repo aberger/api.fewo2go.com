@@ -5915,6 +5915,131 @@
                         "long": 10.309867
                     },
                     "title": "Freigel\u00e4nde Schulhof \u00fcberdacht"
+                },
+                {
+                    "details": [
+                        {
+                            "objects": [
+                                {
+                                    "address_city": "Stuttgart",
+                                    "address_phone": "0711/4201022",
+                                    "address_street": "Rohrackerstra\u00dfe 144",
+                                    "address_zip": 70329,
+                                    "booth": 3,
+                                    "email_address": "bachmann@thermo-solaranlagen.de",
+                                    "hall": "F\u00dc",
+                                    "title": "Bachmann Peter",
+                                    "web": "www.thermo-solaranlagen.de"
+                                },
+                                {
+                                    "address_city": "Petersthal",
+                                    "address_phone": "08376/97526",
+                                    "address_street": "Riedis 9",
+                                    "address_zip": 87466,
+                                    "booth": 2,
+                                    "email_address": "info@breher-fenster-haustueren.de",
+                                    "hall": "F\u00dc",
+                                    "title": "Breher Fenster und T\u00fcren",
+                                    "web": "www.breher-fenster-haustueren.de"
+                                },
+                                {
+                                    "address_city": "Kempten (Allg\u00e4u)",
+                                    "address_phone": "0831/5659977-0",
+                                    "address_street": "Bergstr. 1a",
+                                    "address_zip": 87437,
+                                    "booth": 6,
+                                    "email_address": "pk@allgaeu-energy.de",
+                                    "hall": "F\u00dc",
+                                    "title": "Green Allg\u00e4u Energy",
+                                    "web": "www.allgaeu-energy.de"
+                                },
+                                {
+                                    "address_city": "Kirchheim",
+                                    "address_phone": "07021/3642",
+                                    "address_street": "Wielandstra\u00dfe 24",
+                                    "address_zip": 73230,
+                                    "booth": 5,
+                                    "email_address": "info@haaga-gmbh.de",
+                                    "hall": "F\u00dc",
+                                    "title": "Haaga Kehrsysteme GmbH",
+                                    "web": "www.haaga-gmbh.de"
+                                },
+                                {
+                                    "address_city": "Memmingen",
+                                    "address_phone": "08331/3309",
+                                    "address_street": "Oberriedstra\u00dfe 38",
+                                    "address_zip": 87700,
+                                    "booth": 8,
+                                    "email_address": "info@pumpen-karrer.de",
+                                    "hall": "F\u00dc",
+                                    "title": "Pumpen Karrer GmbH",
+                                    "web": "www.pumpen-karrer.de"
+                                },
+                                {
+                                    "address_city": "Ummendorf",
+                                    "address_phone": "07351/5801-0",
+                                    "address_street": "Im Espach 11",
+                                    "address_zip": 88444,
+                                    "booth": 10,
+                                    "email_address": "info@meinreichfenster.de",
+                                    "hall": "F\u00dc",
+                                    "title": "Reich Fenstervisionen",
+                                    "web": "www.meinreichfenster.de"
+                                },
+                                {
+                                    "address_city": "Buchenberg",
+                                    "address_phone": "08378/9236-0",
+                                    "address_street": "Ein\u00f6de 50",
+                                    "address_zip": 87474,
+                                    "booth": 1,
+                                    "email_address": "rennergy@rennergy.de",
+                                    "hall": "F\u00dc",
+                                    "title": "Rennergy Systems AG",
+                                    "web": "www.rennergy.de"
+                                },
+                                {
+                                    "address_city": "M\u00fcnchen",
+                                    "address_phone": "089/12285825",
+                                    "address_street": "Reisingerstra\u00dfe 4",
+                                    "address_zip": 80337,
+                                    "booth": 7,
+                                    "email_address": "kontakt@rs-spezialwerkzeug.de",
+                                    "hall": "F\u00dc",
+                                    "title": "RS-Spezialwerkzeug",
+                                    "web": ""
+                                },
+                                {
+                                    "address_city": "Sontheim",
+                                    "address_phone": "07321/23503",
+                                    "address_street": "Marienstra\u00dfe 14",
+                                    "address_zip": 89567,
+                                    "booth": 4,
+                                    "email_address": "franz.schwarzwaelder@web.de",
+                                    "hall": "F\u00dc",
+                                    "title": "Schwarzw\u00e4lder e.K.",
+                                    "web": ""
+                                },
+                                {
+                                    "address_city": "Biessenhofen-Altdorf",
+                                    "address_phone": "08342/8969-0",
+                                    "address_street": "Gewerbepark 5-7",
+                                    "address_zip": 87640,
+                                    "booth": 9,
+                                    "email_address": "info@sza-pv.de",
+                                    "hall": "F\u00dc",
+                                    "title": "Solarzentrum / Allg\u00e4u KG",
+                                    "web": "www.solarallgaeu.de"
+                                }
+                            ],
+                            "title": "Aussteller"
+                        }
+                    ],
+                    "id": 1123,
+                    "location": {
+                        "lat": 47.725659,
+                        "long": 10.311777
+                    },
+                    "title": "Freigel\u00e4nde \u00fcberdacht"
                 }
             ],
             "title": "Messehallen"
