@@ -4758,6 +4758,340 @@
                         "long": 10.3091615994436
                     },
                     "title": "Messehalle 13"
+                },
+                {
+                    "details": [
+                        {
+                            "objects": [
+                                {
+                                    "address_city": "Kempten (Allg\u00e4u)",
+                                    "address_phone": "0831/82909081",
+                                    "address_street": "Steile Stra\u00dfe 6",
+                                    "address_zip": 87439,
+                                    "booth": 14,
+                                    "email_address": "info@schmid-art.de",
+                                    "hall": "FG",
+                                    "title": "Allg\u00e4uer Holzschilder +",
+                                    "web": "www.schmid-art.de"
+                                },
+                                {
+                                    "address_city": "Sulzberg-See",
+                                    "address_phone": "08376/92894-0",
+                                    "address_street": "Gewerbepark 25",
+                                    "address_zip": 87477,
+                                    "booth": 13,
+                                    "email_address": "slr@alpensolar.de",
+                                    "hall": "FG",
+                                    "title": "Alpensolar",
+                                    "web": "www.alpensolar.de"
+                                },
+                                {
+                                    "address_city": "Kempten (Allg\u00e4u)",
+                                    "address_phone": "0831/52292-0",
+                                    "address_street": "Haubenschlo\u00dfstra\u00dfe 12",
+                                    "address_zip": 87435,
+                                    "booth": 22,
+                                    "email_address": "info@kvoberallgaeu.brk.de",
+                                    "hall": "FG",
+                                    "title": "Bayerisches Rotes Kreuz -",
+                                    "web": "www.brk-oberallgaeu.brk.de"
+                                },
+                                {
+                                    "address_city": "Kempten (Allg\u00e4u)",
+                                    "address_phone": "08304/929341",
+                                    "address_street": "Albert-Einstein-Stra\u00dfe 1",
+                                    "address_zip": 87437,
+                                    "booth": 20,
+                                    "email_address": "richard-57@gmx.de",
+                                    "hall": "FG",
+                                    "title": "Brunner Markenvertrieb",
+                                    "web": ""
+                                },
+                                {
+                                    "address_city": "Marktoberdorf",
+                                    "address_phone": "08342/4000-0",
+                                    "address_street": "Siemensring 1",
+                                    "address_zip": 87616,
+                                    "booth": 5,
+                                    "email_address": "fachmarkt@eisen-fendt.de",
+                                    "hall": "FG",
+                                    "title": "Fendt Eisen GmbH",
+                                    "web": "www.fendtastisch.de"
+                                },
+                                {
+                                    "address_city": "Kempten (Allg\u00e4u)",
+                                    "address_phone": "0831/256-0",
+                                    "address_street": "Am Stadtpark 3",
+                                    "address_zip": 87435,
+                                    "booth": "",
+                                    "email_address": "poststelle@fa-ke.bayern.de",
+                                    "hall": "FG",
+                                    "title": "Finanzamt Kempten",
+                                    "web": "www.finanzamt-kempten.de"
+                                },
+                                {
+                                    "address_city": "Niedersonthofen",
+                                    "address_phone": "08379/529",
+                                    "address_street": "Sonnenstra\u00dfe 15",
+                                    "address_zip": 87448,
+                                    "booth": "",
+                                    "email_address": "info@gartenbau-meiler.de",
+                                    "hall": "FG",
+                                    "title": "Gartenbau Meiler",
+                                    "web": "www.gartenbau-meiler.de"
+                                },
+                                {
+                                    "address_city": "Oberstdorf",
+                                    "address_phone": "08322/18-0",
+                                    "address_street": "Wilhelm-Geiger-Stra\u00dfe 1",
+                                    "address_zip": 87561,
+                                    "booth": 9,
+                                    "email_address": "info@geigergruppe.de",
+                                    "hall": "FG",
+                                    "title": "Geiger Unternehmensgruppe",
+                                    "web": "www.geigergruppe.de"
+                                },
+                                {
+                                    "address_city": "Herford",
+                                    "address_phone": "05221/56121",
+                                    "address_street": "Diebrocker Stra\u00dfe 10",
+                                    "address_zip": 32051,
+                                    "booth": 40,
+                                    "email_address": "leitern-girse@t-online.de",
+                                    "hall": "FG",
+                                    "title": "Girse - Design",
+                                    "web": "www.girse.de"
+                                },
+                                {
+                                    "address_city": "Wolfertschwenden",
+                                    "address_phone": "08334/7303",
+                                    "address_street": "Bergstra\u00dfe 16",
+                                    "address_zip": 87787,
+                                    "booth": 11,
+                                    "email_address": "info@graf-balkone.de",
+                                    "hall": "FG",
+                                    "title": "Graf GmbH",
+                                    "web": "www.graf-balkone.de"
+                                },
+                                {
+                                    "address_city": "Kempten (Allg\u00e4u)",
+                                    "address_phone": "0831/522550",
+                                    "address_street": "Bahnhofstra\u00dfe 11",
+                                    "address_zip": 87435,
+                                    "booth": 4,
+                                    "email_address": "info@gvs-garagen.de",
+                                    "hall": "FG",
+                                    "title": "GVS - Garagen Vertrieb S\u00fcd GmbH",
+                                    "web": "www.gvs-garagen.de"
+                                },
+                                {
+                                    "address_city": "Altusried",
+                                    "address_phone": "08373/621",
+                                    "address_street": "Im Tal 12",
+                                    "address_zip": 87452,
+                                    "booth": 7,
+                                    "email_address": "info@hartmann-toranlagen.de",
+                                    "hall": "FG",
+                                    "title": "Hartmann Toranlagen GmbH",
+                                    "web": "www.hartmann-toranlagen.de"
+                                },
+                                {
+                                    "address_city": "Maselheim",
+                                    "address_phone": "07353/81-174",
+                                    "address_street": "Heggbach 1",
+                                    "address_zip": 88437,
+                                    "booth": 15,
+                                    "email_address": "klaus.hanselka@st-elisabeth-stiftung.de",
+                                    "hall": "FG",
+                                    "title": "Heggbacher Werkstattverbund",
+                                    "web": "www.st-elisabeth-stiftung.de"
+                                },
+                                {
+                                    "address_city": "Blaubeuren",
+                                    "address_phone": "07344/3722",
+                                    "address_street": "Leinenstr. 6",
+                                    "address_zip": 89143,
+                                    "booth": 23,
+                                    "email_address": "info@kaupp-balkone.de",
+                                    "hall": "FG",
+                                    "title": "Kaupp - Balkone",
+                                    "web": "www.kaupp-balkone.de"
+                                },
+                                {
+                                    "address_city": "Kempten (Allg\u00e4u)",
+                                    "address_phone": "0831/5707112",
+                                    "address_street": "Schmid-v.-Leubas-Stra\u00dfe  32 a",
+                                    "address_zip": 87437,
+                                    "booth": 2,
+                                    "email_address": "info@koegl-maschinen.de",
+                                    "hall": "FG",
+                                    "title": "K\u00f6gl Holzbearbeitungsmaschinen",
+                                    "web": "www.koegl-maschinen.de"
+                                },
+                                {
+                                    "address_city": "Durach",
+                                    "address_phone": "0831/62413",
+                                    "address_street": "Miesenbacher Stra\u00dfe 48",
+                                    "address_zip": 87471,
+                                    "booth": "",
+                                    "email_address": "",
+                                    "hall": "FG",
+                                    "title": "Mayr Otto & S\u00f6hne GbR",
+                                    "web": ""
+                                },
+                                {
+                                    "address_city": "Untrasried / Hopferbach",
+                                    "address_phone": "08372/980538",
+                                    "address_street": "Buchweg 11",
+                                    "address_zip": 87496,
+                                    "booth": 6,
+                                    "email_address": "mail@lenztools.de",
+                                    "hall": "FG",
+                                    "title": "Montage Service Lenz",
+                                    "web": "www.lenztools.de"
+                                },
+                                {
+                                    "address_city": "Kempten (Allg\u00e4u)",
+                                    "address_phone": "0831/5706249",
+                                    "address_street": "Rudolfstra\u00dfe 14",
+                                    "address_zip": 87437,
+                                    "booth": 45,
+                                    "email_address": "m.roith@morowe.de",
+                                    "hall": "FG",
+                                    "title": "Moses Roith Werkzeuge MOREWE",
+                                    "web": "www.morowe.de"
+                                },
+                                {
+                                    "address_city": "Buchenberg",
+                                    "address_phone": "08378/9402-10",
+                                    "address_street": "Ludwig-Geiger-Str. 24",
+                                    "address_zip": 87474,
+                                    "booth": 18,
+                                    "email_address": "info@olafhoyer.de",
+                                    "hall": "FG",
+                                    "title": "Olaf Hoyer GmbH",
+                                    "web": "www.olafhoyer.de"
+                                },
+                                {
+                                    "address_city": "Immenstadt",
+                                    "address_phone": "08323/989239",
+                                    "address_street": "Bergst\u00e4ttstr. 18",
+                                    "address_zip": 87509,
+                                    "booth": 30,
+                                    "email_address": "haslach@eschach.com",
+                                    "hall": "FG",
+                                    "title": "Projektmanagement",
+                                    "web": ""
+                                },
+                                {
+                                    "address_city": "Lauchheim",
+                                    "address_phone": "07363/9210-15",
+                                    "address_street": "Im Zeil 6/1",
+                                    "address_zip": 73466,
+                                    "booth": 17,
+                                    "email_address": "info@toni-rief.de",
+                                    "hall": "FG",
+                                    "title": "Rief Toni",
+                                    "web": "www.toni-rief.de"
+                                },
+                                {
+                                    "address_city": "Schwanheim",
+                                    "address_phone": "06262/3431",
+                                    "address_street": "Kurzgewann 3",
+                                    "address_zip": 69436,
+                                    "booth": 25,
+                                    "email_address": "info@schwanheimer-industriekleber.de",
+                                    "hall": "FG",
+                                    "title": "Schwanheimer",
+                                    "web": "www.schwanheimer-industriekleber.de"
+                                },
+                                {
+                                    "address_city": "Hindelang",
+                                    "address_phone": "08324/952501",
+                                    "address_street": "Am Auwald 7",
+                                    "address_zip": 87541,
+                                    "booth": 16,
+                                    "email_address": "fa.senst@web.de",
+                                    "hall": "FG",
+                                    "title": "Senst R.",
+                                    "web": "www.fa-senst.de"
+                                },
+                                {
+                                    "address_city": "Achim",
+                                    "address_phone": "04202/511990",
+                                    "address_street": "Herbert-Ludwig-Stra\u00dfe 2",
+                                    "address_zip": 28832,
+                                    "booth": 24,
+                                    "email_address": "info@softub.de",
+                                    "hall": "FG",
+                                    "title": "Softub Whirlpools Deutschland",
+                                    "web": "www.softub.de"
+                                },
+                                {
+                                    "address_city": "Johannesberg",
+                                    "address_phone": "06021/4380951",
+                                    "address_street": "Aschaffenburger Stra\u00dfe 21",
+                                    "address_zip": 63867,
+                                    "booth": 12,
+                                    "email_address": "info@summertime-freizeitmoebel.de",
+                                    "hall": "FG",
+                                    "title": "Tegernseer Freizeitm\u00f6bel",
+                                    "web": "www.gartenmoebel-info.de"
+                                },
+                                {
+                                    "address_city": "Neus\u00e4\u00df",
+                                    "address_phone": "0821/246580",
+                                    "address_street": "Siemensstra\u00dfe 13 a",
+                                    "address_zip": 86356,
+                                    "booth": 8,
+                                    "email_address": "info@top-clean-exclusiv.de",
+                                    "hall": "FG",
+                                    "title": "Top-Clean Exclusiv GmbH",
+                                    "web": "www.top-clean-exclusiv.de"
+                                },
+                                {
+                                    "address_city": "Kempten (Allg\u00e4u)",
+                                    "address_phone": "0831/93201",
+                                    "address_street": "Laubener Stra\u00dfe 2",
+                                    "address_zip": 87439,
+                                    "booth": 3,
+                                    "email_address": "h.p.wegscheider@t-online.de",
+                                    "hall": "FG",
+                                    "title": "Wegscheider Hans-Peter",
+                                    "web": ""
+                                },
+                                {
+                                    "address_city": "Kufstein",
+                                    "address_phone": "0172/8149597",
+                                    "address_street": "Unterer Stadtplatz 16",
+                                    "address_zip": 6330,
+                                    "booth": 99,
+                                    "email_address": "info@wickis-grillhuetten.com",
+                                    "hall": "FG",
+                                    "title": "Wicki\u00b4s Grillh\u00fctten by SWA",
+                                    "web": "www.wickis-grillhuetten.com"
+                                },
+                                {
+                                    "address_city": "Wangen",
+                                    "address_phone": "07522/9715-0",
+                                    "address_street": "Im Niederdorf 9",
+                                    "address_zip": 88239,
+                                    "booth": 1,
+                                    "email_address": "wangen@kno-wo.de",
+                                    "hall": "FG",
+                                    "title": "Wohlgschaft Nutzfahrzeuge GmbH",
+                                    "web": "www.kno-wo.de"
+                                }
+                            ],
+                            "title": "Aussteller"
+                        }
+                    ],
+                    "id": 1117,
+                    "location": {
+                        "lat": 47.724815,
+                        "long": 10.313214
+                    },
+                    "title": "Freigel\u00e4nde"
                 }
             ],
             "title": "Messehallen"
