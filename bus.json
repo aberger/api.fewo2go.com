@@ -3,7 +3,7 @@
         {
             "buses": [
                 {
-                    "departing": "t\u00e4glich von 9:50 bis 18:20 Uhr",
+                    "departing": "t\u00e4glich von 9:50 bis 22:15 Uhr",
                     "destination": "Festwochengel\u00e4nde",
                     "details": [],
                     "id": 2101,
@@ -37,6 +37,20 @@
         {
             "buses": [
                 {
+                    "departing": "20:00, 20:30, 21:00, 21:30, 22:00, 22:30 und 23:00 Uhr",
+                    "destination": "HBF",
+                    "details": [],
+                    "id": 2211,
+                    "location": {
+                        "lat": 47.725920,
+                        "long": 10.313448
+                    },
+                    "origin": "ZUM",
+                    "stops": "keine",
+                    "subtitle": "20:00, 20:30, 21:00, 21:30, 22:00, 22:30, 23:00",
+                    "title": "HBF"
+                },
+				{
                     "departing": "t\u00e4glich um 22:15, 23:15, 0:15 und 0:45 Uhr",
                     "destination": "Buchenberg \u2013 Weitnau \u2013 Isny",
                     "details": [],

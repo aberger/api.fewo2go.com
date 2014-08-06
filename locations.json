@@ -337,6 +337,45 @@
                     "title": "Bierzelt"
                 },
                 {
+                    "details": [
+                        {
+                            "objects": [
+                                {
+                                    "price": 9999,
+                                    "title": "Espresso / Cappuccino"
+                                },
+                                {
+                                    "price": 300,
+                                    "title": "Kellerbier / Ros\u00e9 Ladies Bier 0,33 l"
+                                },
+                                {
+                                    "price": 500,
+                                    "title": "Sprizz Aperol / Hugo"
+                                },
+                                {
+                                    "price": 350,
+                                    "title": "Lugana (Bulgarini) 0,1 l"
+                                },
+                                {
+                                    "price": 450,
+                                    "title": "Special Drink Laser"
+                                },
+                                {
+                                    "price": 9999,
+                                    "title": "Pizza"
+                                }
+                            ],
+                            "title": "Speise- und Getr\u00e4nkekarte"
+                        }
+                    ],
+                    "id": 1208,
+                    "location": {
+                        "lat": 47.725721,
+                        "long": 10.312268
+                    },
+                    "title": "Schickeria - Pavillion"
+                },
+                {
                     "id": 1204,
                     "location": {
                         "lat": 47.726226,
@@ -398,45 +437,6 @@
                         "long": 10.312922
                     },
                     "title": "Imbissst\u00e4nde"
-                },
-                {
-                    "details": [
-                        {
-                            "objects": [
-                                {
-                                    "price": 9999,
-                                    "title": "Espresso / Cappuccino"
-                                },
-                                {
-                                    "price": 300,
-                                    "title": "Kellerbier / Ros\u00e9 Ladies Bier 0,33 l"
-                                },
-                                {
-                                    "price": 500,
-                                    "title": "Sprizz Aperol / Hugo"
-                                },
-                                {
-                                    "price": 350,
-                                    "title": "Lugana (Bulgarini) 0,1 l"
-                                },
-                                {
-                                    "price": 450,
-                                    "title": "Special Drink Laser"
-                                },
-                                {
-                                    "price": 9999,
-                                    "title": "Pizza"
-                                }
-                            ],
-                            "title": "Speise- und Getr\u00e4nkekarte"
-                        }
-                    ],
-                    "id": 1208,
-                    "location": {
-                        "lat": 47.725721,
-                        "long": 10.312268
-                    },
-                    "title": "Schickeria - Pavillion"
                 }
             ],
             "title": "Essen und Trinken"
@@ -2253,7 +2253,7 @@
                                     "title_2": ""
                                 }
                             ],
-                            "title": "Aussteller"
+                            "title": "Handwerker-Forum"
                         }
                     ],
                     "id": 1105,
@@ -2790,7 +2790,7 @@
                                     "title_2": ""
                                 }
                             ],
-                            "title": "Aussteller"
+                            "title": "Glas und Stahl"
                         }
                     ],
                     "id": 1107,
@@ -4255,7 +4255,7 @@
                                     "title_2": ""
                                 }
                             ],
-                            "title": "Aussteller"
+                            "title": "Wald. Vielfalt ohne Ende"
                         }
                     ],
                     "id": 1114,
@@ -4334,7 +4334,7 @@
                                     "title_2": ""
                                 }
                             ],
-                            "title": "Aussteller"
+                            "title": "Natur-Gesetze"
                         }
                     ],
                     "id": 1115,
@@ -4749,7 +4749,7 @@
                                     "title_2": "distribution GmbH"
                                 }
                             ],
-                            "title": "Aussteller"
+                            "title": "Freizeit und Tourismus"
                         }
                     ],
                     "id": 1116,
