@@ -5753,10 +5753,168 @@
                     ],
                     "id": 1121,
                     "location": {
-                        "lat": 47.726388,
-                        "long": 10.310403
+                        "lat": 47.726378,
+                        "long": 10.310184
                     },
                     "title": "Freigel\u00e4nde Schulhof 2"
+                },
+                {
+                    "details": [
+                        {
+                            "objects": [
+                                {
+                                    "address_city": "Brigachtal",
+                                    "address_phone": "07721/22078",
+                                    "address_street": "Gewerbestra\u00dfe 11",
+                                    "address_zip": 78086,
+                                    "booth": 1,
+                                    "email_address": "info@schmidt-fassadenbau.de",
+                                    "hall": "FS\u00dc",
+                                    "title": "Alfred Schmidt GmbH",
+                                    "web": "www.schmidt-fassadenbau.de"
+                                },
+                                {
+                                    "address_city": "D\u00fcsseldorf",
+                                    "address_phone": "0211/23806-0",
+                                    "address_street": "Heerdter Lohweg 53-55",
+                                    "address_zip": 40549,
+                                    "booth": 9,
+                                    "email_address": "info@axflow.de",
+                                    "hall": "FS\u00dc",
+                                    "title": "Axflow GmbH",
+                                    "web": "www.axflow.de"
+                                },
+                                {
+                                    "address_city": "Hangen-Weisheim",
+                                    "address_phone": "06735/452",
+                                    "address_street": "Obergasse 9",
+                                    "address_zip": 55234,
+                                    "booth": 7,
+                                    "email_address": "",
+                                    "hall": "FS\u00dc",
+                                    "title": "Beiler Ralf -Distribution-",
+                                    "web": ""
+                                },
+                                {
+                                    "address_city": "Tacherting",
+                                    "address_phone": "0033/388597555",
+                                    "address_street": "Alt\u00f6ttinger Stra\u00dfe 43",
+                                    "address_zip": 83342,
+                                    "booth": 4,
+                                    "email_address": "info@biostein.com",
+                                    "hall": "FS\u00dc",
+                                    "title": "Biostein Vertriebs GmbH",
+                                    "web": "www.biostein.com"
+                                },
+                                {
+                                    "address_city": "Kempten (Allg\u00e4u)",
+                                    "address_phone": "0831/5909584",
+                                    "address_street": "Anni-Staehlinstra\u00dfe 2",
+                                    "address_zip": 87437,
+                                    "booth": 5,
+                                    "email_address": "bprestel@t-online.de",
+                                    "hall": "FS\u00dc",
+                                    "title": "Bullenschluck Manufaktur",
+                                    "web": ""
+                                },
+                                {
+                                    "address_city": "Bertoldshofen",
+                                    "address_phone": "08342/41813",
+                                    "address_street": "Enzianstra\u00dfe 6",
+                                    "address_zip": 87616,
+                                    "booth": 11,
+                                    "email_address": "Peter.Nuscheler@t-online.de",
+                                    "hall": "FS\u00dc",
+                                    "title": "Fassadenbau Nuscheler",
+                                    "web": "www.nuscheler-fassaden.de"
+                                },
+                                {
+                                    "address_city": "Wiggensbach",
+                                    "address_phone": "08370/1585",
+                                    "address_street": "Blenderweg 4",
+                                    "address_zip": 87487,
+                                    "booth": 6,
+                                    "email_address": "stiefenhofer.anton@t-online.de",
+                                    "hall": "FS\u00dc",
+                                    "title": "Imkerverein Kempten e.V.",
+                                    "web": "www.imker-kempten.de"
+                                },
+                                {
+                                    "address_city": "K\u00f6ningsbach-Stein",
+                                    "address_phone": "07232/4001-10",
+                                    "address_street": "Remchingerstra\u00dfe 4",
+                                    "address_zip": 75203,
+                                    "booth": 10,
+                                    "email_address": "info@kaindl.de",
+                                    "hall": "FS\u00dc",
+                                    "title": "Kaindl Reiling GmbH",
+                                    "web": "www.kaindl.de"
+                                },
+                                {
+                                    "address_city": "Bergheim",
+                                    "address_phone": "02271/754767",
+                                    "address_street": "Alte Landstr. 162",
+                                    "address_zip": 50129,
+                                    "booth": 3,
+                                    "email_address": "info@leatcare.de",
+                                    "hall": "FS\u00dc",
+                                    "title": "Leathercare Ocklenburg",
+                                    "web": "www.leatcare.de"
+                                },
+                                {
+                                    "address_city": "Windelsbach",
+                                    "address_phone": "09867/708",
+                                    "address_street": "Am Hohlgraben 1",
+                                    "address_zip": 91635,
+                                    "booth": 13,
+                                    "email_address": "kraeuterhaus.lorch@t-online.de",
+                                    "hall": "FS\u00dc",
+                                    "title": "Lorch Angelika",
+                                    "web": "www.anglo-gesund.de"
+                                },
+                                {
+                                    "address_city": "H\u00f6chst\u00e4dt/Donau in Bayern",
+                                    "address_phone": "09074/4279003",
+                                    "address_street": "An der Mauer 6",
+                                    "address_zip": 89420,
+                                    "booth": 12,
+                                    "email_address": "holz_bautenschutz.netscher@yahoo.de",
+                                    "hall": "FS\u00dc",
+                                    "title": "Netscher Willy",
+                                    "web": "www.bautenschutz-netscher.de"
+                                },
+                                {
+                                    "address_city": "Neuburg a.d. Kammel",
+                                    "address_phone": "08283/9995-25",
+                                    "address_street": "Josef-Weilbach-Stra\u00dfe 2",
+                                    "address_zip": 86476,
+                                    "booth": 2,
+                                    "email_address": "frodl@reitmaier-balkone.de",
+                                    "hall": "FS\u00dc",
+                                    "title": "Reitmaier Balkon GmbH",
+                                    "web": "www.reitmaier-balkone.de"
+                                },
+                                {
+                                    "address_city": "Elztal",
+                                    "address_phone": "06261/893989",
+                                    "address_street": "Untere Augartenstra\u00dfe 7",
+                                    "address_zip": 74834,
+                                    "booth": 8,
+                                    "email_address": "info@weha-wassertechnik.de",
+                                    "hall": "FS\u00dc",
+                                    "title": "WEHA Wassertechnik",
+                                    "web": "www.weha-wassertechnik.de"
+                                }
+                            ],
+                            "title": "Aussteller"
+                        }
+                    ],
+                    "id": 1122,
+                    "location": {
+                        "lat": 47.725757,
+                        "long": 10.309867
+                    },
+                    "title": "Freigel\u00e4nde Schulhof \u00fcberdacht"
                 }
             ],
             "title": "Messehallen"
