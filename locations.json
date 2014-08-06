@@ -5364,6 +5364,219 @@
                         "long": 10.311567
                     },
                     "title": "Freigel\u00e4nde um Halle 10"
+                },
+                {
+                    "details": [
+                        {
+                            "objects": [
+                                {
+                                    "address_city": "Immenstadt",
+                                    "address_phone": "08320/480",
+                                    "address_street": "Diepolz 1",
+                                    "address_zip": 87509,
+                                    "booth": 15,
+                                    "email_address": "info@bergkaeserei-diepolz.de",
+                                    "hall": "FS1",
+                                    "title": "Bergk\u00e4serei Diepolz eG",
+                                    "web": "www.bergkaeserei-diepolz.de"
+                                },
+                                {
+                                    "address_city": "Flintsbach am Inn",
+                                    "address_phone": "08034/9096900",
+                                    "address_street": "Am Grie\u00dfenbach 6",
+                                    "address_zip": 83126,
+                                    "booth": 18,
+                                    "email_address": "mgoschel@boumaticrobotics.com",
+                                    "hall": "FS1",
+                                    "title": "Boumatic Robotics",
+                                    "web": "www.boumaticrobotics.de"
+                                },
+                                {
+                                    "address_city": "Friedrichshafen",
+                                    "address_phone": "07546/917615",
+                                    "address_street": "Alt-Eggenweiler 11",
+                                    "address_zip": 88048,
+                                    "booth": 3,
+                                    "email_address": "info@brielmaier.com",
+                                    "hall": "FS1",
+                                    "title": "Brielmaier",
+                                    "web": "brielmaier.com"
+                                },
+                                {
+                                    "address_city": "Bodelsberg",
+                                    "address_phone": "08376/8440",
+                                    "address_street": "Schulweg 6",
+                                    "address_zip": 87471,
+                                    "booth": 1,
+                                    "email_address": "franz@franz-dengel.de",
+                                    "hall": "FS1",
+                                    "title": "Dengel Franz",
+                                    "web": "www.franz-dengel.de"
+                                },
+                                {
+                                    "address_city": "M\u00fcnchen",
+                                    "address_phone": "089/12705-1",
+                                    "address_street": "Lothstra\u00dfe 29",
+                                    "address_zip": 80797,
+                                    "booth": 17,
+                                    "email_address": "dlv.muenchen@dlv.de",
+                                    "hall": "FS1",
+                                    "title": "dlv Deutscher",
+                                    "web": "www.dlv.de"
+                                },
+                                {
+                                    "address_city": "Reichholzried",
+                                    "address_phone": "08374/8463",
+                                    "address_street": "Richolfstra\u00dfe 18",
+                                    "address_zip": 87463,
+                                    "booth": 12,
+                                    "email_address": "konrad.geiss@t-online.de",
+                                    "hall": "FS1",
+                                    "title": "Geiss Konrad",
+                                    "web": "www.geiss-hoftechnik.de"
+                                },
+                                {
+                                    "address_city": "Krumbach",
+                                    "address_phone": "08282/995336",
+                                    "address_street": "Burgmahd 9a",
+                                    "address_zip": 86381,
+                                    "booth": 9,
+                                    "email_address": "fischer-we@t-online.de",
+                                    "hall": "FS1",
+                                    "title": "GUNTAMATIC",
+                                    "web": "www.guntamatic.com"
+                                },
+                                {
+                                    "address_city": "Unterthingau",
+                                    "address_phone": "08377/974380",
+                                    "address_street": "Poststra\u00dfe 9",
+                                    "address_zip": 87647,
+                                    "booth": 4,
+                                    "email_address": "info@lueftlmaler-mack.de",
+                                    "hall": "FS1",
+                                    "title": "L\u00fcftlmaler Mack",
+                                    "web": "www.lueftlmaler-mack.de"
+                                },
+                                {
+                                    "address_city": "Legau",
+                                    "address_phone": "08330/911449",
+                                    "address_street": "Pfarrpfr\u00fcnde 1",
+                                    "address_zip": 87764,
+                                    "booth": 14,
+                                    "email_address": "info@lumo-legau.de",
+                                    "hall": "FS1",
+                                    "title": "Lumo",
+                                    "web": "www.lumo-legau.de"
+                                },
+                                {
+                                    "address_city": "Sundern-Stockum",
+                                    "address_phone": "02933/97920",
+                                    "address_street": "Rothl\u00e4nderweg 22",
+                                    "address_zip": 59846,
+                                    "booth": 13,
+                                    "email_address": "info@krengel.de",
+                                    "hall": "FS1",
+                                    "title": "Major Equipment Sichelmulcher",
+                                    "web": "www.krengel.de"
+                                },
+                                {
+                                    "address_city": "Kempten",
+                                    "address_phone": "0831/96066116",
+                                    "address_street": "Adenauerring 97",
+                                    "address_zip": 87439,
+                                    "booth": 19,
+                                    "email_address": "gmbh@mr-oa.de",
+                                    "hall": "FS1",
+                                    "title": "MR Dienstleistungs-GmbH",
+                                    "web": "www.mr-dienstleisungs-gmbh.de"
+                                },
+                                {
+                                    "address_city": "Offenburg",
+                                    "address_phone": "0781/91390",
+                                    "address_street": "Windschl\u00e4ger Str. 105 - 107",
+                                    "address_zip": 77652,
+                                    "booth": 11,
+                                    "email_address": "info@oehlermaschinen.de",
+                                    "hall": "FS1",
+                                    "title": "OEHLER",
+                                    "web": "www.oehlermaschinen.de"
+                                },
+                                {
+                                    "address_city": "Kempten",
+                                    "address_phone": "0831/5402282",
+                                    "address_street": "Im Moos 2",
+                                    "address_zip": 87435,
+                                    "booth": 10,
+                                    "email_address": "info@praeg.de",
+                                    "hall": "FS1",
+                                    "title": "Pr\u00e4g Energie GmbH &Co. KG",
+                                    "web": "www.praeg.de"
+                                },
+                                {
+                                    "address_city": "Kisslegg-Immenried",
+                                    "address_phone": "07563/8780",
+                                    "address_street": "Maria-Schlegel-Stra\u00dfe 3",
+                                    "address_zip": 88353,
+                                    "booth": 7,
+                                    "email_address": "kontakt@smb-metallbau.com",
+                                    "hall": "FS1",
+                                    "title": "Schlosserei Manfred Bader GmbH",
+                                    "web": "www.smb-metallbau.com"
+                                },
+                                {
+                                    "address_city": "Bietigheim-Bissingen",
+                                    "address_phone": "07142/66559",
+                                    "address_street": "Pleidelsheimer Stra\u00dfe 25",
+                                    "address_zip": 74321,
+                                    "booth": 2,
+                                    "email_address": "info@siedra.de",
+                                    "hall": "FS1",
+                                    "title": "Siedra-Leitern GmbH",
+                                    "web": "www.siedra.de"
+                                },
+                                {
+                                    "address_city": "Aichstetten",
+                                    "address_phone": "07565/940094",
+                                    "address_street": "Laubegg 3",
+                                    "address_zip": 88317,
+                                    "booth": 5,
+                                    "email_address": "v.mittelberger@ataman-ag.de",
+                                    "hall": "FS1",
+                                    "title": "St. Michaelshof -",
+                                    "web": "www.st-michaelshof.de"
+                                },
+                                {
+                                    "address_city": "Maitenbeth/Bayern",
+                                    "address_phone": "08072/1673",
+                                    "address_street": "Brand 4",
+                                    "address_zip": 83558,
+                                    "booth": 8,
+                                    "email_address": "tra_ba@yahoo.de",
+                                    "hall": "FS1",
+                                    "title": "Traunsteiner Vertriebs GmbH",
+                                    "web": "www.traunsteiner-stall.com"
+                                },
+                                {
+                                    "address_city": "Dietmannsried",
+                                    "address_phone": "08374/58093-10",
+                                    "address_street": "Welserstra\u00dfe 2",
+                                    "address_zip": 87463,
+                                    "booth": 6,
+                                    "email_address": "info@agrar-fachversand.com",
+                                    "hall": "FS1",
+                                    "title": "Wahl GmbH",
+                                    "web": "www.agrar-fachversand.com"
+                                }
+                            ],
+                            "title": "Aussteller"
+                        }
+                    ],
+                    "id": 1120,
+                    "location": {
+                        "lat": 47.725803,
+                        "long": 10.309561
+                    },
+                    "title": "Freigel\u00e4nde Schulhof 1"
                 }
             ],
             "title": "Messehallen"
