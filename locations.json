@@ -5577,6 +5577,186 @@
                         "long": 10.309561
                     },
                     "title": "Freigel\u00e4nde Schulhof 1"
+                },
+                {
+                    "details": [
+                        {
+                            "objects": [
+                                {
+                                    "address_city": "Memmingerberg",
+                                    "address_phone": "08331/984200-0",
+                                    "address_street": "Am Flughafen 35",
+                                    "address_zip": 87766,
+                                    "booth": 15,
+                                    "email_address": "info@allgaeu-airport.de",
+                                    "hall": "FS2",
+                                    "title": "Allg\u00e4u Airport GmbH & Co. KG",
+                                    "web": "www.allgaeu-airport.de"
+                                },
+                                {
+                                    "address_city": "Kempten (Allg\u00e4u)",
+                                    "address_phone": "0831/575373-0",
+                                    "address_street": "Allg\u00e4uer Stra\u00dfe 1",
+                                    "address_zip": 87435,
+                                    "booth": 5,
+                                    "email_address": "info@allgaeu.info",
+                                    "hall": "FS2",
+                                    "title": "Allg\u00e4u GmbH",
+                                    "web": "www.standort.allgaeu.info"
+                                },
+                                {
+                                    "address_city": "G\u00f6risried",
+                                    "address_phone": "08302/9229830",
+                                    "address_street": "Schmiedestra\u00dfe 16",
+                                    "address_zip": 87657,
+                                    "booth": 8,
+                                    "email_address": "info@allgaeuer-hoflicht.de",
+                                    "hall": "FS2",
+                                    "title": "Allg\u00e4uer Hoflicht",
+                                    "web": "www.allgaeuer-hoflicht.de"
+                                },
+                                {
+                                    "address_city": "Kempten (Allg\u00e4u)",
+                                    "address_phone": "0831/26989",
+                                    "address_street": "Lessingstra\u00dfe 68",
+                                    "address_zip": 87435,
+                                    "booth": 19,
+                                    "email_address": "",
+                                    "hall": "FS2",
+                                    "title": "Allg\u00e4uer Stallbel\u00fcftung",
+                                    "web": ""
+                                },
+                                {
+                                    "address_city": "Wildpoldsried",
+                                    "address_phone": "08304/9294300",
+                                    "address_street": "G\u00fcnzacher Stra\u00dfe 22",
+                                    "address_zip": 87499,
+                                    "booth": 11,
+                                    "email_address": "info@aquion-sued.de",
+                                    "hall": "FS2",
+                                    "title": "Aquion Aktivwasser HST GbR",
+                                    "web": "www.aquion-sued.de"
+                                },
+                                {
+                                    "address_city": "Kempten (Allg\u00e4u)",
+                                    "address_phone": "0831/564245-0",
+                                    "address_street": "Ludwigstra\u00dfe 82",
+                                    "address_zip": 87437,
+                                    "booth": 6,
+                                    "email_address": "info@berchtold-reisen.de",
+                                    "hall": "FS2",
+                                    "title": "Berchtold's Autoreisen",
+                                    "web": "www.berchtold-reisen.de"
+                                },
+                                {
+                                    "address_city": "Aitrach",
+                                    "address_phone": "07565/5190",
+                                    "address_street": "Hauptstra\u00dfe 74",
+                                    "address_zip": 88319,
+                                    "booth": 20,
+                                    "email_address": "graf-betonfertigteile@t-online.de",
+                                    "hall": "FS2",
+                                    "title": "Graf Betonfertigteile",
+                                    "web": "www.graf-betonteile.de"
+                                },
+                                {
+                                    "address_city": "Lauf/Pegnitz",
+                                    "address_phone": "09123/94280",
+                                    "address_street": "Industriestr. 6",
+                                    "address_zip": 91207,
+                                    "booth": 18,
+                                    "email_address": "gronau@heimhaus.de",
+                                    "hall": "FS2",
+                                    "title": "Heim&Haus Vertriebsgesellschaft",
+                                    "web": "www.heimhaus.de"
+                                },
+                                {
+                                    "address_city": "Memmingen",
+                                    "address_phone": "08331/4985359",
+                                    "address_street": "Kiryat-Shmona-Str. 9",
+                                    "address_zip": 87700,
+                                    "booth": 22,
+                                    "email_address": "geist@kaercher-reinigungstechnik-geist.de",
+                                    "hall": "FS2",
+                                    "title": "K\u00e4rcher Reinigungstechnik Geist",
+                                    "web": "www.kaercher-reinigungstechnik-geist.de"
+                                },
+                                {
+                                    "address_city": "Rot a.d. Rot-Zell",
+                                    "address_phone": "08395/9367-0",
+                                    "address_street": "Bei der S\u00e4gm\u00fchle 15",
+                                    "address_zip": 88430,
+                                    "booth": 1,
+                                    "email_address": "info@laemmle-holz.de",
+                                    "hall": "FS2",
+                                    "title": "L\u00e4mmle Holzverarbeitung GmbH",
+                                    "web": "www.laemmle-holz.de"
+                                },
+                                {
+                                    "address_city": "Oberg\u00fcnzburg",
+                                    "address_phone": "08372/972983",
+                                    "address_street": "Gutbrodstr. 58",
+                                    "address_zip": 87634,
+                                    "booth": 16,
+                                    "email_address": "mail@meridia-reisen.de",
+                                    "hall": "FS2",
+                                    "title": "Meridia Reisen GmbH",
+                                    "web": "www.meridia-reisen.de"
+                                },
+                                {
+                                    "address_city": "Olpe",
+                                    "address_phone": "02761/859920",
+                                    "address_street": "Olper H\u00fctte 11",
+                                    "address_zip": 57462,
+                                    "booth": 12,
+                                    "email_address": "info@ronic-deutschland.de",
+                                    "hall": "FS2",
+                                    "title": "RONIC Elektroger\u00e4te GmbH",
+                                    "web": "www.ronic-deutschland.de"
+                                },
+                                {
+                                    "address_city": "Stulln",
+                                    "address_phone": "09435/3013955",
+                                    "address_street": "Kirchgrabengasse 9",
+                                    "address_zip": 92551,
+                                    "booth": 10,
+                                    "email_address": "tonart.frank@gmx.de",
+                                    "hall": "FS2",
+                                    "title": "Tonart Frank - T\u00f6pferei",
+                                    "web": "www.tonart-frank.de"
+                                },
+                                {
+                                    "address_city": "Herdorf",
+                                    "address_phone": "02744/704",
+                                    "address_street": "Hollertszug 27",
+                                    "address_zip": 57562,
+                                    "booth": 17,
+                                    "email_address": "",
+                                    "hall": "FS2",
+                                    "title": "WAMA Walter Mauden",
+                                    "web": "www.wamadirekt.de"
+                                },
+                                {
+                                    "address_city": "Freising",
+                                    "address_phone": "08161/1720",
+                                    "address_street": "Milchstra\u00dfe 1",
+                                    "address_zip": 85367,
+                                    "booth": 4,
+                                    "email_address": "info@molkerei-weihenstephan.de",
+                                    "hall": "FS2",
+                                    "title": "Weihenstephan GmbH & Co. KG",
+                                    "web": "www.molkerei-weihenstephan.de"
+                                }
+                            ],
+                            "title": "Aussteller"
+                        }
+                    ],
+                    "id": 1121,
+                    "location": {
+                        "lat": 47.726388,
+                        "long": 10.310403
+                    },
+                    "title": "Freigel\u00e4nde Schulhof 2"
                 }
             ],
             "title": "Messehallen"
