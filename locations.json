@@ -5092,6 +5092,87 @@
                         "long": 10.313214
                     },
                     "title": "Freigel\u00e4nde"
+                },
+                {
+                    "details": [
+                        {
+                            "objects": [
+                                {
+                                    "address_city": "Legau",
+                                    "address_phone": "08330/9110-37",
+                                    "address_street": "Moos 173",
+                                    "address_zip": 87764,
+                                    "booth": 1,
+                                    "email_address": "j.r.link@t-online.de",
+                                    "hall": "FK",
+                                    "title": "Dachbeschichtungen - Link",
+                                    "web": "www.dachbeschichtungen-link.de"
+                                },
+                                {
+                                    "address_city": "Hohenaltheim",
+                                    "address_phone": "09088/480",
+                                    "address_street": "Schlossstra\u00dfe 13",
+                                    "address_zip": 86745,
+                                    "booth": 6,
+                                    "email_address": "info@goettler-spezial.de",
+                                    "hall": "FK",
+                                    "title": "G\u00f6ttler K. Spezial",
+                                    "web": "www.goettler-spezial.de"
+                                },
+                                {
+                                    "address_city": "Immenstadt-Seifen",
+                                    "address_phone": "08323/9990-36",
+                                    "address_street": "Illerstra\u00dfe 19",
+                                    "address_zip": 87509,
+                                    "booth": 3,
+                                    "email_address": "",
+                                    "hall": "FK",
+                                    "title": "Insektenschutzanlagen",
+                                    "web": "www.keinem\u00fccke.de"
+                                },
+                                {
+                                    "address_city": "Pfullendorf",
+                                    "address_phone": "07552/2602-35",
+                                    "address_street": "Kipptorstra\u00dfe 1-3",
+                                    "address_zip": 88630,
+                                    "booth": 4,
+                                    "email_address": "info@pfullendorfer.de",
+                                    "hall": "FK",
+                                    "title": "Pfullendorfer Tor-Systeme",
+                                    "web": "www.pfullendorfer.de"
+                                },
+                                {
+                                    "address_city": "Oberessendorf",
+                                    "address_phone": "07355/9310-17",
+                                    "address_street": "Enzianstra\u00dfe 14",
+                                    "address_zip": 88436,
+                                    "booth": 5,
+                                    "email_address": "info@torbau-schwaben.de",
+                                    "hall": "FK",
+                                    "title": "Torbau Schwaben GmbH",
+                                    "web": "www.torbau-schwaben.de"
+                                },
+                                {
+                                    "address_city": "Laufen",
+                                    "address_phone": "08682/8934-0",
+                                    "address_street": "Franz-Fuchs-Stra\u00dfe 13 - 17",
+                                    "address_zip": 83410,
+                                    "booth": 2,
+                                    "email_address": "info@zuwa.de",
+                                    "hall": "FK",
+                                    "title": "ZUWA - Zumpe GmbH",
+                                    "web": "www.zuwa.de"
+                                }
+                            ],
+                            "title": "Aussteller"
+                        }
+                    ],
+                    "id": 1118,
+                    "location": {
+                        "lat": 47.725244,
+                        "long": 10.311766
+                    },
+                    "title": "Freigel\u00e4nde am K\u00f6nigsplatz"
                 }
             ],
             "title": "Messehallen"
