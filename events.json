@@ -8,6 +8,7 @@
                     "description": "Die 65. Kunstausstellung im Rahmen der Allg\u00e4uer Festwoche findet vom 9. August bis 14. September 2014 im Hofgartensaal der Residenz statt. Die Stadt Kempten (Allg\u00e4u) l\u00e4dt Bildende K\u00fcnstlerinnen und K\u00fcnstler zur Teilnahme ein, die seit mindestens einem Jahr ihren Hauptwohnsitz im Allg\u00e4u haben oder im Allg\u00e4u geboren sind. Gezeigt werden k\u00f6nnen Werke der Malerei, Bildhauerei, Grafik, Installation, Fotografie und Videokunst.<br><br>Die Kunstausstellung ist im Ausstellungszeitraum t\u00e4glich von 10:00 - 18:00 Uhr ge\u00f6ffnet.",
                     "hosted_by": "Hofgartensaal der Residenz",
 					"id": 3001,
+					"image": "http://api.fewo2go.com/assets/events/kunstausstellung.png",
                     "title": "65. Kunstaustellung"
                 },
                 {
@@ -133,7 +134,7 @@
                     "title": "Georg Ringsgwandl"
                 },
                 {
-                    "description": "Ausweichtermin 13.08.",
+                    "description": "Ausweichtermin 13.08.<br><br>Am Sonntag steht das Lichterfest unter dem Motto Weltmeister, die wartenden Zuschauer werden derweil mit Zauberei des Magischen Zirkels unterhalten.",
                     "entry_date": "2014-08-10T19:00:00+02:00",
                     "hosted_by": "Stadtpark",
                     "id": 3402,
