@@ -31,10 +31,12 @@
             "id": 3200,
             "objects": [
                 {
-                    "entry_date": "2014-08-08T19:00:00+02:00",
+					"description": "Die Festwoche hat Geburtstag. Sie ist 65 und kein bisschen müde. Damit sich alle mitfreuen können, gibt es zu diesem Jubiläum am Freitag, 8. August ab 22:00 Uhr ein großes Feuerwerk auf der Burghalde. Wichtig: Von 21:00 bis ca. 22:45 Uhr ist die Burghalde an diesem Abend für Passanten gesperrt.",
+                    "hosted_by": "Burghalde",
                     "id": 3201,
-                    "start_date": "2014-08-08T20:00:00+02:00",
-                    "title": "Feuerwerk"
+					"image": "http://api.fewo2go.com/assets/events/feuerwerk.png",
+                    "start_date": "2014-08-08T22:00:00+02:00",
+                    "title": "Höhenfeuerwerk"
                 },
                 {
                     "entry_date": "2014-08-08T20:00:00+02:00",
