@@ -9,6 +9,10 @@
                         {
                             "objects": [
                                 {
+                                    "price": 880,
+                                    "title": "1/2 H\u00e4hnchen mit Semmel"
+                                },
+                                {
                                     "price": 1190,
                                     "title": "Metzgerkotelette mit Kartoffelsalat"
                                 },
@@ -41,6 +45,14 @@
                                     "title": "Brotzeitbrettl f\u00fcr 4 Personen"
                                 },
                                 {
+                                    "price": 890,
+                                    "title": "Allg\u00e4uer Wurstsalat"
+                                },
+                                {
+                                    "price": 780,
+                                    "title": "B\u00fcble Festbier Ma\u00df"
+                                },
+                                {
                                     "price": 390,
                                     "title": "B\u00fcble Festbier 0,5l"
                                 },
@@ -51,6 +63,10 @@
                                 {
                                     "price": 390,
                                     "title": "Hugo / Sprizz / Lillet 0,2l"
+                                },
+                                {
+                                    "price": 9999,
+                                    "title": "Alkoholfreie Getr\u00e4nke"
                                 }
                             ],
                             "title": "Speise- und Getr\u00e4nkekarte"
@@ -195,8 +211,24 @@
                                     "title": "Hausgemachtes Anti Pasti"
                                 },
                                 {
+                                    "price": 1190,
+                                    "title": "Gera\u0308ucherter Fischteller"
+                                },
+                                {
                                     "price": 5500,
                                     "title": "Riesenbrotzeitbrett 1 Meter"
+                                },
+                                {
+                                    "price": 1190,
+                                    "title": "Putensteak in der Knusperhu\u0308lle"
+                                },
+                                {
+                                    "price": 880,
+                                    "title": "Schupfnudeln mit Gemu\u0308sestreifen"
+                                },
+                                {
+                                    "price": 1290,
+                                    "title": "Gebratene Roastbeefstreifen"
                                 }
                             ],
                             "title": "Speise- und Getr\u00e4nkekarte"
@@ -211,6 +243,39 @@
                 },
                 {
                     "details": [
+                        {
+                            "objects": [
+                                {
+                                    "price": 790,
+                                    "title": "Z\u00f6tler Festbier-Ma\u00df"
+                                },
+                                {
+                                    "price": 790,
+                                    "title": "Engelbr\u00e4u Festbier-Radler-Ma\u00df"
+                                },
+                                {
+                                    "price": 9999,
+                                    "title": "Alkoholfreie Getr\u00e4nke"
+                                },
+                                {
+                                    "price": 1120,
+                                    "title": "Frisch gekochtes Kesselfleisch"
+                                },
+                                {
+                                    "price": 1120,
+                                    "title": "Frisch gekochte Ochsenbrust"
+                                },
+                                {
+                                    "price": 820,
+                                    "title": "Allg\u00e4uer Wurstsalat"
+                                },
+                                {
+                                    "price": 920,
+                                    "title": "1/2 Goggl mit Semmel"
+                                }
+                            ],
+                            "title": "Speise- und Getr\u00e4nkekarte"
+                        },
                         {
                             "objects": [
                                 {
