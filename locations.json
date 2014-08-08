@@ -410,8 +410,20 @@
                                     "title": "Espresso / Cappuccino"
                                 },
                                 {
+                                    "price": 250,
+                                    "title": "Aqua Minerale Krumbach 0,2 l"
+                                },
+                                {
                                     "price": 300,
-                                    "title": "Kellerbier / Ros\u00e9 Ladies Bier 0,33 l"
+                                    "title": "Kellerbier 0,33 l"
+                                },
+                                {
+                                    "price": 300,
+                                    "title": "Ros\u00e9 Ladies Bier 0,33 l"
+                                },
+                                {
+                                    "price": 300,
+                                    "title": "Radler 0,33 l"
                                 },
                                 {
                                     "price": 500,
@@ -419,11 +431,27 @@
                                 },
                                 {
                                     "price": 350,
+                                    "title": "Prosecco 0,1 l"
+                                },
+                                {
+                                    "price": 2000,
+                                    "title": "Prosecco Brut 0,75 l"
+                                },
+                                {
+                                    "price": 350,
                                     "title": "Lugana (Bulgarini) 0,1 l"
+                                },
+                                {
+                                    "price": 2500,
+                                    "title": "Lugana (Bulgarini) 0,75 l"
                                 },
                                 {
                                     "price": 450,
                                     "title": "Special Drink Laser"
+                                },
+                                {
+                                    "price": 9000,
+                                    "title": "Moet & Chandon Champagner 0,75 l"
                                 },
                                 {
                                     "price": 9999,
