@@ -71,6 +71,24 @@
                     "web": "http://www.ott-jakob.de"
                 },
                 {
+                    "address_city": "Immenstadt",
+                    "address_country": "Deutschland",
+                    "address_country_email": "mailto://info@ratrax.de",
+                    "address_country_prefix": 49,
+                    "address_fax": "+4983239898251",
+                    "address_phone": "+4983239898255",
+                    "address_street": "Sonthofener Str. 55",
+                    "address_zip": 87509,
+                    "details": "<p style=\"font-weight:bold;\">In dieser M\u00fctze ist Musik drin!</p><p>Mit BEATPACK bringt das Allg\u00e4uer Street- und Sportswearlabel RATRAX M\u00fctze und perfekten Sound unter \u201aeinen Hut\u2018.<br>Die Kopfh\u00f6rer aus dem Hause AKG sind direkt eingearbeitet \u2013 ohne st\u00f6rende B\u00fcgel und jederzeit herausnehmbar.</p><p>Die im Allg\u00e4u handgestrickten M\u00fctzen und Merino-Acryl-Beanies mit integrierten Kopfh\u00f6rern l\u00e4uten eine neue \u00c4ra des Sounderlebnisses ein. Von AKG, einem der renommiertesten Hersteller der Welt, speziell f\u00fcr BEATPACK entwickelt sind die On-Ear-Kopfh\u00f6rer mit allen g\u00e4ngigen MP3-Playern, Handys und Tablets kompatibel. Dank Fernbedienung und Freisprecheinrichtung kann man mit ihnen auch entspannt telefonieren.</p><p>Wahnsinn, was die Beiden kreativ K\u00f6pfe aus dem Allg\u00e4u in die weite Welt tragen. Kontaktiert sie direkt \u00fcber die App um mehr Infos zu erfahren, oder das Produkt zu bestellen.</p>",
+                    "image": "http://api.fewo2go.com/assets/exhibitors/ratrax_profile.png",
+                    "industry": "",
+                    "industry_written": "",
+                    "products": "",
+                    "title": "RATRAX BEATPACK",
+                    "title_2": "",
+                    "web": "http://www.ratrax.de"
+                },
+                {
                     "address_city": "Betzigau",
                     "address_country": "Deutschland",
                     "address_country_email": "mailto://info@whisky-stone.de",
@@ -87,6 +105,17 @@
                     "title": "Whisky & Stone",
                     "title_2": "",
                     "web": "http://www.whisky-stone.de"
+                },
+                {
+                    "address_city": "Kempten (Allgäu)",
+                    "address_country_email": "mailto://servus@fewo2go.com",
+                    "address_phone": "+491717363579",
+                    "address_street": "Heydecker Str. 3",
+                    "address_zip": 87435,
+                    "details": "<p style=\"font-weight:bold;\">Deine erste App zur Allgäuer Festwoche.</p><p>Gebürtig aus Mindelheim hat es den 28-jährigen Alex bereits vor acht Jahren aufgrund seines Informatik Studiums in die Hochschulstadt Kempten gezogen. In den letzten Jahren konnte er durch diverse Freelance Projekte eingehende Erfahrungen als iOS Developer sammeln. Das eine App für die fünfte Jahreszeit in Kempten, der Allgäuer Festwoche, nicht fehlen darf liegt seiner Ansicht nach auf der Hand. Das Ziel des Wahl-Kempteners ist es, "ein Produkt zu entwickeln, welches nicht nur leicht zu bedienen ist, sondern dem Besucher auch alle wichtigen Informationen rund um die Festwoche gibt". Das Ganze natürlich ohne sich großartig Gedanken über die Internetverbindung zu machen.</p><p>Alessandro, der seine Heimatstadt Kempten für die große Werbe-Welt aufgrund seiner Art-Directoren Tätigkeit in namenhaften Kreativ-Agenturen zurück lies arbeitet, lebt und tobt momentan In Hamburg. Trotz der verschiedenen Aufenthalten in Europa schlägt ein großer Teil seines Herzens nach wie vor für Kempten. Deshalb war es etwas ganz besonderes diese App gemeinsam mit einem der Besten Entwicklern in Süddeutschland zu konzipieren, gestalten und zu vermarkten.</p><p>Das Team Alex & Ale ist bei Bedarf buchbar!</p>",
+                    "image": "http://api.fewo2go.com/assets/exhibitors/fewo2go_profile.png",
+                    "title": "FeWo2Go",
+                    "web": "http://www.fewo2go.com"
                 }
             ],
             "title": "App Aussteller"
