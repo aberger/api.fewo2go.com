@@ -3,8 +3,8 @@
         {
             "buses": [
                 {
-                    "departing": "t\u00e4glich von 9:50 bis 22:15 Uhr",
-                    "destination": "Festwochengel\u00e4nde",
+                    "departing": "t\u00e4glich von 9:50 bis 22:15 Uhr, alle 20 Minuten",
+                    "destination": "Artilleriekaserne",
                     "details": [],
                     "id": 2101,
                     "location": {
@@ -12,15 +12,43 @@
                         "long": 10.313629
                     },
                     "origin": "Park & Ride Parkpl\u00e4tze",
-                    "stops": "keine",
-                    "subtitle": "9:50 - 18:20 Uhr",
-                    "title": "Pendelbus"
+                    "stops": "Residenzplatz \u2013 Artilleriekaserne \u2013 Residenzplatz",
+                    "subtitle": "9:50 - 23:00 Uhr",
+                    "title": "Pendelbus 17"
+                },
+                {
+                    "departing": "t\u00e4glich von 9:50 bis 22:15 Uhr, alle 20 Minuten",
+                    "destination": "Hochschule/Denkfabrik",
+                    "details": [],
+                    "id": 2103,
+                    "location": {
+                        "lat": 47.725842,
+                        "long": 10.313629
+                    },
+                    "origin": "Park & Ride Parkpl\u00e4tze",
+                    "stops": "Residenzplatz \u2013 Kotterner Str./Keselstr. \u2013 Hochschule/Denkfabrik \u2013 Residenzplatz",
+                    "subtitle": "9:50 - 23:00 Uhr",
+                    "title": "Pendelbus 18"
+                },
+                {
+                    "departing": "t\u00e4glich von 9:50 bis 22:15 Uhr, alle 20 Minuten",
+                    "destination": "Eisstadion",
+                    "details": [],
+                    "id": 2102,
+                    "location": {
+                        "lat": 47.725842,
+                        "long": 10.313629
+                    },
+                    "origin": "Park & Ride Parkpl\u00e4tze",
+                    "stops": "Residenzplatz \u2013 Eisstadion \u2013 Residenzplatz",
+                    "subtitle": "9:50 - 23:00 Uhr",
+                    "title": "Pendelbus 19"
                 },
                 {
                     "departing": "18:20 \u2013 19:20 \u2013 20:20 \u2013 21:20 \u2013 22:00 \u2013 22:30 \u2013 23:00",
                     "destination": "Hochschule \u2013 HBF",
                     "details": [],
-                    "id": 2102,
+                    "id": 2104,
                     "location": {
                         "lat": 47.725703,
                         "long": 10.313594
