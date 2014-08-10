@@ -63,28 +63,6 @@
             ]
         },
         {
-            "day": "2014-08-09T00:00:00+02:00",
-            "id": 3300,
-            "objects": [
-                {
-                    "description": "Das Blechbl\u00e4serensemble Abarizzo spielt bereits zum f\u00fcnften Mal in Folge die Residenzhofserenade - und erfreut sich \u00fcberaus gro\u00dfer Beliebtheit. Das Repertoire reicht von Werken aus der Renaissance und der Klassik \u00fcber romantische Musik bis hin zu Kompositionen des 20. Jahrhunderts und Arrangements aus Jazz und Swing. Die unterhaltsam und geistreich moderierten Konzerte des Ensembles sind immer wieder aufs Neue ein Erlebnis.",
-                    "entry_date": "2014-08-09T19:00:00+02:00",
-                    "hosted_by": "Residenzhof",
-                    "id": 3301,
-                    "image": "http://api.fewo2go.com/assets/events/residenzhofserenade.png",
-                    "start_date": "2014-08-09T20:00:00+02:00",
-                    "title": "Residenzhofserenade"
-                },
-                {
-                    "entry_date": "2014-08-09T20:00:00+02:00",
-                    "hosted_by": "B\u00fchne im Stadtpark",
-                    "id": 3302,
-                    "start_date": "2014-08-09T20:00:00+02:00",
-                    "title": "Prime Stone"
-                }
-            ]
-        },
-        {
             "day": "2014-08-10T00:00:00+02:00",
             "id": 3400,
             "objects": [
