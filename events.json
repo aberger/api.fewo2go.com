@@ -63,53 +63,17 @@
             ]
         },
         {
-            "day": "2014-08-10T00:00:00+02:00",
-            "id": 3400,
-            "objects": [
-                {
-                    "description": "Mehr Anerkennung in der Arbeit, die Kinder fitter in der Schule, die Frau freundlicher, der Mann ordentlicher, die Figur besser. Es k\u00f6nnte runder laufen im Leben, alles etwas mehr leuchten. Einfach \"Mehr Glanz!\" -So hei\u00dft auch sein neues Programm, welches Ringsgwandl & Band in Kempten pr\u00e4sentieren wird.<br>Seine Konzerte sind immer noch abgedrehte Vorstellungen, inzwischen aber musikalisch ausgeschlafene Programme: Ein Paradiesvogel, der immer gekonnter fliegt. (Hannoversche Allgemeine)",
-                    "entry_date": "2014-08-10T19:00:00+02:00",
-                    "hosted_by": "Residenzhof",
-                    "id": 3401,
-                    "image": "http://api.fewo2go.com/assets/events/georg_ringsgwandl.png",
-                    "start_date": "2014-08-10T20:00:00+02:00",
-                    "title": "Georg Ringsgwandl"
-                },
-                {
-                    "description": "Ausweichtermin 13.08.<br><br>Am Sonntag steht das Lichterfest unter dem Motto Weltmeister, die wartenden Zuschauer werden derweil mit Zauberei des Magischen Zirkels unterhalten.",
-                    "entry_date": "2014-08-10T19:00:00+02:00",
-                    "hosted_by": "Stadtpark",
-                    "id": 3402,
-                    "image": "http://api.fewo2go.com/assets/events/lichterfest.png",
-                    "start_date": "2014-08-10T20:00:00+02:00",
-                    "title": "Lichterfest"
-                }
-            ]
-        },
-        {
-            "day": "2014-08-11T00:00:00+02:00",
-            "id": 3500,
-            "objects": [
-                {
-                    "entry_date": "2014-08-11T19:00:00+02:00",
-                    "id": 3501,
-                    "image": "http://api.fewo2go.com/assets/events/seniorentag.png",
-                    "start_date": "2014-08-11T20:00:00+02:00",
-                    "title": "Seniorentag"
-                },
-                {
-                    "entry_date": "2014-08-11T20:00:00+02:00",
-                    "hosted_by": "B\u00fchne im Stadtpark",
-                    "id": 3502,
-                    "start_date": "2014-08-11T20:00:00+02:00",
-                    "title": "Black Bottom Skiffle Group"
-                }
-            ]
-        },
-        {
             "day": "2014-08-12T00:00:00+02:00",
             "id": 3600,
             "objects": [
+                {
+                    "description": "Viele Aussteller und die Sonderschaupartner \u00fcberraschen am Familientag die Kinder mit originellen Aktionen.",
+                    "entry_date": "2014-08-12T19:00:00+02:00",
+                    "id": 3702,
+                    "image": "http://api.fewo2go.com/assets/events/familientag.png",
+                    "start_date": "2014-08-12T20:00:00+02:00",
+                    "title": "Familientag"
+                },
                 {
                     "description": "Werner Specht geh\u00f6rt seit vielen Jahren zu einem der wichtigsten und profiliertesten Vertretern der Liedermacher-Szene im Allg\u00e4uer Raum. Mit seinem pers\u00f6nlichem Stil, seinen Texten und seiner Musikalit\u00e4t f\u00e4llt er aus dem g\u00e4ngigen Rahmen. Er ist immer am Suchen und Ver\u00e4ndern und versteht seinen musikalischen Weg als Lebensdeutung. Mit seiner Gruppe \"Westwind\", bestehend aus f\u00fcnf Musikern mit S\u00e4ngerin, bekommt seine Musik eine neue Dimension. Ihre Spielfreude geben diese Musiker in ihrer sch\u00f6nsten Form weiter, sie ist sp\u00fcrbar.",
                     "entry_date": "2014-08-12T19:00:00+02:00",
@@ -133,14 +97,6 @@
                     "image": "http://api.fewo2go.com/assets/events/filmmusik.png",
                     "start_date": "2014-08-13T20:00:00+02:00",
                     "title": "Die gro\u00dfe Nacht der Filmmusik"
-                },
-                {
-                    "description": "Viele Aussteller und die Sonderschaupartner \u00fcberraschen am Familientag die Kinder mit originellen Aktionen.",
-                    "entry_date": "2014-08-13T19:00:00+02:00",
-                    "id": 3702,
-                    "image": "http://api.fewo2go.com/assets/events/familientag.png",
-                    "start_date": "2014-08-13T20:00:00+02:00",
-                    "title": "Familientag"
                 },
                 {
                     "entry_date": "2014-08-13T20:00:00+02:00",
