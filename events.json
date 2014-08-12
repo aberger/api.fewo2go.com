@@ -151,6 +151,14 @@
                     "title": "9. Allg\u00e4uer Benefizlauf"
                 },
                 {
+                    "description": "<p>Radio Galaxy - nur die beste neue Musik<br>GALAXY-NEWCOMER 2014! Die Stars von morgen auf der Allg\u00e4uer Festwoche!</p><p>Radio Galaxy Kempten pr\u00e4sentiert die GALAXY-NEWCOMER 2014!</p><p>ACTS</p><p>- 12:30 Uhr BrassBrutal - Benningen<br>- 13:00 Uhr Cardi - Oberstdorf<br>- 13.30 Uhr Showact: PEANUTS<br>- 14:15 Uhr Behind the Sun - Kempten<br>- 14:45 Uhr Shade\u00b3 (SDP-Live Crew) - Oberallg\u00e4u<br>- 15:15 Uhr Ragg\u00e4u - Kempten<br>- 15:45 Uhr Nicole Hudek - Kempten<br>- 16:15 Uhr Showact: Deaf Ignorance<br>- 17:00 Uhr GEWINNER GALAXY-NEWCOMER 2014<br></p>",
+					"hosted_by": "Stadtpark",
+                    "id": 3904,
+                    "image": "http://api.fewo2go.com/assets/events/galaxy.png",
+                    "start_date": "2014-08-15T12:30:00+02:00",
+                    "title": "Radio Galaxy Newcomer 2014"
+                },
+                {
                     "description": "Den traditionellen Ausklang der Festwochenkultur 2014 \u00fcbernimmt am Freitag der Musikverein Sankt Mang im Rahmen eines Gemeinschaftskonzertes mit dem Musikverein Konzenberg. Der Eintritt ist bei diesem Konzert frei, um Spenden wird gebeten.",
                     "entry_date": "2014-08-15T18:00:00+02:00",
                     "hosted_by": "Residenzhof",
