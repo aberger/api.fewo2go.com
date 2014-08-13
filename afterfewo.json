@@ -1,24 +1,6 @@
 {
     "afterfewo": [
         {
-            "day": "2014-08-12T00:00:00+02:00",
-            "id": 4600,
-            "objects": [
-                {
-                    "description": "Ab 23 Uhr geht\u2019s los bis open end\u2026<br><br>Eintritt 3,00 \u20ac<br><br>Musik von DJ Andi\u2026",
-                    "hosted_by": "New-Lobby",
-                    "id": 4601,
-                    "image": "http://api.fewo2go.com/assets/afterfewo/lobby.png",
-                    "location": {
-                        "lat": 47.728555,
-                        "long": 10.31035
-                    },
-                    "start_date": "2014-08-12T23:00:00+02:00",
-                    "title": "Afterparty"
-                }
-            ]
-        },
-        {
             "day": "2014-08-13T00:00:00+02:00",
             "id": 4700,
             "objects": [

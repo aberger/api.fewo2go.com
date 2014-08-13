@@ -63,29 +63,6 @@
             ]
         },
         {
-            "day": "2014-08-12T00:00:00+02:00",
-            "id": 3600,
-            "objects": [
-                {
-                    "description": "Viele Aussteller und die Sonderschaupartner \u00fcberraschen am Familientag die Kinder mit originellen Aktionen.",
-                    "entry_date": "2014-08-12T19:00:00+02:00",
-                    "id": 3702,
-                    "image": "http://api.fewo2go.com/assets/events/familientag.png",
-                    "start_date": "2014-08-12T20:00:00+02:00",
-                    "title": "Familientag"
-                },
-                {
-                    "description": "Werner Specht geh\u00f6rt seit vielen Jahren zu einem der wichtigsten und profiliertesten Vertretern der Liedermacher-Szene im Allg\u00e4uer Raum. Mit seinem pers\u00f6nlichem Stil, seinen Texten und seiner Musikalit\u00e4t f\u00e4llt er aus dem g\u00e4ngigen Rahmen. Er ist immer am Suchen und Ver\u00e4ndern und versteht seinen musikalischen Weg als Lebensdeutung. Mit seiner Gruppe \"Westwind\", bestehend aus f\u00fcnf Musikern mit S\u00e4ngerin, bekommt seine Musik eine neue Dimension. Ihre Spielfreude geben diese Musiker in ihrer sch\u00f6nsten Form weiter, sie ist sp\u00fcrbar.",
-                    "entry_date": "2014-08-12T19:00:00+02:00",
-                    "hosted_by": "Residenzhof",
-                    "id": 3601,
-                    "image": "http://api.fewo2go.com/assets/events/westwind.png",
-                    "start_date": "2014-08-12T20:00:00+02:00",
-                    "title": "Westwind"
-                }
-            ]
-        },
-        {
             "day": "2014-08-13T00:00:00+02:00",
             "id": 3700,
             "objects": [
