@@ -63,35 +63,6 @@
             ]
         },
         {
-            "day": "2014-08-13T00:00:00+02:00",
-            "id": 3700,
-            "objects": [
-                {
-                    "description": "Weltraumschlachten, Verfolgungsjagden oder Liebesszenen - ohne Musik sind sie auf der Leinwand kaum denkbar. Nach dem Motto Spiel mir das Lied zum Film pr\u00e4sentiert eine Gruppe Allg\u00e4uer K\u00fcnstler unter der Gesamtleitung der Sopranistin Gertrud Hiemer-Haslach einen Abend mit den gr\u00f6\u00dften Musiktiteln der Filmgeschichte. Die Bandbreite reicht von Marlene-Dietrich-Klassikern (Kinder, heut Abend) \u00fcber 80er-Jahre-Tanzfilme (Dirty Dancing) und aktuellen Songs wie Skyfall bis hin zu Instrumentaltiteln aus Der mit dem Wolf tanzt oder Twighlight.<br>Au\u00dferdem mit dabei: Pianist Reinhold Ohmayer (Voice 4U), Jazz-S\u00e4ngerin Lydia Schiller, Matthias Haslach (stellv. Solotrompeter der Stuttgarter Philharmoniker), Tom Cro\u00e8l (Voice  4U, Face & Voicerience), Roland Wintergerst (Freilichtb\u00fcghne Altusried, U50-Chor Altusried & Musical-Corporation)",
-                    "entry_date": "2014-08-13T19:00:00+02:00",
-                    "hosted_by": "Residenzhof",
-                    "id": 3701,
-                    "image": "http://api.fewo2go.com/assets/events/filmmusik.png",
-                    "start_date": "2014-08-13T20:00:00+02:00",
-                    "title": "Die gro\u00dfe Nacht der Filmmusik"
-                },
-                {
-                    "entry_date": "2014-08-13T20:00:00+02:00",
-                    "hosted_by": "B\u00fchne im Stadtpark",
-                    "id": 3703,
-                    "start_date": "2014-08-13T20:00:00+02:00",
-                    "title": "K\u00e4s & Roll"
-                },
-                {
-                    "end_date": "2014-08-13T18:45:00+02:00",
-                    "hosted_by": "B\u00fchne im Stadtpark",
-                    "id": 3704,
-                    "start_date": "2014-08-13T18:00:00+02:00",
-                    "title": "Tanzshow Tanzschule Stiltanz"
-                }
-            ]
-        },
-        {
             "day": "2014-08-14T00:00:00+02:00",
             "id": 3800,
             "objects": [
