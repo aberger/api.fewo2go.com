@@ -74,22 +74,6 @@
                         {
                             "objects": [
                                 {
-                                    "start_date": "2014-08-09T11:00:00+02:00",
-                                    "title": "Fr\u00fchschoppen"
-                                },
-                                {
-                                    "start_date": "2014-08-10T11:00:00+02:00",
-                                    "title": "Fr\u00fchschoppen"
-                                },
-                                {
-                                    "start_date": "2014-08-11T11:00:00+02:00",
-                                    "title": "Mit Hubert Weber"
-                                },
-                                {
-                                    "start_date": "2014-08-15T11:00:00+02:00",
-                                    "title": "Mit den B\u00e4rlauch Buaba"
-                                },
-                                {
                                     "start_date": "2014-08-16T11:00:00+02:00",
                                     "title": "Fr\u00fchschoppen"
                                 },
@@ -102,38 +86,6 @@
                         },
                         {
                             "objects": [
-                                {
-                                    "start_date": "2014-08-08T19:00:00+02:00",
-                                    "title": "Die HuNis"
-                                },
-                                {
-                                    "start_date": "2014-08-09T15:00:00+02:00",
-                                    "title": "Die Buddha Brezn"
-                                },
-                                {
-                                    "start_date": "2014-08-10T19:00:00+02:00",
-                                    "title": "Die Lamas"
-                                },
-                                {
-                                    "start_date": "2014-08-11T19:00:00+02:00",
-                                    "title": "Extreme"
-                                },
-                                {
-                                    "start_date": "2014-08-12T19:00:00+02:00",
-                                    "title": "Oberallg\u00e4u Musikanten"
-                                },
-                                {
-                                    "start_date": "2014-08-13T11:00:00+02:00",
-                                    "title": "Die Buddha Brezn"
-                                },
-                                {
-                                    "start_date": "2014-08-14T11:00:00+02:00",
-                                    "title": "Die Buddha Brezn"
-                                },
-                                {
-                                    "start_date": "2014-08-15T19:00:00+02:00",
-                                    "title": "Die Lamas"
-                                },
                                 {
                                     "start_date": "2014-08-16T19:00:00+02:00",
                                     "title": "Extreme"
@@ -282,94 +234,6 @@
                         },
                         {
                             "objects": [
-                                {
-                                    "start_date": "2014-08-08T19:00:00+02:00",
-                                    "title": "Steirische Showband M\u00fcrztaler"
-                                },
-                                {
-                                    "start_date": "2014-08-09T11:00:00+02:00",
-                                    "title": "Musikkapelle Rettenberg"
-                                },
-                                {
-                                    "start_date": "2014-08-09T15:00:00+02:00",
-                                    "title": "Musikkapelle Kempten"
-                                },
-                                {
-                                    "start_date": "2014-08-09T19:00:00+02:00",
-                                    "title": "Musikkapelle Betzigau"
-                                },
-                                {
-                                    "start_date": "2014-08-10T11:00:00+02:00",
-                                    "title": "Stadtkapelle Kempten"
-                                },
-                                {
-                                    "start_date": "2014-08-10T15:00:00+02:00",
-                                    "title": "Stadtkapelle Kempten"
-                                },
-                                {
-                                    "start_date": "2014-08-10T19:00:00+02:00",
-                                    "title": "Musikverein Sulzberg"
-                                },
-                                {
-                                    "start_date": "2014-08-11T11:00:00+02:00",
-                                    "title": "Stadtkapelle Kempten"
-                                },
-                                {
-                                    "start_date": "2014-08-11T15:00:00+02:00",
-                                    "title": "Stadtkapelle Kempten"
-                                },
-                                {
-                                    "start_date": "2014-08-11T19:00:00+02:00",
-                                    "title": "Bad Gr\u00f6nenbacher Musikanten"
-                                },
-                                {
-                                    "start_date": "2014-08-12T11:00:00+02:00",
-                                    "title": "Stadtkapelle Kempten"
-                                },
-                                {
-                                    "start_date": "2014-08-12T15:00:00+02:00",
-                                    "title": "Stadtkapelle Kempten"
-                                },
-                                {
-                                    "start_date": "2014-08-12T19:00:00+02:00",
-                                    "title": "Musikkapelle Thalkirchdorf"
-                                },
-                                {
-                                    "start_date": "2014-08-13T11:00:00+02:00",
-                                    "title": "Musikverein G\u00fcnzach"
-                                },
-                                {
-                                    "start_date": "2014-08-13T15:00:00+02:00",
-                                    "title": "Musikverein Altusried"
-                                },
-                                {
-                                    "start_date": "2014-08-13T19:00:00+02:00",
-                                    "title": "Musikverein Westerheim"
-                                },
-                                {
-                                    "start_date": "2014-08-14T11:00:00+02:00",
-                                    "title": "Musikverein Hochgreut"
-                                },
-                                {
-                                    "start_date": "2014-08-14T15:00:00+02:00",
-                                    "title": "Musikverein Heiligkreus"
-                                },
-                                {
-                                    "start_date": "2014-08-14T19:00:00+02:00",
-                                    "title": "Musikverein Buchenberg"
-                                },
-                                {
-                                    "start_date": "2014-08-15T11:00:00+02:00",
-                                    "title": "Musikverein Sontheim"
-                                },
-                                {
-                                    "start_date": "2014-08-15T15:00:00+02:00",
-                                    "title": "Musikverein Krugzell"
-                                },
-                                {
-                                    "start_date": "2014-08-15T19:00:00+02:00",
-                                    "title": "Musikverein Hawangen"
-                                },
                                 {
                                     "start_date": "2014-08-16T11:00:00+02:00",
                                     "title": "Musikverein Reichholzried"
